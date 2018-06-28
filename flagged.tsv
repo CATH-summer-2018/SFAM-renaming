@@ -1,0 +1,65 @@
+# CATH_ID	NAME	COMMENT
+1.10.8.300	putative atpase (yp_676785.1)	U
+1.10.10.710	PSPTO_1197 like	U
+1.10.40.50	Probable gtpase engc; domain 3	S
+1.10.60.10	Iron dependent repressor, metal binding and dimerisation domain	F
+1.10.110.10	Plant lipid-transfer and hydrophobic proteins	F
+1.10.150.20	5' to 3' exonuclease, C-terminal subdomain	F
+1.10.150.170	Putative methyltransferase TM0872, insert domain	S
+1.10.150.240	Putative phosphatase; domain 2	S
+1.10.1200.80	Putative flavin oxidoreducatase; domain 2	S
+1.10.3060.10	Helical scaffold and wing domains of SecA	F
+1.10.3100.10	Putative cytoplasmic protein	S
+1.10.3400.10	af_2093 domain like	U
+1.10.3470.10	ABC transporter involved in vitamin B12 uptake, BtuC	F
+1.10.3600.10	Putative bacterial toxin ydaT	S
+1.10.3670.10	Putative xylanase like domain	S
+1.10.3940.10	AF_0924 domain	U
+1.20.5.1000	arf6 gtpase in complex with a specific effector, jip4 	F
+1.20.5.1070	Head and neck region of the ectodomain of NDV fusion glycoprotein	F
+1.20.58.180	Class II aaRS and biotin synthetases; domain 2	F
+1.20.58.290	Hypothetical membrane protein ta0354_69_121.	U
+1.20.58.400	t-snare proteins 	F
+1.20.120.560	alix/aip1 in complex with the ypdl late domain 	F
+1.20.930.10	Conserved domain common to transcription factors TFIIS, elongin A, CRSP70	F
+1.20.1530.10	Na+/H+ antiporter like domain	P
+1.20.1590.10	YP_001051499.1 domain like	U
+1.20.1600.10	Outer membrane efflux proteins (OEP) 	F
+1.25.40.300	Putative secreted effector protein	S
+2.10.280.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1	F
+2.20.200.10	Outer membrane efflux proteins (OEP)	F
+2.30.30.350	mobile metagenome of vibrio cholerae. Integron cassette protein vch_cass4.	U
+2.40.10.210	Phage tail proteins (gpFII-like)	F
+2.40.10.220	predicted glycosyltransferase like domains	S
+2.40.10.230	Probable tRNA pseudouridine synthase domain	S
+2.60.40.1690	Head and neck region of the ectodomain of NDV fusion glycoprotein	F
+2.60.40.1740	hypothetical protein (bacova_03559)	U
+2.60.120.620	q2cbj1_9rhob like domain	U
+2.60.200.30	Probable inorganic polyphosphate/atp-NAD kinase; domain 2	S
+2.160.30.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2	F
+2.170.210.10	DNA double-strand break repair and VJ recombination XRCC4, N-terminal	F
+3.10.20.320	Putative peptidoglycan bound protein (lpxtg motif)	S
+3.30.30.80	probable RNA-binding protein from clostridium symbiosum atcc 14940	S
+3.30.56.50	Putative DNA-binding domain, N-terminal subdomain of bacterial translation initiation factor IF2	S
+3.30.70.1060	Dimeric alpha+beta barrel	P
+3.30.70.1090	Dimeric alpha+beta barrel.	P
+3.30.70.1130	EIF_2_alpha	U
+3.30.70.1420	Structure from the mobile metagenome of cole harbour salt marsh: integron cassette protein hfx_cass1	U
+3.30.70.1450	Regulator of K+ conductance, C-terminal domain	P
+3.30.160.180	Putative neuraminyllactose-binding hemagglutinin homolog like domain	S
+3.30.300.110	Met-10+ protein-like domains	P
+3.30.980.20	Putative mannosyl-3-phosphoglycerate phosphatase; domain 2	S
+3.30.1330.80	Hypothetical protein, similar to alpha- acetolactate decarboxylase; domain 2	F
+3.30.1360.120	Probable tRNA modification gtpase trme; domain 1	S
+3.30.2090.10	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains 	F
+3.40.50.10330	Probable inorganic polyphosphate/atp-NAD kinase; domain 1	S
+3.40.50.10480	Probable brix-domain ribosomal biogenesis protein	S
+3.40.50.10840	Putative sugar-binding, N-terminal domain	S
+3.40.970.30	yp_829618.1 like domains	U
+3.40.1680.10	yp_829618.1 domain like	U
+3.40.1690.10	secretion proteins EscU	F
+3.50.30.50	Putative cyclase	S
+3.80.30.20	tm_1862 like domain	U
+3.90.820.10	Structural Genomics, Unknown Function 30-nov-00 1gh9 Mol_id	U
+4.10.720.10	Smad anchor for receptor activation, Smad-binding domain	F
+4.10.970.10	Ku70, bridge and pillars	F
