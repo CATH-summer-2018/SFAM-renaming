@@ -10,16 +10,20 @@
 1.10.1200.80	Putative flavin oxidoreducatase; domain 2	S
 1.10.3060.10	Helical scaffold and wing domains of SecA	F
 1.10.3100.10	Putative cytoplasmic protein	S
+1.10.3190.10	yfbu gene product, domain 2	W
 1.10.3400.10	af_2093 domain like	U
 1.10.3470.10	ABC transporter involved in vitamin B12 uptake, BtuC	F
 1.10.3600.10	Putative bacterial toxin ydaT	S
 1.10.3670.10	Putative xylanase like domain	S
 1.10.3940.10	AF_0924 domain	U
+1.20.5.960	Bacteriophage t4 gene product 9 (gp9)	W
 1.20.5.1000	arf6 gtpase in complex with a specific effector, jip4 	F
 1.20.5.1070	Head and neck region of the ectodomain of NDV fusion glycoprotein	F
 1.20.58.180	Class II aaRS and biotin synthetases; domain 2	F
+1.20.58.220	Phosphate transport system protein phou homolog 2; domain 2	W
 1.20.58.290	Hypothetical membrane protein ta0354_69_121.	U
 1.20.58.400	t-snare proteins 	F
+1.20.120.510	mg296 homolog like	W
 1.20.120.560	alix/aip1 in complex with the ypdl late domain 	F
 1.20.930.10	Conserved domain common to transcription factors TFIIS, elongin A, CRSP70	F
 1.20.1530.10	Na+/H+ antiporter like domain	P
@@ -39,6 +43,7 @@
 2.160.30.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2	F
 2.170.210.10	DNA double-strand break repair and VJ recombination XRCC4, N-terminal	F
 3.10.20.320	Putative peptidoglycan bound protein (lpxtg motif)	S
+3.10.570.10	sex pheromone staph- cam373 precursor domain	W
 3.30.30.80	probable RNA-binding protein from clostridium symbiosum atcc 14940	S
 3.30.56.50	Putative DNA-binding domain, N-terminal subdomain of bacterial translation initiation factor IF2	S
 3.30.70.1060	Dimeric alpha+beta barrel	P
@@ -46,7 +51,7 @@
 3.30.70.1130	EIF_2_alpha	U
 3.30.70.1420	Structure from the mobile metagenome of cole harbour salt marsh: integron cassette protein hfx_cass1	U
 3.30.70.1450	Regulator of K+ conductance, C-terminal domain	P
-3.30.160.180	Putative neuraminyllactose-binding hemagglutinin homolog like domain	S
+3.30.160.180	Putative neuraminyllactose-binding hemagglutinin homolog like domain	WS
 3.30.300.110	Met-10+ protein-like domains	P
 3.30.980.20	Putative mannosyl-3-phosphoglycerate phosphatase; domain 2	S
 3.30.1330.80	Hypothetical protein, similar to alpha- acetolactate decarboxylase; domain 2	F
@@ -61,5 +66,6 @@
 3.50.30.50	Putative cyclase	S
 3.80.30.20	tm_1862 like domain	U
 3.90.820.10	Structural Genomics, Unknown Function 30-nov-00 1gh9 Mol_id	U
+3.90.1470.10	thrh gene product, domain 2	W
 4.10.720.10	Smad anchor for receptor activation, Smad-binding domain	F
 4.10.970.10	Ku70, bridge and pillars	F
