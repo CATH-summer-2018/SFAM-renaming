@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
-
+import matplotlib
+import matplotlib.pyplot as plt
 class DataFrame_parser(object):
     def __init__(self, df):
         self.df = df
@@ -12,6 +13,8 @@ class DataFrame_parser(object):
         comment = pd.Series(index=ret.index, name='COMMENT', data="S")
         return ret, comment
 
+    def lowercase(self):
+        l = self.df[self.df['NAME'].str.contains(r'Protein|')]
     def lowercase_start(self): #replace lowercase start with capital
         st_lower = self.df[self.df['NAME'].str[0].str.islower()]['NAME']
         st_lower = st_lower.mask(st_lower.str.contains(r'^[m|t|r|ss|ds][R|D]NA|^cAMP', regex=True)).dropna()
@@ -31,10 +34,16 @@ class DataFrame_parser(object):
         comment = pd.Series(index=ret.index, name='COMMENT', data="C")
         return ret, comment
 
+    def whitespace(self):
+        r = self.df[self.df['NAME'].str.contains(r'\s\s+')]['NAME']
+        ret = r.str.replace(r'\s\s+', ' ')
+        comment = pd.Series(index=ret.index, name='COMMENT', data="W")
+        return ret, comment
+
     def implement_replacements(self): #combine replacements with
         ret_df = self.df[['NAME','COMMENT']]
         ret_df['NEW_NAME'] = ret_df['NAME']
-        for r, c in [self.semicolon(), self.lowercase_start(), self.other_stop(), self.trailing_stop()]:
+        for r, c in [self.semicolon(), self.lowercase_start(), self.other_stop(), self.trailing_stop(), self.whitespace()]:
             ret_df['NEW_NAME'] = r.combine_first(ret_df['NEW_NAME'])
             ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
         ret_df['COMMENT'] = ret_df["COMMENT"].str.replace("nan", '')
@@ -91,3 +100,25 @@ class DataFrame_parser(object):
             ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
         ret_df['COMMENT'] = ret_df["COMMENT"].str.replace("nan", '')
         return ret_df.replace('', np.nan, regex=True)
+
+
+def plot_pie(func, savedname=False, title=False, legend=False):
+    val = func.dropna()['COMMENT'].value_counts()
+    threshold = val.sum()/50
+    val['Else'] = val[val < threshold].sum()
+    labels = val[val>threshold].index
+    values = val[val>threshold].values
+    matplotlib.rcParams['font.size'] = 12.0
+    fig, ax = plt.subplots(figsize=(10,10))
+    ax.pie(values,
+          labels=labels,
+          startangle=90,
+          autopct='%1.1f%%')
+    handles, labels = ax.get_legend_handles_labels()
+    ax.legend(handles, [legend[a] for a in labels], bbox_to_anchor=(1, 1),
+           bbox_transform=plt.gcf().transFigure)
+    if title:
+        plt.title(title)
+    if savedname:
+        plt.savefig(savedname, bbox_inches='tight')
+    plt.show()
