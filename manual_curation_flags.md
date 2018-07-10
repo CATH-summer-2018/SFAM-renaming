@@ -9,4 +9,9 @@
 | 2.10.70.20  | gspk-gspi-gspj complex like domains  | GspK-GspI-GspJ complex domains  |
 | 2.40.200.10  | Telomere-binding Protein Beta Subunit; Chain  | Telomere-binding protein beta subunit chain B  |
 | 2.30.110.10  | Electron Transport, Fmn-binding Protein; Chain A  | Electron Transport, FMN-binding protein, chain A  |
+| 2.30.30.300  | class i lysyl-tRNA synthetase like  | Class I lysyl-tRNA synthetase like  |
+| 2.30.250.10  | Aminopeptidase i, Domain 2  | Aminopeptidase I, Domain 2  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 |   |   |   |

@@ -72,8 +72,8 @@ def plot_pie(func, savedname=False, title=False, legend=False):
           startangle=90,
           autopct='%1.1f%%')
     handles, labels = ax.get_legend_handles_labels()
-    ax.legend(handles, [legend[a] for a in labels], bbox_to_anchor=(1, 1),
-           bbox_transform=plt.gcf().transFigure)
+    # ax.legend(handles, [legend[a] for a in labels], bbox_to_anchor=(1, 1),
+    #        bbox_transform=plt.gcf().transFigure)
     if title:
         plt.title(title)
     if savedname:
@@ -111,8 +111,14 @@ def other_stop(df): #replace other dots with commas
     return ret, comment
 
 
+def ii_to_II(df):
+    ret = df[df.NAME.str.contains('ii[\W|b]')].NAME.str.replace('ii', 'II')
+    comment = pd.Series(index=ret.index, name='COMMENT', data="I")
+    return ret, comment
+
 
 def run_rename(df):
+    cocRe = re.compile
     acronRegex = re.compile(r'\w*[A-Z]\w*[A-Z]\w*|C-[T|t]erminal|N-[T|t]erminal|^[A-Z]-\w+|Hippel\-Lindau|Willebrand|Kunitz|Enterococc|^[A-Z]\W?$|^\d*[A-Z]\d*\W?$')
     ret = pd.Series()
     for sfam in df.itertuples():
@@ -128,11 +134,27 @@ def run_rename(df):
     comment = pd.Series(index=ret.index,name='COMMENT', data="R")
     return ret, comment
 
+def org_names(df):
+    ret = pd.Series()
+    cocRE = re.compile('cocc')
+    for sfam in df[df.NAME.str.contains('cocc')].itertuples():
+        l = sfam.NAME.split()
+        new_name = [l[0]]
+        for word in l[1:]:
+            if cocRE.search(word):
+                new_name.append(word[0].upper() + word[1:])
+            else:
+                new_name.append(word)
+        ret[sfam.Index] = " ".join(new_name)
+    ret = ret[ret != df[df.NAME.str.contains('cocc')].NAME]
+    comment = pd.Series(index=ret.index,name='COMMENT', data="O")
+    return ret, comment
+
 
 def implement_replacements(df):
     ret_df = df[['NAME','COMMENT']]
     ret_df['OLD_NAME'] = ret_df['NAME']
-    for f in [run_rename, semicolon, lowercase_start, other_stop, trailing_stop]:
+    for f in [run_rename, semicolon, lowercase_start, other_stop, trailing_stop, org_names, ii_to_II]:
         r, c = f(ret_df)
         ret_df['NAME'] = r.combine_first(ret_df['NAME'])
         ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
