@@ -31,3 +31,7 @@ Superfamilies that have something wrong with the name but are too complicated to
 ***
 #### [Duplicated superfamilies](./results/duplicates.tsv)
 Has a list of superfamilies with identical names. Mostly it is pairs however, there are a lot of superfamilies *named helix hairpin bin* and *single helix bin*.
+
+### Manual curation
+
+Even though automation deals with the vast majority of errors, there are still a number of issues that need to be dealt with manually. This is why the [manual curation list](./manual_curation_flags.tsv) exists. It contains suggestions for renaming that are easier done manually rather than via automation.
