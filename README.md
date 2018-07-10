@@ -8,7 +8,7 @@ This repo exists to automate the renaming of current superfamilies in CATH accor
 Using this [jupyter notebook]('./renaming.ipynb') 3 main data files were created:
 #### [Renamed superfamilies](./results/renamed_superfamilies.tsv)
 Has the easiest cases, which refer to the first part of the guidelines. Fixes errors such as trailing stops, semicolons, lowercase start (except mRNA and such) etc. Whenever a fix happens a one-letter comment is added.
-**S** - replace semicolon, **L** - lowercase start, **T** - trailing stop, **C** - other stop(except between digits).   
+**R** - removed excessive capital letters, **S** - replace semicolon, **L** - lowercase start, **T** - trailing stop, **C** - other stop(except between digits).   
 
 ![replace](./plots/replacement.png)
  ***

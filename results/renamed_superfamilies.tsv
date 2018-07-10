@@ -1,785 +1,785 @@
-# CATH_ID	NAME	COMMENT	OLD_NAME
-1.10.8.160	DNA primase S, domain 2	S	DNA primase S; domain 2
-1.10.8.190	Carbon monoxide dehydrogenase alpha subunit, chain M, domain 1	CR	Carbon monoxide dehydrogenase alpha subunit. Chain M, domain 1
-1.10.8.270	Putative rabgap domain of human tbc1 domain family member 14 like domains	L	putative rabgap domain of human tbc1 domain family member 14 like domains
-1.10.8.290	Uncharacterized protein sp1917 domain	L	uncharacterized protein sp1917 domain
-1.10.8.300	Putative atpase (yp_676785.1)	L	putative atpase (yp_676785.1)
-1.10.10.10	Winged helix-like DNA-binding domain superfamily/winged helix DNA-binding domain	R	Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain
-1.10.10.460	Ribonuclease hii, domain 2	CR	Ribonuclease hii. Domain 2
-1.10.10.470	Maltooligosyl trehalose synthase, domain 4	S	Maltooligosyl trehalose synthase; domain 4
-1.10.10.480	Phosphofructokinase, domain 3	S	Phosphofructokinase; domain 3
-1.10.10.520	Ubiquitin activating enzymes (uba3), chain: B, domain 2	CR	Ubiquitin activating enzymes (Uba3). Chain: B, domain 2
-1.10.10.530	Mam-mhc complex, chain D, domain 2	LR	mam-mhc complex, Chain D, Domain 2
-1.10.10.570	Winged helix DNA-binding domain, chain C, domain 1	CR	Winged helix DNA-binding domain. Chain C. Domain 1
-1.10.10.580	Structural maintenance of chromosome 1, chain E	CR	Structural maintenance of chromosome 1. Chain E
-1.10.10.620	Ribosome modulation factor like domain	L	ribosome modulation factor like domain
-1.10.10.640	Phospholipid-binding protein	L	phospholipid-binding protein
-1.10.10.650	RuvA domain 2-like	R	RuvA domain 2-like 
-1.10.10.660	Conserved protein of unknown function from Enterococcus faecalis V583	L	conserved protein of unknown function from Enterococcus faecalis V583
-1.10.10.670	Photosystem ii from thermosynechococcus elongatus	LR	photosystem ii from thermosynechococcus elongatus 
-1.10.10.680	Hypothetical protein VC1899 (restriction endonuclease-like)	R	Hypothetical protein VC1899 (Restriction endonuclease-like)
-1.10.10.720	Leucyl-tRNA synthetase	L	leucyl-tRNA synthetase
-1.10.10.750	Ypt/Rab-GAP domain of gyp1p	R	Ypt/Rab-GAP domain of gyp1p 
-1.10.10.760	E-set domains of sugar-utilizing enzymes	R	E-set domains of sugar-utilizing enzymes 
-1.10.12.10	Lyase 2-enoyl-coa hydratase, chain A, domain 2	R	Lyase 2-enoyl-coa Hydratase, Chain  A, domain 2
-1.10.40.40	Deoxyribonucleotidase, domain 2	S	Deoxyribonucleotidase; domain 2
-1.10.40.50	Probable gtpase engc, domain 3	S	Probable gtpase engc; domain 3
-1.10.45.10	Vanillyl-alcohol oxidase, chain A, domain 4	SR	Vanillyl-alcohol Oxidase; Chain A, domain 4
-1.10.60.20	Ribosomal protein s17e-like	R	Ribosomal protein S17e-like
-1.10.140.10	MET apo-repressor, subunit A	R	MET Apo-Repressor, subunit A
-1.10.150.50	Transcription factor, ets-1	R	Transcription Factor, Ets-1
-1.10.150.190	Translation initiation factor 2, subunit 1, domain 2	S	Translation initiation factor 2; subunit 1; domain 2
-1.10.150.200	Maltooligosyl trehalose synthase, domain 3	S	Maltooligosyl trehalose synthase; domain 3
-1.10.150.210	Phosphoserine phosphatase, domain 2	S	Phosphoserine phosphatase; domain 2
-1.10.150.240	Putative phosphatase, domain 2	S	Putative phosphatase; domain 2
-1.10.150.290	S-adenosyl-L-methionine-dependent methyltransferases	R	S-adenosyl-L-methionine-dependent methyltransferases 
-1.10.150.320	Photosystem II 12 kda extrinsic protein	R	Photosystem II 12 kDa extrinsic protein
-1.10.150.330	Zn-dependent alcohol dehydrogenase	L	zn-dependent alcohol dehydrogenase
-1.10.167.10	Regulator of G-protein signalling 4, domain 2	R	Regulator of G-protein Signalling 4, domain 2
-1.10.170.10	Bluetongue virus 10, subunit 1, domain 3	R	Bluetongue Virus 10, subunit 1, domain 3
-1.10.189.10	Pyruvate phosphate dikinase, domain 2	R	Pyruvate Phosphate Dikinase, domain 2
-1.10.220.50	Bacteriophage T4, gp59, helicase assembly protein, C-terminal domain	R	Bacteriophage T4, Gp59, helicase assembly protein, C-terminal domain
-1.10.220.70	Lyase	L	lyase
-1.10.220.100	Conserved c-terminal region of ge- 1	L	conserved c-terminal region of ge- 1
-1.10.230.10	Cytochrome p450-terp, domain 2	R	Cytochrome P450-Terp, domain 2
-1.10.238.100	YAP1 redox domain, chain B	CR	YAP1 redox domain. Chain B
-1.10.238.110	Diacylglycerol kinase alpha	T	Diacylglycerol kinase alpha.
-1.10.240.10	Tyrosyl-Transfer RNA synthetase	R	Tyrosyl-Transfer RNA Synthetase
-1.10.246.40	Tn5 transposase, domain 1	S	Tn5 transposase; domain 1
-1.10.250.10	Bluetongue virus 10, subunit 1, domain 1	R	Bluetongue Virus 10, subunit 1, domain 1
-1.10.260.40	Lambda repressor-like DNA-binding domains	L	lambda repressor-like DNA-binding domains
-1.10.274.20	Phenylalanine ammonia-lyase 1, domain 3	S	Phenylalanine ammonia-lyase 1; domain 3
-1.10.285.10	Glutamate dehydrogenase, chain A, domain 3	R	Glutamate Dehydrogenase, chain A, domain 3
-1.10.287.480	Helix hairpin bin	L	helix hairpin bin
-1.10.287.560	Histidine kinase CheA-like, homodimeric domain	R	Histidine kinase  CheA-like, homodimeric domain
-1.10.287.620	Helix hairpins	R	Helix Hairpins
-1.10.287.790	Luxt domain from vibrio parahaemolyticus	L	luxt domain from vibrio parahaemolyticus
-1.10.287.800	Protein ne1242	LR	protein ne1242 
-1.10.287.830	Putative peptidase helix hairpin domain like	L	putative peptidase helix hairpin domain like
-1.10.287.870	Acyl-CoA N-acyltransferases (nat)	R	Acyl-CoA N-acyltransferases (Nat) 
-1.10.287.910	Bacterial mercury transporter, merf	L	bacterial mercury transporter, merf
-1.10.287.920	Pheromone alpha factor receptor	T	Pheromone alpha factor receptor.
-1.10.287.940	Atp-gated p2x4 ion channel	LR	atp-gated p2x4 ion channel 
-1.10.287.970	His kinase A (phosphoacceptor) domain	R	His Kinase A (phosphoacceptor) domain
-1.10.287.980	Plastocyanin oxidoreductase	L	plastocyanin oxidoreductase
-1.10.287.1010	Clavaminate synthase-like	R	Clavaminate synthase-like 
-1.10.287.1020	NE0241-like	R	NE0241-like 
-1.10.287.1030	Nudix-associated domain	R	Nudix-associated domain 
-1.10.287.1070	Nuclear receptor coactivator, ncoa-type, interlocking domain	R	Nuclear receptor coactivator, Ncoa-type, interlocking domain
-1.10.287.1080	MazG-like	R	MazG-like 
-1.10.287.1170	Glycoside hydrolase family 81 endo-[beta] glucanase	LR	glycoside hydrolase family 81 endo-[beta] glucanase 
-1.10.288.10	Cobalamin-dependent methionine synthase, domain 2	R	Cobalamin-dependent Methionine Synthase, domain 2
-1.10.300.10	Adenylosuccinate synthetase, subunit A, domain 2	R	Adenylosuccinate Synthetase, subunit A, domain 2
-1.10.340.30	Hypothetical protein, domain 2	S	Hypothetical protein; domain 2
-1.10.357.10	Tetracycline repressor, domain 2	R	Tetracycline Repressor, domain 2
-1.10.375.10	Human immunodeficiency virus type 1 capsid protein	R	Human Immunodeficiency Virus Type 1 Capsid Protein
-1.10.390.10	Neutral protease domain 2	R	Neutral Protease Domain 2
-1.10.400.10	GI alpha 1, domain 2-like	R	GI Alpha 1, domain 2-like
-1.10.400.20	Putative tagatose 6-phosphate kinase domain like	L	putative tagatose 6-phosphate kinase domain like
-1.10.405.10	Guanine nucleotide dissociation inhibitor, domain 1	R	Guanine Nucleotide Dissociation Inhibitor, domain 1
-1.10.439.10	Penicillin amidohydrolase, domain 1	R	Penicillin Amidohydrolase, domain 1
-1.10.441.10	Phosphomannose isomerase, domain 2	R	Phosphomannose Isomerase, domain 2
-1.10.468.10	Photosynthetic reaction center, subunit C, domain 2	R	Photosynthetic Reaction Center, subunit C, domain 2
-1.10.470.10	Variant surface glycoprotein, subunit A, domain 2	R	Variant Surface Glycoprotein, subunit A, domain 2
-1.10.472.40	Hypothetical protein mg237 homolog, domain 3	S	Hypothetical protein mg237 homolog; domain 3
-1.10.472.60	Putative protein disulfide isomerase domain	L	putative protein disulfide isomerase domain
-1.10.486.10	PCRA, domain 4	S	PCRA; domain 4
-1.10.506.10	GTPase activation - p120gap, domain 1	SR	GTPase Activation - p120gap; domain 1
-1.10.533.10	Death domain, fas	R	Death Domain, Fas
-1.10.565.10	Retinoid X receptor	R	Retinoid X Receptor
-1.10.569.10	Aldehyde ferredoxin oxidoreductase protein, subunit A, domain 2	R	Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 2
-1.10.575.10	P1 nuclease	R	P1 Nuclease
-1.10.579.10	DNA cyclobutane dipyrimidine photolyase, subunit A, domain 3	R	DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3
-1.10.580.10	Citrate synthase, domain 1	R	Citrate Synthase, domain 1
-1.10.599.10	Aldehyde ferredoxin oxidoreductase protein, subunit A, domain 3	R	Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 3
-1.10.600.10	Farnesyl diphosphate synthase	R	Farnesyl Diphosphate Synthase
-1.10.601.10	RNA polymerase primary sigma factor	R	RNA Polymerase Primary Sigma Factor
-1.10.606.10	Vanadium-containing chloroperoxidase, domain 2	R	Vanadium-containing Chloroperoxidase, domain 2
-1.10.620.20	Ribonucleotide reductase, subunit A	R	Ribonucleotide Reductase, subunit A
-1.10.645.10	Cytochrome-c3 hydrogenase, chain B	R	Cytochrome-c3 Hydrogenase, chain B
-1.10.730.10	Isoleucyl-tRNA synthetase, domain 1	SR	Isoleucyl-tRNA Synthetase; Domain 1
-1.10.740.10	Transferase inhibitor protein from tn5, chain	SR	Transferase Inhibitor Protein From Tn5; Chain
-1.10.750.10	Von Hippel-Lindau disease tumour suppressor, alpha domain	L	von Hippel-Lindau disease tumour suppressor, alpha domain
-1.10.780.10	Hydroxylamine oxidoreductase, chain A, domain 1	SR	Hydroxylamine Oxidoreductase; Chain A, domain 1
-1.10.820.10	RNA helicase chain A , domain 3	R	RNA Helicase Chain A , domain 3
-1.10.860.10	DNAb helicase, chain A	SR	DNAb Helicase; Chain A
-1.10.880.10	Transcription factor, skn-1-like, DNA-binding domain	R	Transcription factor, Skn-1-like, DNA-binding domain
-1.10.930.10	Syk kinase, chain A, domain 2	SR	Syk Kinase; Chain A, domain 2
-1.10.1000.11	Arf nucleotide-binding site opener,domain 2	R	Arf Nucleotide-binding Site Opener,domain 2
-1.10.1020.10	Adenine-specific methyltransferase, domain 2	R	Adenine-specific Methyltransferase, Domain 2
-1.10.1040.10	N-(1-d-carboxylethyl)-l-norvaline dehydrogenase, domain 2	SR	N-(1-d-carboxylethyl)-l-norvaline Dehydrogenase; domain 2
-1.10.1050.10	Ribosomal protein S4 delta 41, chain A, domain 1	SR	Ribosomal Protein S4 Delta 41; Chain A, domain 1
-1.10.1080.10	Glutathione synthetase, chain A, domain 3	SR	Glutathione Synthetase; Chain A, domain 3
-1.10.1130.10	Flavocytochrome C3, chain A	SR	Flavocytochrome C3; Chain A
-1.10.1140.10	Bovine mitochondrial f1-atpase, atp synthase beta chain, chain D, domain 3	SR	Bovine Mitochondrial F1-atpase; Atp Synthase Beta Chain; Chain D, domain 3
-1.10.1160.10	Glutamyl-trna synthetase, domain 2	SR	Glutamyl-trna Synthetase; Domain 2
-1.10.1170.10	Inhibitor of apoptosis protein (2mihbC-IAP-1), chain A	SR	Inhibitor Of Apoptosis Protein (2mihbC-IAP-1); Chain A
-1.10.1200.80	Putative flavin oxidoreducatase, domain 2	S	Putative flavin oxidoreducatase; domain 2
-1.10.1200.100	Conserved protein domain from corynebacterium diphtheriae	L	conserved protein domain from corynebacterium diphtheriae
-1.10.1470.20	Fatty acid synthase, domain 2	S	Fatty acid synthase; domain 2
-1.10.1620.10	Ribosomal protein l39e	R	Ribosomal protein L39e
-1.10.1620.20	ATP synthase, F1 complex, epsilon subunit superfamily, mitochondrial	R	ATP synthase, F1 complex, epsilon  subunit superfamily, mitochondrial
-1.10.1810.10	Anti-Sigma factor A	R	Anti-Sigma Factor A
-1.10.1820.10	Protein kinase ck2 holoenzyme, chain C, domain 1	L	protein kinase ck2 holoenzyme, chain C, domain 1
-1.10.1840.10	Main proteinase (3clpro) structure, domain 3	L	main proteinase (3clpro) structure, domain 3
-1.10.1870.10	Domain 3, saccharopine reductase	R	Domain 3, Saccharopine reductase
-1.10.1900.10	C-terminal domain of poly(a) binding protein	L	c-terminal domain of poly(a) binding protein
-1.10.2020.10	Uronate isomerase, domain 2, chain A	L	uronate isomerase, domain 2, chain A
-1.10.2080.10	Insect odorant-binding protein a10/ejaculatory bulb-specific protein 3	R	Insect odorant-binding protein A10/Ejaculatory bulb-specific protein 3
-1.10.3020.10	Alpha-amino acid ester hydrolase ( helical cap domain)	LR	alpha-amino acid ester hydrolase ( Helical cap domain)
-1.10.3030.10	Gametocyte protein pfg27	R	Gametocyte protein Pfg27
-1.10.3040.10	Borna disease virus nucleoprotein, domain 1	L	borna disease virus nucleoprotein, domain 1
-1.10.3050.10	Borna disease virus nucleoprotein, domain 2	L	borna disease virus nucleoprotein, domain 2
-1.10.3090.10	Cca-adding enzyme, domain 2	L	cca-adding enzyme, domain 2
-1.10.3110.10	Protoporphyrinogen ix oxidase, domain 3	L	protoporphyrinogen ix oxidase, domain 3
-1.10.3130.10	Serine acetyltransferase, domain 1	L	serine acetyltransferase, domain 1
-1.10.3190.10	Yfbu gene product, domain 2	L	yfbu gene product, domain 2
-1.10.3250.10	Type ii restriction endonuclease, domain 1	L	type ii restriction endonuclease, domain 1
-1.10.3280.10	Siroheme synthase, domain 3	S	Siroheme synthase; domain 3
-1.10.3320.10	Pa2218 like domain	L	pa2218 like domain
-1.10.3400.10	Af_2093 domain like	L	af_2093 domain like
-1.10.3410.10	Putative deoxyguanosinetriphosphate triphosphohydrolase like domain	L	putative deoxyguanosinetriphosphate triphosphohydrolase like domain
-1.10.3420.10	Putative ntp pyrophosphohydrolase like domain	L	putative ntp pyrophosphohydrolase like domain
-1.10.3500.10	Tex N-terminal region-like	R	Tex N-terminal region-like 
-1.10.3540.10	Uncharacterized protein from magnetospirillum magneticum domain	L	uncharacterized protein from magnetospirillum magneticum domain
-1.10.3550.10	Eoxyguanosinetriphosphate triphosphohydrolase domain-like	L	eoxyguanosinetriphosphate triphosphohydrolase domain-like
-1.10.3560.10	Yst0336 like domain	L	yst0336 like domain
-1.10.3590.10	Acid-sensing ion channel 1 domain	L	acid-sensing ion channel 1 domain
-1.10.3600.10	Putative bacterial toxin ydat	R	Putative bacterial toxin ydaT
-1.10.3630.10	Yeast vps74-n-term truncation variant domain like	L	yeast vps74-n-term truncation variant domain like
-1.10.3650.10	Nitrate reductase domain like	L	nitrate reductase domain like
-1.10.3950.10	Putative ecf-type sigma factor negative effector from bacillus cereus	L	putative ecf-type sigma factor negative effector from bacillus cereus
-1.10.3990.20	Protein bp1543	L	protein bp1543
-1.10.4070.10	Putative redox-enzyme maturation protein domain	L	putative redox-enzyme maturation protein domain
-1.10.4090.10	Viral capsid, core domain supefamily, hepatitis B virus	R	Viral capsid, core domain supefamily, Hepatitis B virus
-1.10.4140.10	Effector protein (NleL)	L	effector protein (NleL)
-1.10.4150.10	SipA N-terminal domain-like	R	SipA N-terminal domain-like 
-1.20.5.320	6-Phosphogluconate dehydrogenase, domain 3	R	6-Phosphogluconate Dehydrogenase, domain 3
-1.20.5.550	Single helix bin	R	Single Helix bin
-1.20.5.560	Single heli x bin	R	Single Heli x bin
-1.20.5.580	Single helix bin	R	Single Helix bin
-1.20.5.600	Potassium channel, voltage dependent, kv1.4, tandem inactivation domain	R	Potassium channel, voltage dependent, Kv1.4, tandem inactivation domain
-1.20.5.680	Single helix bin	R	Single Helix bin
-1.20.5.740	Single helix bin	R	Single helix  bin
-1.20.5.810	AhpD-like	R	AhpD-like 
-1.20.5.830	Luxt domain from vibrio parahaemolyticus	L	luxt domain from vibrio parahaemolyticus
-1.20.5.840	Hypothetical RNA methyltransferase	LR	hypothetical RNA methyltransferase 
-1.20.5.900	Transmembrane domain of human cd4	LR	transmembrane domain of human cd4 
-1.20.5.920	Rhodobacter sphaeroides pufx membrane protein	L	rhodobacter sphaeroides pufx membrane protein
-1.20.5.950	Bacteriochlorophyll c-binding protein	L	bacteriochlorophyll c-binding protein
-1.20.5.990	Nemo cc2-lz domain - 1d5 darpin complex	R	Nemo cc2-lz domain - 1d5 darpin complex 
-1.20.5.1000	Arf6 gtpase in complex with a specific effector, jip4	LR	arf6 gtpase in complex with a specific effector, jip4 
-1.20.5.1040	Sensor protein qsec	T	Sensor protein qsec.
-1.20.5.1050	Coiled-coil dimerization domain from cortexillin I	R	Coiled-coil dimerization domain from cortexillin I 
-1.20.5.1060	Tetrabrachion	R	Tetrabrachion 
-1.20.5.1180	Geminin coiled-coil domain	R	Geminin coiled-coil domain 
-1.20.5.1190	Iswi atpase	L	iswi atpase
-1.20.5.1200	Alpha-tocopherol transfer	R	Alpha-tocopherol transfer 
-1.20.5.1230	Apolipoprotein A-I	R	Apolipoprotein A-I 
-1.20.58.180	Class II aaRS and biotin synthetases, domain 2	S	Class II aaRS and biotin synthetases; domain 2
-1.20.58.190	Translin, domain 1	S	Translin; domain 1
-1.20.58.200	Translin, domain 2	S	Translin; domain 2
-1.20.58.220	Phosphate transport system protein phou homolog 2, domain 2	S	Phosphate transport system protein phou homolog 2; domain 2
-1.20.58.240	STAT, domain 1	S	STAT; domain 1
-1.20.58.280	Hypothetical protein 1500032h18	T	Hypothetical protein 1500032h18.
-1.20.58.290	Hypothetical membrane protein ta0354_69_121	T	Hypothetical membrane protein ta0354_69_121.
-1.20.58.320	TPR-like	R	TPR-like 
-1.20.58.380	Flagellar protein flit	T	Flagellar protein flit.
-1.20.58.400	T-snare proteins	LR	t-snare proteins 
-1.20.58.440	Choline binding protein A	L	choline binding protein A
-1.20.58.460	Hyaluronidase post-catalytic domain-like	R	Hyaluronidase post-catalytic domain-like 
-1.20.82.10	ADP ribosyl cyclase, chain A, domain 1	SR	ADP Ribosyl Cyclase; Chain A, domain 1
-1.20.85.10	Photosystem II protein d1-like	R	Photosystem II protein D1-like
-1.20.89.10	Nitrogenase molybdenum-iron protein, subunit B, domain 4	R	Nitrogenase Molybdenum-iron Protein, subunit B, domain 4
-1.20.120.330	Nucleotidyltransferases domain 2	R	Nucleotidyltransferases  domain 2
-1.20.120.350	Voltage-gated potassium channels, chain C	CR	Voltage-gated potassium channels. Chain C
-1.20.120.390	Hla class ii histocompatibility antigen, dr alpha chain, chain D, domain 1	CR	Hla class ii histocompatibility antigen, dr alpha chain. Chain D, domain 1
-1.20.120.420	Translation initiation factor eif-2b, domain 1	L	translation initiation factor eif-2b, domain 1
-1.20.120.450	Dinb family like domain	L	dinb family like domain
-1.20.120.460	Protein pf1176 like	L	protein pf1176 like
-1.20.120.510	Mg296 homolog like	L	mg296 homolog like
-1.20.120.520	Nmb1532 protein domain like	L	nmb1532 protein domain like
-1.20.120.560	Alix/aip1 in complex with the ypdl late domain	LR	alix/aip1 in complex with the ypdl late domain 
-1.20.120.580	Bsu32300-like	L	bsu32300-like
-1.20.120.610	Lithium bound rotor ring of v- atpase	L	lithium bound rotor ring of v- atpase
-1.20.120.620	Backbone structure of the membrane domain of e, coli histidine kinase receptor kdpd	TCR	Backbone structure of the membrane domain of e. Coli histidine kinase receptor kdpd,
-1.20.120.660	IL-4 antagonist (de novo design) like domain	R	IL-4 antagonist (De novo design) like domain
-1.20.120.670	N-acetyl-b-d-glucoasminidase	R	N-acetyl-b-d-glucoasminidase 
-1.20.140.10	Butyryl-CoA dehydrogenase, subunit A, domain 3	R	Butyryl-CoA Dehydrogenase, subunit A, domain 3
-1.20.140.50	Alix/aip1 like domains	L	alix/aip1 like domains
-1.20.200.10	Fumarase/aspartase (central domain)	R	Fumarase/aspartase (Central domain)
-1.20.245.10	Lipoxygenase-1, domain 5	SR	Lipoxygenase-1; Domain 5
-1.20.250.10	Colicin ia, domain 1	R	Colicin Ia, domain 1
-1.20.810.10	Cytochrome bc1 complex, chain C	SR	Cytochrome Bc1 Complex; Chain C
-1.20.850.10	Hydroxylamine oxidoreductase, chain A, domain 2	SR	Hydroxylamine Oxidoreductase; Chain A, domain 2
-1.20.870.10	Son of sevenless (SoS) protein chain: S domain 1	R	Son of sevenless (SoS) protein Chain: S domain 1
-1.20.890.20	Mpn423 like domain	L	mpn423 like domain
-1.20.930.20	Adaptor protein cbl, N-terminal domain	R	Adaptor protein Cbl, N-terminal domain
-1.20.940.10	Functional domain of the splicing factor prp18	R	Functional domain of the splicing factor Prp18
-1.20.950.20	Transmembrane di-heme cytochromes, chain C	R	Transmembrane di-heme cytochromes, Chain C
-1.20.960.10	Mitochondrial outer membrane translocase complex, subunit tom20 domain	R	Mitochondrial outer membrane translocase complex, subunit Tom20 domain
-1.20.970.10	Transferase, pyrimidine nucleoside phosphorylase, chain C	SR	Transferase, Pyrimidine Nucleoside Phosphorylase; Chain C
-1.20.990.10	NADPH-cytochrome p450 reductase, chain A, domain 3	SR	NADPH-cytochrome p450 Reductase; Chain A, domain 3
-1.20.1050.40	Endopeptidase, chain P, domain 1	CSR	Endopeptidase. Chain P; domain 1
-1.20.1050.50	Particulate methane monooxygenase subunit c2, chain: C	CR	Particulate methane monooxygenase subunit c2. Chain: C
-1.20.1050.60	Alpha-1,2-mannosidase	L	alpha-1,2-mannosidase
-1.20.1060.10	Taq DNA polymerase, chain T, domain 4	SR	Taq DNA Polymerase; Chain T, domain 4
-1.20.1080.10	Glycerol uptake facilitator protein	T	Glycerol uptake facilitator protein.
-1.20.1270.150	Surface active protein	R	Surface Active Protein
-1.20.1310.10	Cullin repeats	R	Cullin Repeats
-1.20.1320.20	Hef helicase domain	L	hef helicase domain
-1.20.1330.10	F41 fragment of flagellin, N-terminal domain	L	f41 fragment of flagellin, N-terminal domain
-1.20.1340.10	Dopa decarboxylase, N-terminal domain	L	dopa decarboxylase, N-terminal domain
-1.20.1440.10	De novo design (two linked rop proteins)	L	de novo design (two linked rop proteins)
-1.20.1440.30	Biosynthetic protein domain	R	Biosynthetic Protein domain
-1.20.1440.90	Phosphoenolpyruvate/pyruvate domain	R	Phosphoenolpyruvate/pyruvate domain 
-1.20.1440.110	Acylaminoacyl peptidase	L	acylaminoacyl peptidase
-1.20.1460.10	Subunit c (vma5p) of the yeast v-atpase, domain 2	L	subunit c (vma5p) of the yeast v-atpase, domain 2
-1.20.1480.10	Hypothetical protein mp506/mpn330, domain 1	L	hypothetical protein mp506/mpn330, domain 1
-1.20.1570.10	Dip2346 domain like	L	dip2346 domain like
-1.20.1580.10	ABC transporter ATPase like domain	R	ABC transporter ATPase  like domain
-1.20.1600.10	Outer membrane efflux proteins (OEP)	R	Outer membrane efflux proteins (OEP) 
-1.20.1610.10	Alpha-1,2-mannosidases domains	L	alpha-1,2-mannosidases domains
-1.25.10.10	Leucine-rich repeat variant	R	Leucine-rich Repeat Variant
-1.25.40.250	ARM repeat, domain 1	S	ARM repeat; domain 1
-1.25.40.280	Alix/aip1 like domains	L	alix/aip1 like domains
-2.10.22.10	Antistasin, domain 1	S	Antistasin; domain 1
-2.10.25.20	Reovirus attachment protein sigma1, domain 1	LS	reovirus attachment protein sigma1; domain 1
-2.10.50.10	Tumor necrosis factor receptor, subunit A, domain 2	R	Tumor Necrosis Factor Receptor, subunit A, domain 2
-2.10.69.10	Cysteine protease (bromelain) inhibitor, subunit H	R	Cysteine Protease (Bromelain) Inhibitor, subunit H
-2.10.70.10	Complement module, domain 1	R	Complement Module, domain 1
-2.10.70.20	Gspk-gspi-gspj complex like domains	L	gspk-gspi-gspj complex like domains
-2.10.70.40	Peptidoglycan hydrolase	LR	peptidoglycan hydrolase 
-2.10.77.10	Hemagglutinin chain A, domain 2	R	Hemagglutinin Chain A, Domain 2
-2.10.109.10	Umud fragment, subunit A	R	Umud Fragment, subunit A
-2.10.110.10	Cysteine rich protein	R	Cysteine Rich Protein
-2.10.210.10	Cytochrome bc1 complex, chain I	SR	Cytochrome Bc1 Complex; Chain I
-2.10.220.10	Hormone receptor, insulin-like growth factor receptor 1, chain A, domain 2	SR	Hormone Receptor, Insulin-like Growth Factor Receptor 1; Chain A, domain 2
-2.10.270.10	Cholin binding	R	Cholin Binding
-2.10.280.10	Heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1	L	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1
-2.20.20.30	Reverse gyrase domain	LR	reverse gyrase domain 
-2.20.20.40	Integron cassette protein	R	Integron cassette protein 
-2.20.28.20	Methionyl-tRNA synthetase, zn-domain	R	Methionyl-tRNA synthetase, Zn-domain
-2.20.28.40	H/ACA ribonucleoprotein complex, subunit nop10	R	H/ACA ribonucleoprotein complex, subunit Nop10
-2.20.28.50	Degv family protein	L	degv family protein
-2.20.50.20	Lipovitellin, chain A, domain 3	CR	Lipovitellin. Chain A, domain 3
-2.20.110.10	Histone H3 k4-specific methyltransferase SET7/9 N-terminal domain	R	Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain
-2.20.150.10	Putative 5-dehydro-2- deoxygluconokinase	L	putative 5-dehydro-2- deoxygluconokinase
-2.20.160.10	Titin domain like	L	titin domain like
-2.20.170.10	P120GAP domain-like	L	p120GAP domain-like
-2.20.180.10	Putative fmn-dependent nitroreductase like domains	L	putative fmn-dependent nitroreductase like domains
-2.20.210.10	Ubp-family deubiquitinating enzyme superfamily	L	ubp-family deubiquitinating enzyme superfamily
-2.20.220.10	Alpha-Amylases	L	alpha-Amylases
-2.20.230.10	Resuscitation-promoting factor rpfb	T	Resuscitation-promoting factor rpfb.
-2.30.26.10	Dihydroorotate dehydrogenase A, chain A, domain 2	R	Dihydroorotate Dehydrogenase A, chain A, domain 2
-2.30.27.10	Phage FD coat protein,membrane penetration domain	R	Phage FD Coat Protein,Membrane penetration domain
-2.30.29.30	Pleckstrin-homology domain (PH domain)/phosphotyrosine-binding domain (PTB)	R	Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)
-2.30.29.40	PH domain-like, domain 1	S	PH domain-like; domain 1
-2.30.29.50	Bacterial pleckstrin homology domain	R	Bacterial Pleckstrin homology domain
-2.30.30.40	SH3 domains	R	SH3 Domains
-2.30.30.130	Transposase, mu, C-terminal	R	Transposase, Mu, C-terminal
-2.30.30.190	CAP gly-rich-like domain	R	CAP Gly-rich-like domain
-2.30.30.290	YopX-like domains	R	YopX-like domains 
-2.30.30.300	Class i lysyl-tRNA synthetase like	L	class i lysyl-tRNA synthetase like
-2.30.30.350	Mobile metagenome of vibrio cholerae. integron cassette protein vch_cass4	TLR	mobile metagenome of vibrio cholerae. Integron cassette protein vch_cass4.
-2.30.30.380	Zn-finger domain of sec23/24	R	Zn-finger domain of Sec23/24
-2.30.30.410	Cell wall targeting domain of glycylglycine endopeptidase	R	Cell wall targeting domain of glycylglycine endopeptidase 
-2.30.30.420	Glucansucrase	LR	glucansucrase 
-2.30.31.10	Transcriptional coactivator pc4, chain A	SR	Transcriptional Coactivator Pc4; Chain A
-2.30.36.70	Actin, chain A, domain 2	SR	Actin; Chain A, domain 2
-2.30.38.10	Luciferase, domain 3	SR	Luciferase; Domain 3
-2.30.90.10	Heparin-binding growth factor, midkine, chain A- C-terminal domain	SR	Heparin-binding Growth Factor, Midkine; Chain A- C-terminal Domain
-2.30.110.10	Electron transport, fmn-binding protein, chain A	SR	Electron Transport, Fmn-binding Protein; Chain A
-2.30.130.30	Hypothetical protein	T	Hypothetical protein.
-2.30.170.30	Ethanolamine ammonia-lyase heavy chain domain like	L	ethanolamine ammonia-lyase heavy chain domain like
-2.30.170.40	Ribosomal protein l28/l24	R	Ribosomal protein L28/L24
-2.30.220.10	F41 fragment of flagellin, C-terminal domain	L	f41 fragment of flagellin, C-terminal domain
-2.30.230.10	Lipovitellin, beta-sheet shell regions, chain A	S	Lipovitellin; beta-sheet shell regions, chain A
-2.30.250.10	Aminopeptidase i, domain 2	R	Aminopeptidase i, Domain 2
-2.30.260.10	Putative xylanase like domain	L	putative xylanase like domain
-2.30.270.10	Duf1285 protein	LR	duf1285 protein 
-2.30.310.10	Ibrinogen binding protein from staphylococcus aureus domain	L	ibrinogen binding protein from staphylococcus aureus domain
-2.40.10.190	Translation elongation factor selb, chain A, domain 4	L	translation elongation factor selb, chain A, domain 4
-2.40.10.200	STY4665 C-terminal domain-like	R	STY4665 C-terminal domain-like 
-2.40.10.220	Predicted glycosyltransferase like domains	L	predicted glycosyltransferase like domains
-2.40.20.10	Plasminogen kringle 4	R	Plasminogen Kringle 4
-2.40.37.10	Lyase, ornithine decarboxylase, chain A, domain 1	SR	Lyase, Ornithine Decarboxylase; Chain A, domain 1
-2.40.50.170	Cysteine proteinases, chain C	CR	Cysteine proteinases. Chain C
-2.40.50.180	CheA-289, domain 4	R	CheA-289, Domain 4
-2.40.50.250	Bipa protein	L	bipa protein
-2.40.50.270	Transglycosylase MltA	LR	transglycosylase MltA 
-2.40.70.10	Acid proteases	R	Acid Proteases
-2.40.110.10	Butyryl-CoA dehydrogenase, subunit A, domain 2	R	Butyryl-CoA Dehydrogenase, subunit A, domain 2
-2.40.160.40	Monomeric porin ompg	LR	monomeric porin ompg 
-2.40.160.50	Membrane protein fhac: a member of the omp85/tpsb transporter family	LR	membrane protein fhac: a member of the omp85/tpsb transporter family 
-2.40.160.60	Outer membrane protein transport protein (OMPP1/FadL/TodX)	R	Outer membrane protein transport protein (OMPP1/FadL/TodX) 
-2.40.160.70	Outer membrane protein from thermus thermophilus HB27	TLR	outer membrane protein from Thermus thermophilus HB27.
-2.40.200.10	Telomere-binding protein beta subunit, chain	SR	Telomere-binding Protein Beta Subunit; Chain
-2.40.220.10	Intramolecular trans-sialidase, domain 3	SR	Intramolecular Trans-sialidase; Domain 3
-2.40.230.20	Nucleoside-specific channel-forming protein, tsx-like	R	Nucleoside-specific channel-forming protein, Tsx-like
-2.40.240.10	Ribosomal protein L25, chain P	SR	Ribosomal Protein L25; Chain P
-2.40.240.20	Hypothetical PUA domain-like, domain 1	S	Hypothetical PUA domain-like; domain 1
-2.40.310.10	Beta-Barrel protease inhibitors	L	beta-Barrel protease inhibitors
-2.40.320.10	Hypothetical protein pfu-838710-001	R	Hypothetical Protein Pfu-838710-001
-2.40.410.10	Putative membrane protein from corynebacterium diphtheriae superfamily	LR	putative membrane protein from Corynebacterium diphtheriae superfamily
-2.40.420.10	Conserved putative lor/sdh protein from methanococcus maripaludis s2 domain	L	conserved putative lor/sdh protein from methanococcus maripaludis s2 domain
-2.40.470.10	Catalase hpii domain	L	catalase hpii domain
-2.40.480.10	Allene oxide cyclase-like	R	Allene oxide cyclase-like 
-2.60.11.10	Cytochrome c oxidase, subunit vb	R	Cytochrome c oxidase, subunit Vb
-2.60.34.10	Substrate binding domain of DNAk, chain A, domain 1	SR	Substrate Binding Domain Of DNAk; Chain A, domain 1
-2.60.40.420	Cupredoxins - blue copper proteins	R	Cupredoxins -  blue copper proteins
-2.60.40.780	Von Hippel-Lindau disease tumour suppressor, beta domain	LR	von Hippel-Lindau disease tumour suppressor,  beta domain
-2.60.40.1140	Collagen-binding surface protein cna, B-type domain	R	Collagen-binding surface protein Cna, B-type domain
-2.60.40.1260	Lamin tail domain	R	Lamin Tail domain
-2.60.40.1380	E set domains, domain 4	S	E set domains; domain 4
-2.60.40.1410	Bacterial adhesins - f17c-type	R	Bacterial adhesins - F17c-type
-2.60.40.1460	Integrin domains, chain A, domain 2	CR	Integrin domains. Chain A, domain 2
-2.60.40.1500	Glycosyl hydrolase domain, family 39	S	Glycosyl hydrolase domain; family 39
-2.60.40.1510	Ntegrin, alpha v, chain A, domain 3	CLR	ntegrin, alpha v. Chain A, domain 3
-2.60.40.1530	Ntegrin, alpha v, chain A, domain 4	CLR	ntegrin, alpha v. Chain A, domain 4
-2.60.40.1580	Particulate methane monooxygenase, b subunit, chain: A, domain 3	CR	Particulate methane monooxygenase, b subunit. Chain: A, domain 3
-2.60.40.1630	Bacillus anthracis domain	L	bacillus anthracis domain
-2.60.40.1640	Conserved domain protein	T	Conserved domain protein.
-2.60.40.1650	Porin MspA (ig-like beta-sandwich domain)	R	Porin MspA (Ig-like beta-sandwich domain)
-2.60.40.1660	Na, k-atpase alpha subunit	TR	Na, k-atpase alpha subunit. 
-2.60.40.1670	Beta-sandwich domain of sec23/24	LR	beta-sandwich domain of Sec23/24
-2.60.40.1730	Tricorn interacting facor f3 domain	L	tricorn interacting facor f3 domain
-2.60.40.1740	Hypothetical protein (bacova_03559)	L	hypothetical protein (bacova_03559)
-2.60.40.1760	Glycosyl hydrolase (family 31)	L	glycosyl hydrolase (family 31)
-2.60.40.1770	Ephrin a2 ectodomain	L	ephrin a2 ectodomain
-2.60.60.30	Sav2460 like domains	L	sav2460 like domains
-2.60.98.10	Tick-borne encephalitis virus glycoprotein, domain 1	R	Tick-borne Encephalitis virus Glycoprotein, domain 1
-2.60.120.10	Jelly rolls	R	Jelly Rolls
-2.60.120.330	B-lactam antibiotic, isopenicillin N synthase, chain	SR	B-lactam Antibiotic, Isopenicillin N Synthase; Chain
-2.60.120.420	Membrane penetration protein mu1, chain B, domain 4	R	Membrane penetration protein mu1, Chain B, domain 4
-2.60.120.510	Mitogen ypm	R	Mitogen Ypm
-2.60.120.520	Pectin degrading enzyme 5-keto 4- deoxyuronate isomerase, domain 1	L	pectin degrading enzyme 5-keto 4- deoxyuronate isomerase, domain 1
-2.60.120.550	Penton protein, domain 1	S	Penton protein; domain 1
-2.60.120.560	Exo-inulinase, domain 1	S	Exo-inulinase; domain 1
-2.60.120.570	Particulate methane monooxygenase, b subunit, chain: A, domain 1	CR	Particulate methane monooxygenase, b subunit. Chain: A, domain 1
-2.60.120.610	Arabinofuranosyltransferase like domain	L	arabinofuranosyltransferase like domain
-2.60.120.620	Q2cbj1_9rhob like domain	L	q2cbj1_9rhob like domain
-2.60.120.630	Mth639 domain like	L	mth639 domain like
-2.60.120.640	Gp9	LR	gp9 
-2.60.120.660	Icosahedral virus	L	icosahedral virus
-2.60.120.670	Minor capsid protein	T	Minor capsid protein.
-2.60.175.20	Major capsid L1 (late) superfamily, papillomavirus	R	Major capsid L1 (late) superfamily, Papillomavirus
-2.60.200.30	Probable inorganic polyphosphate/atp-NAD kinase, domain 2	S	Probable inorganic polyphosphate/atp-NAD kinase; domain 2
-2.60.210.10	Apoptosis, tumor necrosis factor receptor associated protein 2, chain A	SR	Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A
-2.60.220.20	Putative beta-galactosidase from caulobacter crescentus	LR	putative beta-Galactosidase from caulobacter crescentus 
-2.60.260.40	Q5lls5 like domains	L	q5lls5 like domains
-2.60.330.10	Receptor-binding protein prd1-p2, domain 2	L	receptor-binding protein prd1-p2, domain 2
-2.60.340.10	Baseplate structural protein gp8, domain 1	L	baseplate structural protein gp8, domain 1
-2.60.460.10	Protein yfey like domain	L	protein yfey like domain
-2.60.480.10	Eubacterium ventriosum atcc domain	L	eubacterium ventriosum atcc domain
-2.60.490.10	Atp-gated p2x4 ion channel domain	L	atp-gated p2x4 ion channel domain
-2.60.500.10	Surface active protein domain	R	Surface Active Protein domain
-2.60.510.10	EV matrix protein	R	EV matrix protein 
-2.70.9.10	Adenovirus type 2 hexon, domain 4	R	Adenovirus Type 2 Hexon, domain 4
-2.70.9.20	Major capsid protein vp54	R	Major capsid protein Vp54
-2.70.10.10	Thrombin inhibitor (hirudin), subunit I	R	Thrombin Inhibitor (Hirudin), subunit I
-2.70.50.30	Coagulation factor XIII, subunit A, domain 1	R	Coagulation Factor XIII, subunit A, domain 1
-2.70.50.50	Chitin-binding protein cbp21	L	chitin-binding protein cbp21
-2.70.50.60	Abc- transporter (atp binding component) like domain	L	abc- transporter (atp binding component) like domain
-2.70.70.10	Glucose permease (domain IIA)	R	Glucose Permease (Domain IIA)
-2.70.98.30	Golgi alpha-mannosidase II, domain 4	S	Golgi alpha-mannosidase II; domain 4
-2.70.98.50	Putative glycoside hydrolase family protein from bacillus halodurans	L	putative glycoside hydrolase family protein from bacillus halodurans
-2.70.98.60	Alpha-galactosidase from lactobacil brevis	L	alpha-galactosidase from lactobacil brevis
-2.70.250.10	Receptor-binding protein prd1-p2, domain 3	L	receptor-binding protein prd1-p2, domain 3
-2.102.10.10	Rieske [2fe-2s] iron-sulphur domain	R	Rieske [2Fe-2S] iron-sulphur domain
-2.102.30.10	Tm1086 (SG structure) domain	L	tm1086 (SG structure) domain
-2.115.10.20	Glycosyl hydrolase domain, family 43	S	Glycosyl hydrolase domain; family 43
-2.130.10.10	YVTN repeat-like/quinoprotein amine dehydrogenase	R	YVTN repeat-like/Quinoprotein amine dehydrogenase 
-2.130.10.120	Prolyl oligopeptidase, N-terminal domain	R	Prolyl oligopeptidase, N-terminal domain 
-2.160.20.10	Single-stranded right-handed beta-helix, pectin lyase-like	R	Single-stranded right-handed beta-helix, Pectin lyase-like
-2.160.20.80	E3 ubiquitin-protein ligase SopA	R	E3 ubiquitin-protein ligase SopA 
-2.160.30.10	Heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2	L	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2
-2.170.8.10	Phosphoenolpyruvate carboxykinase, domain 2	R	Phosphoenolpyruvate Carboxykinase, domain 2
-2.170.9.10	Adenovirus type 2 hexon, domain 1	R	Adenovirus Type 2 Hexon, domain 1
-2.170.11.10	DNA topoisomerase I, domain 2	R	DNA Topoisomerase I, domain 2
-2.170.16.10	Hedgehog/Intein (hint) domain	R	Hedgehog/Intein (Hint) domain
-2.170.40.20	Human immunodeficiency virus 1, gp160, envelope glycoprotein	R	Human immunodeficiency virus 1, Gp160, envelope glycoprotein
-2.170.150.10	Metal binding protein, guanine nucleotide exchange factor, chain A	SR	Metal Binding Protein, Guanine Nucleotide Exchange Factor; Chain A
-2.170.150.20	Peptide methionine sulfoxide reductase	T	Peptide methionine sulfoxide reductase.
-2.170.160.10	Endo-1,4-beta-glucanase f, domain 2	CR	Endo-1,4-beta-glucanase f.  Domain 2
-2.170.190.11	Molybdopterin biosynthesis moea protein, domain 3	T	Molybdopterin biosynthesis moea protein, domain 3.
-2.170.260.10	Paz domain	L	paz domain
-2.170.280.10	F41 fragment of flagellin, middle domain	L	f41 fragment of flagellin, middle domain
-2.170.290.10	Baseplate structural protein gp8, domain 2	L	baseplate structural protein gp8, domain 2
-3.10.10.10	HIV type 1 reverse transcriptase, subunit A, domain 1	R	HIV Type 1 Reverse Transcriptase, subunit A, domain 1
-3.10.20.90	Phosphatidylinositol 3-kinase catalytic subunit, chain A, domain 1	SR	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1
-3.10.20.300	Mk0293 like domain	L	mk0293 like domain
-3.10.20.310	Membrane protein fhac	L	membrane protein fhac
-3.10.100.10	Mannose-Binding protein A, subunit A	R	Mannose-Binding Protein A, subunit A
-3.10.105.10	Dipeptide-binding protein, domain 3	SR	Dipeptide-binding Protein; Domain 3
-3.10.110.10	Ubiquitin conjugating enzyme	R	Ubiquitin Conjugating Enzyme
-3.10.129.10	Hotdog thioesterase	R	Hotdog Thioesterase 
-3.10.150.10	DNA polymerase III, subunit A, domain 2	R	DNA Polymerase III, subunit A, domain 2
-3.10.180.10	2,3-Dihydroxybiphenyl 1,2-dioxygenase, domain 1	R	2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1
-3.10.180.20	N-Acetylglucosaminyltransferase I, domain 2	R	N-Acetylglucosaminyltransferase I, Domain 2
-3.10.196.10	Vitamin b12-dependent methionine synthase, activation domain	R	Vitamin B12-dependent methionine synthase, activation domain
-3.10.270.10	Urate oxidase	TSR	Urate Oxidase;
-3.10.290.20	Ubiquitin-like 2 activating enzyme e1b, chain: B, domain 3	CR	Ubiquitin-like 2 activating enzyme e1b. Chain:  B, domain 3
-3.10.310.10	Diaminopimelate epimerase, chain A, domain 1	SR	Diaminopimelate Epimerase; Chain A, domain 1
-3.10.320.10	Class II histocompatibility antigen, M beta chain, chain B, domain 1	SR	Class II Histocompatibility Antigen, M Beta Chain; Chain B, domain 1
-3.10.340.11	Methenyltetrahydromethanopterin cyclohydrolase, chain A, domain 1	SR	Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 1
-3.10.360.10	Antimicrobial peptide, beta-defensin 2, chain A	SR	Antimicrobial Peptide, Beta-defensin 2; Chain A
-3.10.380.10	Colicin e3-like ribonuclease domain	R	Colicin E3-like ribonuclease domain
-3.10.450.100	NTF2-like, domain 1	S	NTF2-like; domain 1
-3.10.450.120	Pre-PUA domain, domain 1	S	Pre-PUA domain; domain 1
-3.10.450.130	Folded 79 residue fragment of lin0334 like domains	L	folded 79 residue fragment of lin0334 like domains
-3.10.450.140	DsDNA mimic, putative	L	dsDNA mimic, putative
-3.10.450.150	Enterococcus faecalis protein	L	enterococcus faecalis protein
-3.10.450.160	Inner membrane protein cigr	L	inner membrane protein cigr
-3.10.450.170	Type vi secretion system effector-immunity co pseudomonas protegens	L	type vi secretion system effector-immunity co pseudomonas protegens
-3.10.540.10	Duf1285 like domain	L	duf1285 like domain
-3.10.550.10	Hypothetical protein atu2299	R	Hypothetical protein Atu2299
-3.10.570.10	Sex pheromone staph- cam373 precursor domain	L	sex pheromone staph- cam373 precursor domain
-3.10.590.10	Ph1033 like domains	L	ph1033 like domains
-3.10.600.10	Pyruvate carboxylase f1077a mutant domain	L	pyruvate carboxylase f1077a mutant domain
-3.10.610.10	GSPII i/j protein-like	R	GSPII I/J protein-like
-3.10.630.10	Dip2346 domain like	L	dip2346 domain like
-3.10.650.10	MalF N-terminal region-like	R	MalF N-terminal region-like 
-3.10.660.10	DPH zinc finger	R	DPH Zinc finger
-3.10.670.10	Secreted effector protein ssei	T	Secreted effector protein ssei.
-3.15.10.10	Bactericidal permeability-increasing protein, domain 1	S	Bactericidal permeability-increasing protein; domain 1
-3.15.20.10	Bactericidal permeability-increasing protein, domain 2	S	Bactericidal permeability-increasing protein; domain 2
-3.15.30.10	Putative capsid protein of prophage domain like	L	putative capsid protein of prophage domain like
-3.20.10.10	D-amino acid aminotransferase, subunit A, domain 2	R	D-amino Acid Aminotransferase, subunit A, domain 2
-3.20.90.10	Tubby protein, chain A	SR	Tubby Protein; Chain A
-3.20.100.10	mRNA triphosphatase cet1-like	R	mRNA triphosphatase Cet1-like
-3.20.140.10	Nicotinate phosphoribosyltransferase	L	nicotinate phosphoribosyltransferase
-3.20.160.10	Vpa0580 domain like	L	vpa0580 domain like
-3.30.9.10	D-Amino acid oxidase, subunit A, domain 2	R	D-Amino Acid Oxidase, subunit A, domain 2
-3.30.10.10	Trypsin inhibitor V, subunit A	R	Trypsin Inhibitor V, subunit A
-3.30.30.80	Probable RNA-binding protein from clostridium symbiosum atcc 14940	L	probable RNA-binding protein from clostridium symbiosum atcc 14940
-3.30.40.20	Chymotrypsin-like serine protease, domain 3	S	Chymotrypsin-like serine protease; domain 3
-3.30.43.10	Uridine diphospho-n-acetylenolpyruvylglucosamine reductase, domain 2	R	Uridine Diphospho-n-acetylenolpyruvylglucosamine Reductase, domain 2
-3.30.44.10	Smk toxin, beta chain	R	Smk Toxin, beta chain
-3.30.50.10	Erythroid transcription factor GATA-1, subunit A	R	Erythroid Transcription Factor GATA-1, subunit A
-3.30.50.20	Prophage-derive protein ybco	LR	prophage-derive protein ybcO
-3.30.60.50	Hypothetical oxidoreductase yiak, domain 3	S	Hypothetical oxidoreductase yiak; domain 3
-3.30.62.10	Nef regulatory factor	R	Nef Regulatory Factor
-3.30.63.10	Guanylate kinase phosphate binding domain	R	Guanylate Kinase phosphate binding domain
-3.30.65.10	Bacterial topoisomerase I, domain 1	R	Bacterial Topoisomerase I, domain 1
-3.30.67.10	Viral envelope glycoprotein, domain 2	R	Viral Envelope Glycoprotein, domain 2
-3.30.70.390	Epstein barr virus nuclear antigen-1, DNA-binding domain	R	Epstein Barr virus nuclear antigen-1, DNA-binding domain
-3.30.70.870	Elongation factor G (translational gtpase), domain 3	R	Elongation Factor G (Translational Gtpase), domain 3
-3.30.70.1020	Trehalose-6-phosphate phosphatase related protein, domain 2	S	Trehalose-6-phosphate phosphatase related protein; domain 2
-3.30.70.1030	Apc35880, domain 1	S	Apc35880; domain 1
-3.30.70.1090	Dimeric alpha+beta barrel	T	Dimeric alpha+beta barrel.
-3.30.70.1100	Apc35880, domain 2	S	Apc35880; domain 2
-3.30.70.1140	Phospho-2-dehydro-3-deoxyheptonate aldolase, domain 1	S	Phospho-2-dehydro-3-deoxyheptonate aldolase; domain 1
-3.30.70.1150	ACT-like, chain A, domain 2	CR	ACT-like. Chain A, domain 2
-3.30.70.1170	Sun protein, domain 3	S	Sun protein; domain 3
-3.30.70.1180	Vacuolar atp synthase subunit c, domain 1	S	Vacuolar atp synthase subunit c; domain 1
-3.30.70.1200	Crispr-associated protein, domain 1	S	Crispr-associated protein; domain 1
-3.30.70.1210	Crispr-associated protein, domain 2	S	Crispr-associated protein; domain 2
-3.30.70.1260	Bacterial protein sp0830 like	L	bacterial protein sp0830 like
-3.30.70.1360	Mj0159-like	L	mj0159-like
-3.30.70.1390	ROC domain from the parkinson's disease-associated leucine-rich repeat kinase 2	R	ROC domain from the Parkinson's disease-associated leucine-rich repeat kinase 2
-3.30.70.1410	Yhjk (haloacid dehalogenase-like hydrolase protein) domain	L	yhjk (haloacid dehalogenase-like hydrolase protein) domain
-3.30.70.1470	Caspase-like	R	Caspase-like 
-3.30.70.1490	Cysteine protease prp	R	Cysteine protease Prp
-3.30.70.1560	Alpha-L RNA-binding motif	R	Alpha-L RNA-binding motif 
-3.30.110.70	Hypothetical protein apc22750, chain B	CR	Hypothetical protein apc22750. Chain B
-3.30.160.60	Classic zinc finger	R	Classic Zinc Finger
-3.30.160.80	Amb V allergen	R	Amb V Allergen
-3.30.160.110	Siroheme synthase, domain 2	S	Siroheme synthase; domain 2
-3.30.160.130	Ykff protein like domains	L	ykff protein like domains
-3.30.160.190	Atu1810 like domain	L	atu1810 like domain
-3.30.200.20	Phosphorylase kinase, domain 1	SR	Phosphorylase Kinase; domain 1
-3.30.230.20	Lpxc deacetylase, domain 1	L	lpxc deacetylase, domain 1
-3.30.230.40	Imidazole glycerol phosphate dehydratase, domain 1	S	Imidazole glycerol phosphate dehydratase; domain 1
-3.30.230.70	GHMP kinase, N-terminal domain	R	GHMP Kinase, N-terminal domain
-3.30.240.10	CRO repressor	R	CRO Repressor
-3.30.240.20	Bsu07140 like domains	L	bsu07140 like domains
-3.30.300.80	FLP recombinase, lambda integrase-like, N-terminal domain (domain 1)	R	FLP Recombinase,  lambda integrase-like, N-terminal domain (domain 1)
-3.30.305.10	Colicin ia, domain 2	SR	Colicin Ia; domain 2
-3.30.310.10	TATA-Binding protein	R	TATA-Binding Protein
-3.30.310.140	Sec7 domains	L	sec7 domains
-3.30.342.10	DNA polymerase, chain B, domain 1	R	DNA Polymerase, chain B, domain 1
-3.30.360.10	Dihydrodipicolinate reductase, domain 2	SR	Dihydrodipicolinate Reductase; domain 2
-3.30.360.30	Homospermidine synthase like	L	homospermidine synthase like
-3.30.380.10	MS2 viral coat protein	R	MS2 Viral Coat Protein
-3.30.387.10	Viral envelope glycoprotein, domain 3	R	Viral Envelope Glycoprotein, domain 3
-3.30.390.60	Heat-inducible transcription repressor hrca homolog, domain 3	S	Heat-inducible transcription repressor hrca homolog; domain 3
-3.30.410.10	Cholesterol oxidase, domain 2	SR	Cholesterol Oxidase; domain 2
-3.30.413.10	Sulfite reductase hemoprotein, domain 1	R	Sulfite Reductase Hemoprotein, domain 1
-3.30.420.10	Ribonuclease H-like superfamily/ribonuclease H	R	Ribonuclease H-like superfamily/Ribonuclease H
-3.30.420.150	Exopolyphosphatase, domain 2	CR	Exopolyphosphatase. Domain 2
-3.30.420.190	Conserved archaeal protein q6m145	L	conserved archaeal protein q6m145
-3.30.428.30	HIT family - CDH-like	R	HIT family -  CDH-like
-3.30.429.10	Macrophage migration inhibitory factor	R	Macrophage Migration Inhibitory Factor
-3.30.430.10	Killer toxin P4, subunit A	R	Killer Toxin P4, subunit A
-3.30.450.130	Irre protein	L	irre protein
-3.30.460.10	Beta polymerase, domain 2	R	Beta Polymerase, domain 2
-3.30.479.20	Elongation factor ts, dimerisation domain	R	Elongation factor Ts, dimerisation domain
-3.30.519.10	Guanine nucleotide dissociation inhibitor, domain 2	R	Guanine Nucleotide Dissociation Inhibitor, domain 2
-3.30.560.10	Glucose oxidase, domain 3	R	Glucose Oxidase, domain 3
-3.30.565.40	Fervidobacterium nodosum rt17-b1 like	R	Fervidobacterium nodosum Rt17-B1 like
-3.30.700.10	Glycoprotein, type 4 pilin	R	Glycoprotein, Type 4 Pilin
-3.30.700.20	Hypothetical protein ph0010, domain 1	S	Hypothetical protein ph0010; domain 1
-3.30.710.10	Potassium channel kv1.1, chain A	SR	Potassium Channel Kv1.1; Chain A
-3.30.740.10	Protein inhibitor of neuronal nitric oxide synthase	TSR	Protein Inhibitor Of Neuronal Nitric Oxide Synthase;
-3.30.750.70	4-hydroxybutyrate coenzyme like domains	R	4-hydroxybutyrate coenzyme  like domains
-3.30.760.10	RNA cap, translation initiation factor eif4e	R	RNA Cap, Translation Initiation Factor Eif4e
-3.30.800.10	Phosphatidylinositol phosphate kinase II beta	R	Phosphatidylinositol Phosphate Kinase II Beta
-3.30.810.10	2-Layer sandwich	R	2-Layer Sandwich
-3.30.860.10	30s ribosomal protein S19, chain A	SR	30s Ribosomal Protein S19; Chain A
-3.30.870.10	Endonuclease chain A	R	Endonuclease Chain A
-3.30.870.20	Phospholipase d/nuclease, domain 2	SR	Phospholipase D/nuclease; domain 2
-3.30.890.10	Methyl-cpg-binding protein 2, chain A	SR	Methyl-cpg-binding Protein 2; Chain A
-3.30.920.30	Hypothetical protein	T	Hypothetical protein.
-3.30.930.10	Bira bifunctional protein, domain 2	SR	Bira Bifunctional Protein; Domain 2
-3.30.950.10	Methyltransferase, cobalt-precorrin-4 transmethylase, domain 2	SR	Methyltransferase, Cobalt-precorrin-4 Transmethylase; Domain 2
-3.30.960.10	Translation, eukaryotic peptide chain release factor subunit 1, chain A, domain 1	SR	Translation, Eukaryotic Peptide Chain Release Factor Subunit 1; Chain A, domain 1
-3.30.980.10	Threonyl-trna synthetase, chain A, domain 2	SR	Threonyl-trna Synthetase; Chain A, domain 2
-3.30.980.20	Putative mannosyl-3-phosphoglycerate phosphatase, domain 2	S	Putative mannosyl-3-phosphoglycerate phosphatase; domain 2
-3.30.1010.10	Phosphatidylinositol 3-kinase catalytic subunit, chain A, domain 4	SR	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 4
-3.30.1020.10	Antioxidant, horf6, chain A, domain2	SR	Antioxidant, Horf6; Chain A, domain2
-3.30.1030.10	Methenyltetrahydromethanopterin cyclohydrolase, chain A, domain 2	SR	Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 2
-3.30.1120.50	Pepsin inhibitor-3	R	Pepsin inhibitor-3 
-3.30.1180.20	Dihydroxyacetone kinase, domain 2	S	Dihydroxyacetone kinase; domain 2
-3.30.1190.10	DNA-binding protein tfx superfamily, archaea	R	DNA-binding protein Tfx superfamily, archaea
-3.30.1300.30	GSPII i/j protein-like	R	GSPII I/J protein-like
-3.30.1330.80	Hypothetical protein, similar to alpha- acetolactate decarboxylase, domain 2	S	Hypothetical protein, similar to alpha- acetolactate decarboxylase; domain 2
-3.30.1330.90	D-3-phosphoglycerate dehydrogenase, domain 3	S	D-3-phosphoglycerate dehydrogenase; domain 3
-3.30.1330.120	2-methylcitrate dehydratase PrpD	R	2-methylcitrate dehydratase PrpD 
-3.30.1350.20	Bacteriophage PHI-29 conector, domain 3	CR	Bacteriophage PHI-29 conector. Domain 3
-3.30.1360.110	Domain 2, phosphonoacetate hydrolase	R	Domain 2, Phosphonoacetate Hydrolase
-3.30.1360.120	Probable tRNA modification gtpase trme, domain 1	S	Probable tRNA modification gtpase trme; domain 1
-3.30.1360.130	Dipeptide transport protein	R	Dipeptide transport protein 
-3.30.1370.10	K homology domain, type 1	R	K Homology domain, type 1
-3.30.1370.60	Hypothetical oxidoreductase yiak, domain 2	S	Hypothetical oxidoreductase yiak; domain 2
-3.30.1390.30	Penicillin-binding protein 2a, domain 3	S	Penicillin-binding protein 2a; domain 3
-3.30.1390.40	Ribosomal protein l30p/l7e	R	Ribosomal protein L30p/L7e
-3.30.1490.120	RNA polymerase rpb7-like, N-terminal domain	R	RNA polymerase Rpb7-like, N-terminal domain
-3.30.1490.130	D-aminoacylase, domain 3	CR	D-aminoacylase. Domain 3
-3.30.1490.150	Hypothetical protein ph0010, domain 2	S	Hypothetical protein ph0010; domain 2
-3.30.1490.160	Ctc02137 like domains	LR	ctc02137 like domains 
-3.30.1510.10	Domain 2, n(10)-formyltetrahydrofolate synthetase	R	Domain 2, N(10)-formyltetrahydrofolate synthetase
-3.30.1530.10	Manganese catalase, domain 2, chain A	L	manganese catalase, domain 2, chain A
-3.30.1540.10	Formyl-coa transferase, domain 3	L	formyl-coa transferase, domain 3
-3.30.1550.10	Ribosomal protein l11/l12, N-terminal domain	R	Ribosomal protein L11/L12, N-terminal domain
-3.30.1600.10	SIR2/SIRT2 'small domain'	R	SIR2/SIRT2 'Small Domain'
-3.30.1620.10	B-12 dependent (class ii) ribonucleotide reductase, chain A, domain 2	LR	b-12 dependent (class ii) ribonucleotide reductase, Chain A, Domain 2
-3.30.1640.10	Mini-chromosome maintenance (MCM) complex, chain A, domain 1	L	mini-chromosome maintenance (MCM) complex, chain A, domain 1
-3.30.1650.10	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), chain M, domain 3	R	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 3
-3.30.1680.10	Ligand-binding face of the semaphorins, domain 2	L	ligand-binding face of the semaphorins, domain 2
-3.30.1700.10	Lpxc deacetylase, domain 2	L	lpxc deacetylase, domain 2
-3.30.1710.10	Top7, de novo designed protein	L	top7, de novo designed protein
-3.30.1780.10	Ornithine cyclodeaminase, domain 1	L	ornithine cyclodeaminase, domain 1
-3.30.1790.10	Hypothetical protein mp506/mpn330, domain 2	L	hypothetical protein mp506/mpn330, domain 2
-3.30.1860.10	Uncharacterized conserved protein from methanopyrus kandleri domain like	L	uncharacterized conserved protein from methanopyrus kandleri domain like
-3.30.1870.10	EreA-like, domain 2	S	EreA-like; domain 2
-3.30.1880.10	Protein ne1242 domain like	L	protein ne1242 domain like
-3.30.1900.10	Glyoxalase-related enzyme like domain	L	glyoxalase-related enzyme like domain
-3.30.1910.10	So0334 like domain	L	so0334 like domain
-3.30.1930.10	Capsid protein of prophage domain	L	capsid protein of prophage domain
-3.30.1950.10	Wza like domain	L	wza like domain
-3.30.2050.10	Photosynthetic oxygen evolving center domain	L	photosynthetic oxygen evolving center domain
-3.30.2070.10	Formate dehydrogenase/DMSO reductase	T	Formate dehydrogenase/DMSO reductase,
-3.30.2090.10	Multidrug efflux transporter AcrB TolC docking domain, DN and DC subdomains	SR	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains 
-3.30.2110.10	CbiD-like	R	CbiD-like 
-3.30.2170.10	Archaeoglobus fulgidus dsm 4304 superfamily	L	archaeoglobus fulgidus dsm 4304 superfamily
-3.30.2200.10	Histidine kinase doma clostridium symbiosum atcc 14940	L	histidine kinase doma clostridium symbiosum atcc 14940
-3.30.2220.10	Rbstp2171	LR	rbstp2171 
-3.30.2320.10	Hypothetical protein PF0899 domain	L	hypothetical protein PF0899 domain
-3.30.2330.10	Arginine biosynthesis bifunctional protein suprefamily	L	arginine biosynthesis bifunctional protein suprefamily
-3.30.2330.20	Family 98 glycoside hydrolase	L	family 98 glycoside hydrolase
-3.30.2370.10	Putative pyruvate dehydrogenase	L	putative pyruvate dehydrogenase
-3.30.2420.10	TonB	R	TonB 
-3.30.2430.10	Phosphothreonine lyase	L	phosphothreonine lyase
-3.30.2450.10	Secreted effector protein pipb2	R	Secreted effector protein pipB2
-3.40.10.10	DNA methylphosphotriester repair domain	R	DNA Methylphosphotriester Repair Domain
-3.40.30.30	Hypothetical protein sa0798	T	Hypothetical protein sa0798.
-3.40.50.150	Vaccinia virus protein VP39	R	Vaccinia Virus protein VP39
-3.40.50.200	Peptidase s8/s53 domain	R	Peptidase S8/S53 domain
-3.40.50.410	Von Willebrand factor, type A domain	L	von Willebrand factor, type A domain
-3.40.50.700	NADH:ubiquinone oxidoreductase-like, 20kda subunit	R	NADH:ubiquinone oxidoreductase-like, 20kDa subunit
-3.40.50.720	NAD(P)-binding rossmann-like domain	R	NAD(P)-binding Rossmann-like Domain
-3.40.50.2000	Glycogen phosphorylase B	TSR	Glycogen Phosphorylase B;
-3.40.50.10230	Cobalamin biosynthesis CobH/CbiC, precorrin-8x methylmutase	R	Cobalamin biosynthesis CobH/CbiC, precorrin-8X methylmutase
-3.40.50.10330	Probable inorganic polyphosphate/atp-NAD kinase, domain 1	S	Probable inorganic polyphosphate/atp-NAD kinase; domain 1
-3.40.50.10350	Glycerate kinase, domain 1	S	Glycerate kinase; domain 1
-3.40.50.10390	Gingipain r, domain 1	S	Gingipain r; domain 1
-3.40.50.10440	Dihydroxyacetone kinase, domain 1	S	Dihydroxyacetone kinase; domain 1
-3.40.50.10470	Translation initiation factor eif-2b, domain 2	S	Translation initiation factor eif-2b; domain 2
-3.40.50.10490	Glucose-6-phosphate isomerase like protein, domain 1	S	Glucose-6-phosphate isomerase like protein; domain 1
-3.40.50.10540	Crotonobetainyl-coa:carnitine coa-transferase, domain 1	S	Crotonobetainyl-coa:carnitine coa-transferase; domain 1
-3.40.50.10550	Hypothetical protein af1403, domain 2	S	Hypothetical protein af1403; domain 2
-3.40.50.10590	Zn-dependent exopeptidases	R	Zn-dependent exopeptidases 
-3.40.50.10640	SSO1389-like	R	SSO1389-like 
-3.40.50.10670	Af2093 domain	L	af2093 domain
-3.40.50.10690	Putative lor/sdh protein like domains	L	putative lor/sdh protein like domains
-3.40.50.10720	CbiD-like domains	R	CbiD-like domains 
-3.40.50.10770	Hypothetical protein VC1899 like domain (restriction endonuclease-like)	R	Hypothetical protein VC1899 like domain (Restriction endonuclease-like)
-3.40.50.10850	Ntrc-like two-domain protein	T	Ntrc-like two-domain protein.
-3.40.50.10860	Leucine dehydrogenase, chain A, domain 1	R	Leucine Dehydrogenase, chain A, domain 1
-3.40.109.10	NADH oxidase	R	NADH Oxidase
-3.40.109.30	Putative nitroreductase (tm1586), domain 2	L	putative nitroreductase (tm1586), domain 2
-3.40.140.10	Cytidine deaminase, domain 2	R	Cytidine Deaminase, domain 2
-3.40.190.100	Glycine betaine-binding periplasmic protein, domain 2	S	Glycine betaine-binding periplasmic protein; domain 2
-3.40.190.120	Osmoprotection protein (prox), domain 2	S	Osmoprotection protein (prox); domain 2
-3.40.210.10	PVUII endonuclease, subunit A	R	PVUII Endonuclease, subunit A
-3.40.220.10	Leucine aminopeptidase, subunit E, domain 1	R	Leucine Aminopeptidase, subunit E, domain 1
-3.40.228.10	Dimethylsulfoxide reductase, domain 2	R	Dimethylsulfoxide Reductase, domain 2
-3.40.275.10	L-fucose isomerase, chain A, domain 2	SR	L-fucose Isomerase; Chain A, domain 2
-3.40.309.10	Aldehyde dehydrogenase, chain A, domain 2	SR	Aldehyde Dehydrogenase; Chain A, domain 2
-3.40.366.10	Malonyl-Coenzyme A acyl carrier protein, domain 2	R	Malonyl-Coenzyme A Acyl Carrier Protein, domain 2
-3.40.390.10	Collagenase (catalytic domain)	R	Collagenase (Catalytic Domain)
-3.40.395.10	Adenoviral proteinase, chain A	SR	Adenoviral Proteinase; Chain A
-3.40.420.10	Ricin (a subunit), domain 1	R	Ricin (A subunit), domain 1
-3.40.430.10	Dihydrofolate reductase, subunit A	R	Dihydrofolate Reductase, subunit A
-3.40.440.10	Adenylosuccinate synthetase, subunit A, domain 1	R	Adenylosuccinate Synthetase, subunit A, domain 1
-3.40.449.10	Phosphoenolpyruvate carboxykinase, domain 1	R	Phosphoenolpyruvate Carboxykinase, domain 1
-3.40.570.10	Extracellular endonuclease, subunit A	R	Extracellular Endonuclease, subunit A
-3.40.580.10	Eco RI endonuclease, subunit A	R	Eco RI Endonuclease, subunit A
-3.40.605.10	Aldehyde dehydrogenase, chain A, domain 1	SR	Aldehyde Dehydrogenase; Chain A, domain 1
-3.40.640.10	Type I PLP-dependent aspartate aminotransferase-like (major domain)	R	Type I PLP-dependent aspartate aminotransferase-like (Major domain)
-3.40.718.10	Isopropylmalate dehydrogenase	R	Isopropylmalate Dehydrogenase
-3.40.720.10	Alkaline phosphatase, subunit A	R	Alkaline Phosphatase, subunit A
-3.40.930.10	Mannitol-specific EII, chain A	SR	Mannitol-specific EII; Chain A
-3.40.950.10	Fe-only hydrogenase (larger subunit), chain L, domain 3	SR	Fe-only Hydrogenase (Larger Subunit); Chain L, domain 3
-3.40.960.10	VSR endonuclease	R	VSR Endonuclease
-3.40.970.20	Carbon monoxide dehydrogenase alpha subunit, chain D, domain 4	CR	Carbon monoxide dehydrogenase alpha subunit. Chain D, domain 4
-3.40.970.30	Yp_829618.1 like domains	L	yp_829618.1 like domains
-3.40.970.40	Fibrinogen binding protein from staphylococcus aureus domain like	L	fibrinogen binding protein from staphylococcus aureus domain like
-3.40.1010.10	Cobalt-precorrin-4 transmethylase, domain 1	SR	Cobalt-precorrin-4 Transmethylase; Domain 1
-3.40.1020.10	Biosynthetic threonine deaminase, domain 3	SR	Biosynthetic Threonine Deaminase; Domain 3
-3.40.1060.10	Aconitase, domain 2	R	Aconitase, Domain 2
-3.40.1080.10	Glutaconate coenzyme A-transferase	R	Glutaconate Coenzyme A-transferase
-3.40.1340.10	RNA polymerase, rpb5, N-terminal domain	R	RNA polymerase, Rpb5, N-terminal domain
-3.40.1470.10	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), chain M, domain 5	R	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 5
-3.40.1560.10	Type ii restriction endonuclease, domain 2	L	type ii restriction endonuclease, domain 2
-3.40.1670.10	UbiD C-terminal domain-like	R	UbiD C-terminal domain-like 
-3.40.1680.10	Yp_829618.1 domain like	L	yp_829618.1 domain like
-3.40.1690.10	Secretion proteins EscU	L	secretion proteins EscU
-3.40.1710.10	Abc type-2 transporter like domain	L	abc type-2 transporter like domain
-3.40.1730.10	Pa0076 domain	L	pa0076 domain
-3.40.1750.10	Peptide peptidase (sppa) like domain	L	peptide peptidase (sppa) like domain
-3.40.1830.10	Thermophilic metalloprotease (m29)	R	Thermophilic metalloprotease (M29)
-3.50.4.10	Hepatocyte growth factor	R	Hepatocyte Growth Factor
-3.50.14.10	Replication terminator tus, domain 1 superfamily/replication terminator tus	R	Replication terminator Tus, domain 1 superfamily/Replication terminator Tus
-3.50.20.10	Pyruvoyl-Dependent histidine decarboxylase, subunit B	R	Pyruvoyl-Dependent Histidine Decarboxylase, subunit B
-3.50.40.10	Phenylalanyl-trna synthetase, chain B, domain 3	R	Phenylalanyl-trna Synthetase, Chain B, domain 3
-3.50.100.10	Protein il1583 domain	L	protein il1583 domain
-3.55.40.10	Minor pseudopilin epsh domain	L	minor pseudopilin epsh domain
-3.60.15.10	Ribonuclease z/hydroxyacylglutathione hydrolase-like	R	Ribonuclease Z/Hydroxyacylglutathione hydrolase-like
-3.60.20.10	Glutamine phosphoribosylpyrophosphate, subunit 1, domain 1	R	Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1
-3.60.60.10	Penicillin V acylase, chain A	SR	Penicillin V Acylase; Chain A
-3.60.100.10	Cytotoxic necrotizing factor, rho-activating domain	R	Cytotoxic necrotizing factor, Rho-activating domain
-3.75.10.10	L-arginine/glycine amidinotransferase, chain A	SR	L-arginine/glycine Amidinotransferase; Chain A
-3.80.10.10	Ribonuclease inhibitor	R	Ribonuclease Inhibitor
-3.80.30.10	Pyruvate-formate lyase- activating enzyme	L	pyruvate-formate lyase- activating enzyme
-3.80.30.20	Tm_1862 like domain	L	tm_1862 like domain
-3.90.15.10	Topoisomerase I, chain A, domain 3	SR	Topoisomerase I; Chain A, domain 3
-3.90.39.10	Hexon major viral coat protein, domain 2	R	Hexon Major Viral Coat Protein, domain 2
-3.90.50.10	Photosynthetic reaction center, subunit H, domain 2	R	Photosynthetic Reaction Center, subunit H, domain 2
-3.90.55.10	Dimethylsulfoxide reductase, domain 3	R	Dimethylsulfoxide Reductase, domain 3
-3.90.75.10	Homing intron 3 (i-ppo) encoded endonuclease, chain A	SR	Homing Intron 3 (I-ppo) Encoded Endonuclease; Chain A
-3.90.76.10	Dipeptide-binding protein, domain 1	SR	Dipeptide-binding Protein; Domain 1
-3.90.79.10	Nucleoside triphosphate pyrophosphohydrolase	R	Nucleoside Triphosphate Pyrophosphohydrolase
-3.90.120.10	DNA methylase, subunit A, domain 2	R	DNA Methylase, subunit A, domain 2
-3.90.148.10	Adenovirus DNA-binding, C-terminal domain superfamily/adenovirus DNA-binding, zinc binding domain	R	Adenovirus DNA-binding, C-terminal domain superfamily/Adenovirus DNA-binding, zinc binding domain
-3.90.150.10	Variant surface glycoprotein, subunit A domain 1	R	Variant Surface Glycoprotein, subunit A domain 1
-3.90.170.10	Adenylosuccinate synthetase, subunit A, domain 3	R	Adenylosuccinate Synthetase, subunit A, domain 3
-3.90.175.10	Diphtheria toxin, domain 1	R	Diphtheria Toxin, domain 1
-3.90.176.10	Toxin ADP-ribosyltransferase, chain A, domain 1	SR	Toxin ADP-ribosyltransferase; Chain A, domain 1
-3.90.182.10	Toxin - anthrax protective antigen,domain 1	SR	Toxin - Anthrax Protective Antigen;domain 1
-3.90.198.10	Replication fork single-stranded dna binding protein	R	Replication Fork Single-Stranded Dna Binding Protein
-3.90.210.10	Heat-Labile enterotoxin, subunit A	R	Heat-Labile Enterotoxin, subunit A
-3.90.215.10	Gamma fibrinogen, chain A, domain 1	R	Gamma Fibrinogen, chain A, domain 1
-3.90.220.10	Adenine-n6-DNA-methyltransferase taqi, chain A, domain 2	R	Adenine-n6-DNA-methyltransferase Taqi, Chain A, domain 2
-3.90.226.10	2-enoyl-CoA hydratase, chain A, domain 1	SR	2-enoyl-CoA Hydratase; Chain A, domain 1
-3.90.241.10	Foki restriction endonuclease, chain A, domain 1	R	Foki Restriction Endonuclease, Chain A, domain 1
-3.90.249.10	Hexon major viral coat protein, domain 3	R	Hexon Major Viral Coat Protein, domain 3
-3.90.330.10	Nitrile hydratase alpha /thiocyanate hydrolase gamma	R	Nitrile hydratase alpha /Thiocyanate hydrolase gamma
-3.90.340.10	Nitric oxide synthase, chain A, domain 1	SR	Nitric Oxide Synthase; Chain A, domain 1
-3.90.350.10	Transposase inhibitor protein from tn5, chain A, domain 1	SR	Transposase Inhibitor Protein From Tn5; Chain A, domain 1
-3.90.370.10	Tissue inhibitor of metalloproteinase-1, chain B, domain 1	CR	Tissue inhibitor of metalloproteinase-1. Chain B, domain 1
-3.90.380.10	Naphthalene 1,2-dioxygenase alpha subunit, chain A, domain 1	SR	Naphthalene 1,2-dioxygenase Alpha Subunit; Chain A, domain 1
-3.90.390.10	Methyl-coenzyme M reductase, chain A, domain 1	SR	Methyl-coenzyme M Reductase; Chain A, domain 1
-3.90.400.10	Oligo-1,6-glucosidase, domain 2	SR	Oligo-1,6-glucosidase; Domain 2
-3.90.440.10	Nitric oxide synthase,heme domain,chain A domain 2	SR	Nitric Oxide Synthase;Heme Domain;Chain A domain 2
-3.90.450.1	Minor coat protein, domain 2	SR	Minor Coat Protein; Domain 2
-3.90.470.10	Ribosomal protein l22/l17	R	Ribosomal protein L22/L17
-3.90.480.10	Sulfite reductase hemoprotein,domain 2	SR	Sulfite Reductase Hemoprotein;Domain 2
-3.90.550.10	Spore coat polysaccharide biosynthesis protein SpsA, chain A	SR	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A
-3.90.580.10	Zinc finger, CHC2-type domain	R	Zinc finger, CHC2-type domain
-3.90.640.10	Actin, chain A, domain 4	SR	Actin; Chain A, domain 4
-3.90.660.20	Protoporphyrinogen oxidase, mitochondrial, domain 2	S	Protoporphyrinogen oxidase, mitochondrial; domain 2
-3.90.730.10	Ribonuclease t2-like	R	Ribonuclease T2-like
-3.90.770.10	3-hydroxy-3-methylglutaryl-coenzyme A reductase, chain A, domain 2	SR	3-hydroxy-3-methylglutaryl-coenzyme A Reductase; Chain A, domain 2
-3.90.800.10	Glutamyl-tRNA synthetase, domain 3	SR	Glutamyl-tRNA Synthetase; Domain 3
-3.90.820.10	Structural genomics, unknown function 30-nov-00 1gh9 mol_id	R	Structural Genomics, Unknown Function 30-nov-00 1gh9 Mol_id
-3.90.830.10	Syntaxin binding protein 1, chain A, domain 2	SR	Syntaxin Binding Protein 1; Chain A, domain 2
-3.90.840.10	Thiol-activated cytolysin superfamily/thiol-activated cytolysin, alpha-beta domain	R	Thiol-activated cytolysin superfamily/Thiol-activated cytolysin, alpha-beta domain
-3.90.1110.10	RNA polymerase rpb2, domain 2	R	RNA polymerase Rpb2, domain 2
-3.90.1150.10	Aspartate aminotransferase, domain 1	R	Aspartate Aminotransferase, domain 1
-3.90.1170.10	Ribosomal protein l10e/l16	R	Ribosomal protein L10e/L16
-3.90.1230.10	Nitric oxide synthase, chain A, domain 3	SR	Nitric Oxide Synthase; Chain A, domain 3
-3.90.1310.10	Penicillin-binding protein 2a (domain 2)	R	Penicillin-binding protein 2a (Domain 2)
-3.90.1390.10	B-12 dependent (class ii) ribonucleotide reductase, chain A, domain 3	L	b-12 dependent (class ii) ribonucleotide reductase, chain A, domain 3
-3.90.1410.10	Set domain protein methyltransferase, domain 1	L	set domain protein methyltransferase, domain 1
-3.90.1430.10	Yeast translation eEF2 (g' domain)	R	Yeast translation eEF2 (G' domain)
-3.90.1470.10	Thrh gene product, domain 2	L	thrh gene product, domain 2
-3.90.1490.10	Putative n-type atp pyrophosphatase, domain 2	L	putative n-type atp pyrophosphatase, domain 2
-3.90.1570.10	Tt1808, chain A	L	tt1808, chain A
-3.90.1580.10	Paralog of FGE (formylglycine-generating enzyme)	L	paralog of FGE (formylglycine-generating enzyme)
-3.90.1590.10	Glutathione-dependent formaldehyde- activating enzyme (gfa)	L	glutathione-dependent formaldehyde- activating enzyme (gfa)
-3.90.1620.10	Adenovirus 2 penton base, domain 2	L	adenovirus 2 penton base, domain 2
-3.90.1640.10	Inorganic pyrophosphatase (n-terminal core)	L	inorganic pyrophosphatase (n-terminal core)
-3.90.1690.10	Phage-related protein like domain	L	phage-related protein like domain
-3.90.1700.10	V583 domain like	L	v583 domain like
-3.90.1720.10	Endopeptidase domain like (from nostoc punctiforme)	LR	endopeptidase domain like (from Nostoc punctiforme)
-4.10.6.10	Fusion protein of alpha-na,k-atpase with glutathione S-transferase, domain 3	SR	Fusion Protein Of Alpha-na,k-atpase With Glutathione S-transferase; Domain 3
-4.10.8.10	Luciferase, domain 5	SR	Luciferase; Domain 5
-4.10.10.10	Metallothionein isoform II	R	Metallothionein Isoform II
-4.10.51.10	Cytochrome C oxidase, chain K	R	Cytochrome C Oxidase, chain K
-4.10.80.20	DNA polymerase, domain 5	S	DNA polymerase; domain 5
-4.10.80.30	DNA polymerase, domain 6	S	DNA polymerase; domain 6
-4.10.80.40	Succinate dehydrogenase protein domain	L	succinate dehydrogenase protein domain
-4.10.87.10	mRNA capping enzyme, domain 3	SR	mRNA Capping Enzyme; domain 3
-4.10.90.10	Capsid protein VP4 superfamily, picornavirus	R	Capsid protein VP4 superfamily, Picornavirus
-4.10.92.10	Aminolevulinic acid synthase 2	R	Aminolevulinic Acid Synthase 2
-4.10.110.10	Spasmolytic protein, domain 1	R	Spasmolytic Protein, domain 1
-4.10.170.10	P53-like tetramerisation domain	L	p53-like tetramerisation domain
-4.10.210.10	Transactivator protein (TAT, TAT EIAVY)	R	Transactivator Protein (TAT, TAT EIAVY)
-4.10.280.20	Membrane protein stannin	L	membrane protein stannin
-4.10.290.10	Bacteriorhodopsin fragment	R	Bacteriorhodopsin Fragment
-4.10.365.10	P27	L	p27
-4.10.372.10	Lipoxygenase-1, domain 3	SR	Lipoxygenase-1; Domain 3
-4.10.375.10	Lipoxygenase-1, domain 2	SR	Lipoxygenase-1; Domain 2
-4.10.400.10	Low-density lipoprotein receptor	R	Low-density Lipoprotein Receptor
-4.10.420.10	Smk toxin, alpha chain	R	Smk Toxin, alpha chain
-4.10.450.10	Glucose oxidase, domain 2	R	Glucose Oxidase, domain 2
-4.10.460.10	Inositol polyphosphate 1-phosphatase, domain 1	R	Inositol Polyphosphate 1-phosphatase, domain 1
-4.10.470.10	Ricin (a subunit), domain 2	R	Ricin (A Subunit), domain 2
-4.10.510.10	Pyruvoyl-Dependent histidine decarboxylas, subunit A	R	Pyruvoyl-Dependent Histidine Decarboxylas, subunit A
-4.10.530.10	Gamma-fibrinogen carboxyl terminal fragment, domain 2	R	Gamma-fibrinogen Carboxyl Terminal Fragment, domain 2
-4.10.690.10	Cricket paralysis virus, vp4, chain D	SR	Cricket Paralysis Virus, Vp4; Chain D
-4.10.710.10	Hepatitis C virus capsid protein, chain A	SR	Hepatitis C Virus Capsid Protein; Chain A
-4.10.720.10	Smad anchor for receptor activation, smad-binding domain	R	Smad anchor for receptor activation, Smad-binding domain
-4.10.740.10	Coagulation factor IX	R	Coagulation Factor IX
-4.10.770.10	Signal protein aml-1b, chain A, domain 3	SR	Signal Protein Aml-1b; Chain A, domain 3
-4.10.790.10	Pyruvate-ferredoxin oxidoreductase, domain 7	SR	Pyruvate-ferredoxin Oxidoreductase; domain 7
-4.10.810.10	Virus scaffolding protein, chain A	SR	Virus Scaffolding Protein; Chain A
-4.10.830.10	30s ribosomal protein S14, chain N	SR	30s Ribosomal Protein S14; Chain N
-4.10.860.20	Rabenosyn, rab binding domain	R	Rabenosyn, Rab binding domain
-4.10.870.10	Endo-1,4-beta-glucanase f, domain 3	CR	Endo-1,4-beta-glucanase f.  Domain 3
-4.10.880.10	Poliovirus 3D polymerase domain 1 (nucleotidyltransferase)	R	Poliovirus 3D polymerase  Domain 1 (Nucleotidyltransferase)
-4.10.900.10	TCF3-CBD (catenin binding domain)	R	TCF3-CBD (Catenin binding domain)
-4.10.1030.10	Ring box chain A, domain 5	SR	Ring Box Chain A; domain 5
-4.10.1070.10	Receptor-binding domain of the bacteriophage t4 short tail fibre, domain 2	L	receptor-binding domain of the bacteriophage t4 short tail fibre, domain 2
-4.10.1110.10	AN1-like zinc finger	R	AN1-like Zinc finger
-4.10.1130.10	Btk motif of tyrosine-protein kinase itk	L	btk motif of tyrosine-protein kinase itk
-4.10.1140.10	Membrane-bound form of the juxtamembrane domain of the epidermal growth factor receptor like domain	L	membrane-bound form of the juxtamembrane domain of the epidermal growth factor receptor like domain
-4.10.1180.10	Tm1086 domain	L	tm1086 domain
-4.10.1200.10	Nitrate reductase tail	L	nitrate reductase tail
-4.10.1250.10	Aminomethyltransferase fragment	R	Aminomethyltransferase  fragment
-4.10.1260.10	Scaffolding protein gpd of bacteriophage procapsid	R	Scaffolding protein gpD of bacteriophage procapsid
-4.10.1270.10	Homoprotocatechuate 2,3-dioxygenase domains	L	homoprotocatechuate 2,3-dioxygenase domains
-4.10.1310.10	Dinoflagellate luciferase repeat	R	Dinoflagellate luciferase repeat 
-4.10.1330.10	Non globular virulence effector SptP domain	LR	non globular Virulence effector SptP domain
+# CATH_ID	OLD_NAME	COMMENT	NEW_NAME
+1.10.8.160	DNA primase S; domain 2	S	DNA primase S, domain 2
+1.10.8.190	Carbon monoxide dehydrogenase alpha subunit. Chain M, domain 1	CR	Carbon monoxide dehydrogenase alpha subunit, chain M, domain 1
+1.10.8.270	putative rabgap domain of human tbc1 domain family member 14 like domains	L	Putative rabgap domain of human tbc1 domain family member 14 like domains
+1.10.8.290	uncharacterized protein sp1917 domain	L	Uncharacterized protein sp1917 domain
+1.10.8.300	putative atpase (yp_676785.1)	L	Putative atpase (yp_676785.1)
+1.10.10.10	Winged helix-like DNA-binding domain superfamily/Winged helix DNA-binding domain	R	Winged helix-like DNA-binding domain superfamily/winged helix DNA-binding domain
+1.10.10.460	Ribonuclease hii. Domain 2	CR	Ribonuclease hii, domain 2
+1.10.10.470	Maltooligosyl trehalose synthase; domain 4	S	Maltooligosyl trehalose synthase, domain 4
+1.10.10.480	Phosphofructokinase; domain 3	S	Phosphofructokinase, domain 3
+1.10.10.520	Ubiquitin activating enzymes (Uba3). Chain: B, domain 2	CR	Ubiquitin activating enzymes (uba3), chain: B, domain 2
+1.10.10.530	mam-mhc complex, Chain D, Domain 2	LR	Mam-mhc complex, chain D, domain 2
+1.10.10.570	Winged helix DNA-binding domain. Chain C. Domain 1	CR	Winged helix DNA-binding domain, chain C, domain 1
+1.10.10.580	Structural maintenance of chromosome 1. Chain E	CR	Structural maintenance of chromosome 1, chain E
+1.10.10.620	ribosome modulation factor like domain	L	Ribosome modulation factor like domain
+1.10.10.640	phospholipid-binding protein	L	Phospholipid-binding protein
+1.10.10.650	RuvA domain 2-like 	R	RuvA domain 2-like
+1.10.10.660	conserved protein of unknown function from Enterococcus faecalis V583	L	Conserved protein of unknown function from Enterococcus faecalis V583
+1.10.10.670	photosystem ii from thermosynechococcus elongatus 	LR	Photosystem ii from thermosynechococcus elongatus
+1.10.10.680	Hypothetical protein VC1899 (Restriction endonuclease-like)	R	Hypothetical protein VC1899 (restriction endonuclease-like)
+1.10.10.720	leucyl-tRNA synthetase	L	Leucyl-tRNA synthetase
+1.10.10.750	Ypt/Rab-GAP domain of gyp1p 	R	Ypt/Rab-GAP domain of gyp1p
+1.10.10.760	E-set domains of sugar-utilizing enzymes 	R	E-set domains of sugar-utilizing enzymes
+1.10.12.10	Lyase 2-enoyl-coa Hydratase, Chain  A, domain 2	R	Lyase 2-enoyl-coa hydratase, chain A, domain 2
+1.10.40.40	Deoxyribonucleotidase; domain 2	S	Deoxyribonucleotidase, domain 2
+1.10.40.50	Probable gtpase engc; domain 3	S	Probable gtpase engc, domain 3
+1.10.45.10	Vanillyl-alcohol Oxidase; Chain A, domain 4	SR	Vanillyl-alcohol oxidase, chain A, domain 4
+1.10.60.20	Ribosomal protein S17e-like	R	Ribosomal protein s17e-like
+1.10.140.10	MET Apo-Repressor, subunit A	R	MET apo-repressor, subunit A
+1.10.150.50	Transcription Factor, Ets-1	R	Transcription factor, ets-1
+1.10.150.190	Translation initiation factor 2; subunit 1; domain 2	S	Translation initiation factor 2, subunit 1, domain 2
+1.10.150.200	Maltooligosyl trehalose synthase; domain 3	S	Maltooligosyl trehalose synthase, domain 3
+1.10.150.210	Phosphoserine phosphatase; domain 2	S	Phosphoserine phosphatase, domain 2
+1.10.150.240	Putative phosphatase; domain 2	S	Putative phosphatase, domain 2
+1.10.150.290	S-adenosyl-L-methionine-dependent methyltransferases 	R	S-adenosyl-L-methionine-dependent methyltransferases
+1.10.150.320	Photosystem II 12 kDa extrinsic protein	R	Photosystem II 12 kda extrinsic protein
+1.10.150.330	zn-dependent alcohol dehydrogenase	L	Zn-dependent alcohol dehydrogenase
+1.10.167.10	Regulator of G-protein Signalling 4, domain 2	R	Regulator of G-protein signalling 4, domain 2
+1.10.170.10	Bluetongue Virus 10, subunit 1, domain 3	R	Bluetongue virus 10, subunit 1, domain 3
+1.10.189.10	Pyruvate Phosphate Dikinase, domain 2	R	Pyruvate phosphate dikinase, domain 2
+1.10.220.50	Bacteriophage T4, Gp59, helicase assembly protein, C-terminal domain	R	Bacteriophage T4, gp59, helicase assembly protein, C-terminal domain
+1.10.220.70	lyase	L	Lyase
+1.10.220.100	conserved c-terminal region of ge- 1	L	Conserved c-terminal region of ge- 1
+1.10.230.10	Cytochrome P450-Terp, domain 2	R	Cytochrome p450-terp, domain 2
+1.10.238.100	YAP1 redox domain. Chain B	CR	YAP1 redox domain, chain B
+1.10.238.110	Diacylglycerol kinase alpha.	T	Diacylglycerol kinase alpha
+1.10.240.10	Tyrosyl-Transfer RNA Synthetase	R	Tyrosyl-Transfer RNA synthetase
+1.10.246.40	Tn5 transposase; domain 1	S	Tn5 transposase, domain 1
+1.10.250.10	Bluetongue Virus 10, subunit 1, domain 1	R	Bluetongue virus 10, subunit 1, domain 1
+1.10.260.40	lambda repressor-like DNA-binding domains	L	Lambda repressor-like DNA-binding domains
+1.10.274.20	Phenylalanine ammonia-lyase 1; domain 3	S	Phenylalanine ammonia-lyase 1, domain 3
+1.10.285.10	Glutamate Dehydrogenase, chain A, domain 3	R	Glutamate dehydrogenase, chain A, domain 3
+1.10.287.480	helix hairpin bin	L	Helix hairpin bin
+1.10.287.560	Histidine kinase  CheA-like, homodimeric domain	R	Histidine kinase CheA-like, homodimeric domain
+1.10.287.620	Helix Hairpins	R	Helix hairpins
+1.10.287.790	luxt domain from vibrio parahaemolyticus	L	Luxt domain from vibrio parahaemolyticus
+1.10.287.800	protein ne1242 	LR	Protein ne1242
+1.10.287.830	putative peptidase helix hairpin domain like	L	Putative peptidase helix hairpin domain like
+1.10.287.870	Acyl-CoA N-acyltransferases (Nat) 	R	Acyl-CoA N-acyltransferases (nat)
+1.10.287.910	bacterial mercury transporter, merf	L	Bacterial mercury transporter, merf
+1.10.287.920	Pheromone alpha factor receptor.	T	Pheromone alpha factor receptor
+1.10.287.940	atp-gated p2x4 ion channel 	LR	Atp-gated p2x4 ion channel
+1.10.287.970	His Kinase A (phosphoacceptor) domain	R	His kinase A (phosphoacceptor) domain
+1.10.287.980	plastocyanin oxidoreductase	L	Plastocyanin oxidoreductase
+1.10.287.1010	Clavaminate synthase-like 	R	Clavaminate synthase-like
+1.10.287.1020	NE0241-like 	R	NE0241-like
+1.10.287.1030	Nudix-associated domain 	R	Nudix-associated domain
+1.10.287.1070	Nuclear receptor coactivator, Ncoa-type, interlocking domain	R	Nuclear receptor coactivator, ncoa-type, interlocking domain
+1.10.287.1080	MazG-like 	R	MazG-like
+1.10.287.1170	glycoside hydrolase family 81 endo-[beta] glucanase 	LR	Glycoside hydrolase family 81 endo-[beta] glucanase
+1.10.288.10	Cobalamin-dependent Methionine Synthase, domain 2	R	Cobalamin-dependent methionine synthase, domain 2
+1.10.300.10	Adenylosuccinate Synthetase, subunit A, domain 2	R	Adenylosuccinate synthetase, subunit A, domain 2
+1.10.340.30	Hypothetical protein; domain 2	S	Hypothetical protein, domain 2
+1.10.357.10	Tetracycline Repressor, domain 2	R	Tetracycline repressor, domain 2
+1.10.375.10	Human Immunodeficiency Virus Type 1 Capsid Protein	R	Human immunodeficiency virus type 1 capsid protein
+1.10.390.10	Neutral Protease Domain 2	R	Neutral protease domain 2
+1.10.400.10	GI Alpha 1, domain 2-like	R	GI alpha 1, domain 2-like
+1.10.400.20	putative tagatose 6-phosphate kinase domain like	L	Putative tagatose 6-phosphate kinase domain like
+1.10.405.10	Guanine Nucleotide Dissociation Inhibitor, domain 1	R	Guanine nucleotide dissociation inhibitor, domain 1
+1.10.439.10	Penicillin Amidohydrolase, domain 1	R	Penicillin amidohydrolase, domain 1
+1.10.441.10	Phosphomannose Isomerase, domain 2	R	Phosphomannose isomerase, domain 2
+1.10.468.10	Photosynthetic Reaction Center, subunit C, domain 2	R	Photosynthetic reaction center, subunit C, domain 2
+1.10.470.10	Variant Surface Glycoprotein, subunit A, domain 2	R	Variant surface glycoprotein, subunit A, domain 2
+1.10.472.40	Hypothetical protein mg237 homolog; domain 3	S	Hypothetical protein mg237 homolog, domain 3
+1.10.472.60	putative protein disulfide isomerase domain	L	Putative protein disulfide isomerase domain
+1.10.486.10	PCRA; domain 4	S	PCRA, domain 4
+1.10.506.10	GTPase Activation - p120gap; domain 1	SR	GTPase activation - p120gap, domain 1
+1.10.533.10	Death Domain, Fas	R	Death domain, fas
+1.10.565.10	Retinoid X Receptor	R	Retinoid X receptor
+1.10.569.10	Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 2	R	Aldehyde ferredoxin oxidoreductase protein, subunit A, domain 2
+1.10.575.10	P1 Nuclease	R	P1 nuclease
+1.10.579.10	DNA Cyclobutane Dipyrimidine Photolyase, subunit A, domain 3	R	DNA cyclobutane dipyrimidine photolyase, subunit A, domain 3
+1.10.580.10	Citrate Synthase, domain 1	R	Citrate synthase, domain 1
+1.10.599.10	Aldehyde Ferredoxin Oxidoreductase Protein, subunit A, domain 3	R	Aldehyde ferredoxin oxidoreductase protein, subunit A, domain 3
+1.10.600.10	Farnesyl Diphosphate Synthase	R	Farnesyl diphosphate synthase
+1.10.601.10	RNA Polymerase Primary Sigma Factor	R	RNA polymerase primary sigma factor
+1.10.606.10	Vanadium-containing Chloroperoxidase, domain 2	R	Vanadium-containing chloroperoxidase, domain 2
+1.10.620.20	Ribonucleotide Reductase, subunit A	R	Ribonucleotide reductase, subunit A
+1.10.645.10	Cytochrome-c3 Hydrogenase, chain B	R	Cytochrome-c3 hydrogenase, chain B
+1.10.730.10	Isoleucyl-tRNA Synthetase; Domain 1	SR	Isoleucyl-tRNA synthetase, domain 1
+1.10.740.10	Transferase Inhibitor Protein From Tn5; Chain	SR	Transferase inhibitor protein from tn5, chain
+1.10.750.10	von Hippel-Lindau disease tumour suppressor, alpha domain	L	Von Hippel-Lindau disease tumour suppressor, alpha domain
+1.10.780.10	Hydroxylamine Oxidoreductase; Chain A, domain 1	SR	Hydroxylamine oxidoreductase, chain A, domain 1
+1.10.820.10	RNA Helicase Chain A , domain 3	R	RNA helicase chain A , domain 3
+1.10.860.10	DNAb Helicase; Chain A	SR	DNAb helicase, chain A
+1.10.880.10	Transcription factor, Skn-1-like, DNA-binding domain	R	Transcription factor, skn-1-like, DNA-binding domain
+1.10.930.10	Syk Kinase; Chain A, domain 2	SR	Syk kinase, chain A, domain 2
+1.10.1000.11	Arf Nucleotide-binding Site Opener,domain 2	R	Arf nucleotide-binding site opener,domain 2
+1.10.1020.10	Adenine-specific Methyltransferase, Domain 2	R	Adenine-specific methyltransferase, domain 2
+1.10.1040.10	N-(1-d-carboxylethyl)-l-norvaline Dehydrogenase; domain 2	SR	N-(1-d-carboxylethyl)-l-norvaline dehydrogenase, domain 2
+1.10.1050.10	Ribosomal Protein S4 Delta 41; Chain A, domain 1	SR	Ribosomal protein S4 delta 41, chain A, domain 1
+1.10.1080.10	Glutathione Synthetase; Chain A, domain 3	SR	Glutathione synthetase, chain A, domain 3
+1.10.1130.10	Flavocytochrome C3; Chain A	SR	Flavocytochrome C3, chain A
+1.10.1140.10	Bovine Mitochondrial F1-atpase; Atp Synthase Beta Chain; Chain D, domain 3	SR	Bovine mitochondrial f1-atpase, atp synthase beta chain, chain D, domain 3
+1.10.1160.10	Glutamyl-trna Synthetase; Domain 2	SR	Glutamyl-trna synthetase, domain 2
+1.10.1170.10	Inhibitor Of Apoptosis Protein (2mihbC-IAP-1); Chain A	SR	Inhibitor of apoptosis protein (2mihbC-IAP-1), chain A
+1.10.1200.80	Putative flavin oxidoreducatase; domain 2	S	Putative flavin oxidoreducatase, domain 2
+1.10.1200.100	conserved protein domain from corynebacterium diphtheriae	L	Conserved protein domain from corynebacterium diphtheriae
+1.10.1470.20	Fatty acid synthase; domain 2	S	Fatty acid synthase, domain 2
+1.10.1620.10	Ribosomal protein L39e	R	Ribosomal protein l39e
+1.10.1620.20	ATP synthase, F1 complex, epsilon  subunit superfamily, mitochondrial	R	ATP synthase, F1 complex, epsilon subunit superfamily, mitochondrial
+1.10.1810.10	Anti-Sigma Factor A	R	Anti-Sigma factor A
+1.10.1820.10	protein kinase ck2 holoenzyme, chain C, domain 1	L	Protein kinase ck2 holoenzyme, chain C, domain 1
+1.10.1840.10	main proteinase (3clpro) structure, domain 3	L	Main proteinase (3clpro) structure, domain 3
+1.10.1870.10	Domain 3, Saccharopine reductase	R	Domain 3, saccharopine reductase
+1.10.1900.10	c-terminal domain of poly(a) binding protein	L	C-terminal domain of poly(a) binding protein
+1.10.2020.10	uronate isomerase, domain 2, chain A	L	Uronate isomerase, domain 2, chain A
+1.10.2080.10	Insect odorant-binding protein A10/Ejaculatory bulb-specific protein 3	R	Insect odorant-binding protein a10/ejaculatory bulb-specific protein 3
+1.10.3020.10	alpha-amino acid ester hydrolase ( Helical cap domain)	LR	Alpha-amino acid ester hydrolase ( helical cap domain)
+1.10.3030.10	Gametocyte protein Pfg27	R	Gametocyte protein pfg27
+1.10.3040.10	borna disease virus nucleoprotein, domain 1	L	Borna disease virus nucleoprotein, domain 1
+1.10.3050.10	borna disease virus nucleoprotein, domain 2	L	Borna disease virus nucleoprotein, domain 2
+1.10.3090.10	cca-adding enzyme, domain 2	L	Cca-adding enzyme, domain 2
+1.10.3110.10	protoporphyrinogen ix oxidase, domain 3	L	Protoporphyrinogen ix oxidase, domain 3
+1.10.3130.10	serine acetyltransferase, domain 1	L	Serine acetyltransferase, domain 1
+1.10.3190.10	yfbu gene product, domain 2	L	Yfbu gene product, domain 2
+1.10.3250.10	type ii restriction endonuclease, domain 1	L	Type ii restriction endonuclease, domain 1
+1.10.3280.10	Siroheme synthase; domain 3	S	Siroheme synthase, domain 3
+1.10.3320.10	pa2218 like domain	L	Pa2218 like domain
+1.10.3400.10	af_2093 domain like	L	Af_2093 domain like
+1.10.3410.10	putative deoxyguanosinetriphosphate triphosphohydrolase like domain	L	Putative deoxyguanosinetriphosphate triphosphohydrolase like domain
+1.10.3420.10	putative ntp pyrophosphohydrolase like domain	L	Putative ntp pyrophosphohydrolase like domain
+1.10.3500.10	Tex N-terminal region-like 	R	Tex N-terminal region-like
+1.10.3540.10	uncharacterized protein from magnetospirillum magneticum domain	L	Uncharacterized protein from magnetospirillum magneticum domain
+1.10.3550.10	eoxyguanosinetriphosphate triphosphohydrolase domain-like	L	Eoxyguanosinetriphosphate triphosphohydrolase domain-like
+1.10.3560.10	yst0336 like domain	L	Yst0336 like domain
+1.10.3590.10	acid-sensing ion channel 1 domain	L	Acid-sensing ion channel 1 domain
+1.10.3600.10	Putative bacterial toxin ydaT	R	Putative bacterial toxin ydat
+1.10.3630.10	yeast vps74-n-term truncation variant domain like	L	Yeast vps74-n-term truncation variant domain like
+1.10.3650.10	nitrate reductase domain like	L	Nitrate reductase domain like
+1.10.3950.10	putative ecf-type sigma factor negative effector from bacillus cereus	L	Putative ecf-type sigma factor negative effector from bacillus cereus
+1.10.3990.20	protein bp1543	L	Protein bp1543
+1.10.4070.10	putative redox-enzyme maturation protein domain	L	Putative redox-enzyme maturation protein domain
+1.10.4090.10	Viral capsid, core domain supefamily, Hepatitis B virus	R	Viral capsid, core domain supefamily, hepatitis B virus
+1.10.4140.10	effector protein (NleL)	L	Effector protein (NleL)
+1.10.4150.10	SipA N-terminal domain-like 	R	SipA N-terminal domain-like
+1.20.5.320	6-Phosphogluconate Dehydrogenase, domain 3	R	6-Phosphogluconate dehydrogenase, domain 3
+1.20.5.550	Single Helix bin	R	Single helix bin
+1.20.5.560	Single Heli x bin	R	Single heli x bin
+1.20.5.580	Single Helix bin	R	Single helix bin
+1.20.5.600	Potassium channel, voltage dependent, Kv1.4, tandem inactivation domain	R	Potassium channel, voltage dependent, kv1.4, tandem inactivation domain
+1.20.5.680	Single Helix bin	R	Single helix bin
+1.20.5.740	Single helix  bin	R	Single helix bin
+1.20.5.810	AhpD-like 	R	AhpD-like
+1.20.5.830	luxt domain from vibrio parahaemolyticus	L	Luxt domain from vibrio parahaemolyticus
+1.20.5.840	hypothetical RNA methyltransferase 	LR	Hypothetical RNA methyltransferase
+1.20.5.900	transmembrane domain of human cd4 	LR	Transmembrane domain of human cd4
+1.20.5.920	rhodobacter sphaeroides pufx membrane protein	L	Rhodobacter sphaeroides pufx membrane protein
+1.20.5.950	bacteriochlorophyll c-binding protein	L	Bacteriochlorophyll c-binding protein
+1.20.5.990	Nemo cc2-lz domain - 1d5 darpin complex 	R	Nemo cc2-lz domain - 1d5 darpin complex
+1.20.5.1000	arf6 gtpase in complex with a specific effector, jip4 	LR	Arf6 gtpase in complex with a specific effector, jip4
+1.20.5.1040	Sensor protein qsec.	T	Sensor protein qsec
+1.20.5.1050	Coiled-coil dimerization domain from cortexillin I 	R	Coiled-coil dimerization domain from cortexillin I
+1.20.5.1060	Tetrabrachion 	R	Tetrabrachion
+1.20.5.1180	Geminin coiled-coil domain 	R	Geminin coiled-coil domain
+1.20.5.1190	iswi atpase	L	Iswi atpase
+1.20.5.1200	Alpha-tocopherol transfer 	R	Alpha-tocopherol transfer
+1.20.5.1230	Apolipoprotein A-I 	R	Apolipoprotein A-I
+1.20.58.180	Class II aaRS and biotin synthetases; domain 2	S	Class II aaRS and biotin synthetases, domain 2
+1.20.58.190	Translin; domain 1	S	Translin, domain 1
+1.20.58.200	Translin; domain 2	S	Translin, domain 2
+1.20.58.220	Phosphate transport system protein phou homolog 2; domain 2	S	Phosphate transport system protein phou homolog 2, domain 2
+1.20.58.240	STAT; domain 1	S	STAT, domain 1
+1.20.58.280	Hypothetical protein 1500032h18.	T	Hypothetical protein 1500032h18
+1.20.58.290	Hypothetical membrane protein ta0354_69_121.	T	Hypothetical membrane protein ta0354_69_121
+1.20.58.320	TPR-like 	R	TPR-like
+1.20.58.380	Flagellar protein flit.	T	Flagellar protein flit
+1.20.58.400	t-snare proteins 	LR	T-snare proteins
+1.20.58.440	choline binding protein A	L	Choline binding protein A
+1.20.58.460	Hyaluronidase post-catalytic domain-like 	R	Hyaluronidase post-catalytic domain-like
+1.20.82.10	ADP Ribosyl Cyclase; Chain A, domain 1	SR	ADP ribosyl cyclase, chain A, domain 1
+1.20.85.10	Photosystem II protein D1-like	R	Photosystem II protein d1-like
+1.20.89.10	Nitrogenase Molybdenum-iron Protein, subunit B, domain 4	R	Nitrogenase molybdenum-iron protein, subunit B, domain 4
+1.20.120.330	Nucleotidyltransferases  domain 2	R	Nucleotidyltransferases domain 2
+1.20.120.350	Voltage-gated potassium channels. Chain C	CR	Voltage-gated potassium channels, chain C
+1.20.120.390	Hla class ii histocompatibility antigen, dr alpha chain. Chain D, domain 1	CR	Hla class ii histocompatibility antigen, dr alpha chain, chain D, domain 1
+1.20.120.420	translation initiation factor eif-2b, domain 1	L	Translation initiation factor eif-2b, domain 1
+1.20.120.450	dinb family like domain	L	Dinb family like domain
+1.20.120.460	protein pf1176 like	L	Protein pf1176 like
+1.20.120.510	mg296 homolog like	L	Mg296 homolog like
+1.20.120.520	nmb1532 protein domain like	L	Nmb1532 protein domain like
+1.20.120.560	alix/aip1 in complex with the ypdl late domain 	LR	Alix/aip1 in complex with the ypdl late domain
+1.20.120.580	bsu32300-like	L	Bsu32300-like
+1.20.120.610	lithium bound rotor ring of v- atpase	L	Lithium bound rotor ring of v- atpase
+1.20.120.620	Backbone structure of the membrane domain of e. Coli histidine kinase receptor kdpd,	TCR	Backbone structure of the membrane domain of e, coli histidine kinase receptor kdpd
+1.20.120.660	IL-4 antagonist (De novo design) like domain	R	IL-4 antagonist (de novo design) like domain
+1.20.120.670	N-acetyl-b-d-glucoasminidase 	R	N-acetyl-b-d-glucoasminidase
+1.20.140.10	Butyryl-CoA Dehydrogenase, subunit A, domain 3	R	Butyryl-CoA dehydrogenase, subunit A, domain 3
+1.20.140.50	alix/aip1 like domains	L	Alix/aip1 like domains
+1.20.200.10	Fumarase/aspartase (Central domain)	R	Fumarase/aspartase (central domain)
+1.20.245.10	Lipoxygenase-1; Domain 5	SR	Lipoxygenase-1, domain 5
+1.20.250.10	Colicin Ia, domain 1	R	Colicin ia, domain 1
+1.20.810.10	Cytochrome Bc1 Complex; Chain C	SR	Cytochrome bc1 complex, chain C
+1.20.850.10	Hydroxylamine Oxidoreductase; Chain A, domain 2	SR	Hydroxylamine oxidoreductase, chain A, domain 2
+1.20.870.10	Son of sevenless (SoS) protein Chain: S domain 1	R	Son of sevenless (SoS) protein chain: S domain 1
+1.20.890.20	mpn423 like domain	L	Mpn423 like domain
+1.20.930.20	Adaptor protein Cbl, N-terminal domain	R	Adaptor protein cbl, N-terminal domain
+1.20.940.10	Functional domain of the splicing factor Prp18	R	Functional domain of the splicing factor prp18
+1.20.950.20	Transmembrane di-heme cytochromes, Chain C	R	Transmembrane di-heme cytochromes, chain C
+1.20.960.10	Mitochondrial outer membrane translocase complex, subunit Tom20 domain	R	Mitochondrial outer membrane translocase complex, subunit tom20 domain
+1.20.970.10	Transferase, Pyrimidine Nucleoside Phosphorylase; Chain C	SR	Transferase, pyrimidine nucleoside phosphorylase, chain C
+1.20.990.10	NADPH-cytochrome p450 Reductase; Chain A, domain 3	SR	NADPH-cytochrome p450 reductase, chain A, domain 3
+1.20.1050.40	Endopeptidase. Chain P; domain 1	CSR	Endopeptidase, chain P, domain 1
+1.20.1050.50	Particulate methane monooxygenase subunit c2. Chain: C	CR	Particulate methane monooxygenase subunit c2, chain: C
+1.20.1050.60	alpha-1,2-mannosidase	L	Alpha-1,2-mannosidase
+1.20.1060.10	Taq DNA Polymerase; Chain T, domain 4	SR	Taq DNA polymerase, chain T, domain 4
+1.20.1080.10	Glycerol uptake facilitator protein.	T	Glycerol uptake facilitator protein
+1.20.1270.150	Surface Active Protein	R	Surface active protein
+1.20.1310.10	Cullin Repeats	R	Cullin repeats
+1.20.1320.20	hef helicase domain	L	Hef helicase domain
+1.20.1330.10	f41 fragment of flagellin, N-terminal domain	L	F41 fragment of flagellin, N-terminal domain
+1.20.1340.10	dopa decarboxylase, N-terminal domain	L	Dopa decarboxylase, N-terminal domain
+1.20.1440.10	de novo design (two linked rop proteins)	L	De novo design (two linked rop proteins)
+1.20.1440.30	Biosynthetic Protein domain	R	Biosynthetic protein domain
+1.20.1440.90	Phosphoenolpyruvate/pyruvate domain 	R	Phosphoenolpyruvate/pyruvate domain
+1.20.1440.110	acylaminoacyl peptidase	L	Acylaminoacyl peptidase
+1.20.1460.10	subunit c (vma5p) of the yeast v-atpase, domain 2	L	Subunit c (vma5p) of the yeast v-atpase, domain 2
+1.20.1480.10	hypothetical protein mp506/mpn330, domain 1	L	Hypothetical protein mp506/mpn330, domain 1
+1.20.1570.10	dip2346 domain like	L	Dip2346 domain like
+1.20.1580.10	ABC transporter ATPase  like domain	R	ABC transporter ATPase like domain
+1.20.1600.10	Outer membrane efflux proteins (OEP) 	R	Outer membrane efflux proteins (OEP)
+1.20.1610.10	alpha-1,2-mannosidases domains	L	Alpha-1,2-mannosidases domains
+1.25.10.10	Leucine-rich Repeat Variant	R	Leucine-rich repeat variant
+1.25.40.250	ARM repeat; domain 1	S	ARM repeat, domain 1
+1.25.40.280	alix/aip1 like domains	L	Alix/aip1 like domains
+2.10.22.10	Antistasin; domain 1	S	Antistasin, domain 1
+2.10.25.20	reovirus attachment protein sigma1; domain 1	LS	Reovirus attachment protein sigma1, domain 1
+2.10.50.10	Tumor Necrosis Factor Receptor, subunit A, domain 2	R	Tumor necrosis factor receptor, subunit A, domain 2
+2.10.69.10	Cysteine Protease (Bromelain) Inhibitor, subunit H	R	Cysteine protease (bromelain) inhibitor, subunit H
+2.10.70.10	Complement Module, domain 1	R	Complement module, domain 1
+2.10.70.20	gspk-gspi-gspj complex like domains	L	Gspk-gspi-gspj complex like domains
+2.10.70.40	peptidoglycan hydrolase 	LR	Peptidoglycan hydrolase
+2.10.77.10	Hemagglutinin Chain A, Domain 2	R	Hemagglutinin chain A, domain 2
+2.10.109.10	Umud Fragment, subunit A	R	Umud fragment, subunit A
+2.10.110.10	Cysteine Rich Protein	R	Cysteine rich protein
+2.10.210.10	Cytochrome Bc1 Complex; Chain I	SR	Cytochrome bc1 complex, chain I
+2.10.220.10	Hormone Receptor, Insulin-like Growth Factor Receptor 1; Chain A, domain 2	SR	Hormone receptor, insulin-like growth factor receptor 1, chain A, domain 2
+2.10.270.10	Cholin Binding	R	Cholin binding
+2.10.280.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1	L	Heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1
+2.20.20.30	reverse gyrase domain 	LR	Reverse gyrase domain
+2.20.20.40	Integron cassette protein 	R	Integron cassette protein
+2.20.28.20	Methionyl-tRNA synthetase, Zn-domain	R	Methionyl-tRNA synthetase, zn-domain
+2.20.28.40	H/ACA ribonucleoprotein complex, subunit Nop10	R	H/ACA ribonucleoprotein complex, subunit nop10
+2.20.28.50	degv family protein	L	Degv family protein
+2.20.50.20	Lipovitellin. Chain A, domain 3	CR	Lipovitellin, chain A, domain 3
+2.20.110.10	Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain	R	Histone H3 k4-specific methyltransferase SET7/9 N-terminal domain
+2.20.150.10	putative 5-dehydro-2- deoxygluconokinase	L	Putative 5-dehydro-2- deoxygluconokinase
+2.20.160.10	titin domain like	L	Titin domain like
+2.20.170.10	p120GAP domain-like	L	P120GAP domain-like
+2.20.180.10	putative fmn-dependent nitroreductase like domains	L	Putative fmn-dependent nitroreductase like domains
+2.20.210.10	ubp-family deubiquitinating enzyme superfamily	L	Ubp-family deubiquitinating enzyme superfamily
+2.20.220.10	alpha-Amylases	L	Alpha-Amylases
+2.20.230.10	Resuscitation-promoting factor rpfb.	T	Resuscitation-promoting factor rpfb
+2.30.26.10	Dihydroorotate Dehydrogenase A, chain A, domain 2	R	Dihydroorotate dehydrogenase A, chain A, domain 2
+2.30.27.10	Phage FD Coat Protein,Membrane penetration domain	R	Phage FD coat protein,membrane penetration domain
+2.30.29.30	Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)	R	Pleckstrin-homology domain (PH domain)/phosphotyrosine-binding domain (PTB)
+2.30.29.40	PH domain-like; domain 1	S	PH domain-like, domain 1
+2.30.29.50	Bacterial Pleckstrin homology domain	R	Bacterial pleckstrin homology domain
+2.30.30.40	SH3 Domains	R	SH3 domains
+2.30.30.130	Transposase, Mu, C-terminal	R	Transposase, mu, C-terminal
+2.30.30.190	CAP Gly-rich-like domain	R	CAP gly-rich-like domain
+2.30.30.290	YopX-like domains 	R	YopX-like domains
+2.30.30.300	class i lysyl-tRNA synthetase like	L	Class i lysyl-tRNA synthetase like
+2.30.30.350	mobile metagenome of vibrio cholerae. Integron cassette protein vch_cass4.	TLR	Mobile metagenome of vibrio cholerae. integron cassette protein vch_cass4
+2.30.30.380	Zn-finger domain of Sec23/24	R	Zn-finger domain of sec23/24
+2.30.30.410	Cell wall targeting domain of glycylglycine endopeptidase 	R	Cell wall targeting domain of glycylglycine endopeptidase
+2.30.30.420	glucansucrase 	LR	Glucansucrase
+2.30.31.10	Transcriptional Coactivator Pc4; Chain A	SR	Transcriptional coactivator pc4, chain A
+2.30.36.70	Actin; Chain A, domain 2	SR	Actin, chain A, domain 2
+2.30.38.10	Luciferase; Domain 3	SR	Luciferase, domain 3
+2.30.90.10	Heparin-binding Growth Factor, Midkine; Chain A- C-terminal Domain	SR	Heparin-binding growth factor, midkine, chain A- C-terminal domain
+2.30.110.10	Electron Transport, Fmn-binding Protein; Chain A	SR	Electron transport, fmn-binding protein, chain A
+2.30.130.30	Hypothetical protein.	T	Hypothetical protein
+2.30.170.30	ethanolamine ammonia-lyase heavy chain domain like	L	Ethanolamine ammonia-lyase heavy chain domain like
+2.30.170.40	Ribosomal protein L28/L24	R	Ribosomal protein l28/l24
+2.30.220.10	f41 fragment of flagellin, C-terminal domain	L	F41 fragment of flagellin, C-terminal domain
+2.30.230.10	Lipovitellin; beta-sheet shell regions, chain A	S	Lipovitellin, beta-sheet shell regions, chain A
+2.30.250.10	Aminopeptidase i, Domain 2	R	Aminopeptidase i, domain 2
+2.30.260.10	putative xylanase like domain	L	Putative xylanase like domain
+2.30.270.10	duf1285 protein 	LR	Duf1285 protein
+2.30.310.10	ibrinogen binding protein from staphylococcus aureus domain	L	Ibrinogen binding protein from staphylococcus aureus domain
+2.40.10.190	translation elongation factor selb, chain A, domain 4	L	Translation elongation factor selb, chain A, domain 4
+2.40.10.200	STY4665 C-terminal domain-like 	R	STY4665 C-terminal domain-like
+2.40.10.220	predicted glycosyltransferase like domains	L	Predicted glycosyltransferase like domains
+2.40.20.10	Plasminogen Kringle 4	R	Plasminogen kringle 4
+2.40.37.10	Lyase, Ornithine Decarboxylase; Chain A, domain 1	SR	Lyase, ornithine decarboxylase, chain A, domain 1
+2.40.50.170	Cysteine proteinases. Chain C	CR	Cysteine proteinases, chain C
+2.40.50.180	CheA-289, Domain 4	R	CheA-289, domain 4
+2.40.50.250	bipa protein	L	Bipa protein
+2.40.50.270	transglycosylase MltA 	LR	Transglycosylase MltA
+2.40.70.10	Acid Proteases	R	Acid proteases
+2.40.110.10	Butyryl-CoA Dehydrogenase, subunit A, domain 2	R	Butyryl-CoA dehydrogenase, subunit A, domain 2
+2.40.160.40	monomeric porin ompg 	LR	Monomeric porin ompg
+2.40.160.50	membrane protein fhac: a member of the omp85/tpsb transporter family 	LR	Membrane protein fhac: a member of the omp85/tpsb transporter family
+2.40.160.60	Outer membrane protein transport protein (OMPP1/FadL/TodX) 	R	Outer membrane protein transport protein (OMPP1/FadL/TodX)
+2.40.160.70	outer membrane protein from Thermus thermophilus HB27.	TLR	Outer membrane protein from thermus thermophilus HB27
+2.40.200.10	Telomere-binding Protein Beta Subunit; Chain	SR	Telomere-binding protein beta subunit, chain
+2.40.220.10	Intramolecular Trans-sialidase; Domain 3	SR	Intramolecular trans-sialidase, domain 3
+2.40.230.20	Nucleoside-specific channel-forming protein, Tsx-like	R	Nucleoside-specific channel-forming protein, tsx-like
+2.40.240.10	Ribosomal Protein L25; Chain P	SR	Ribosomal protein L25, chain P
+2.40.240.20	Hypothetical PUA domain-like; domain 1	S	Hypothetical PUA domain-like, domain 1
+2.40.310.10	beta-Barrel protease inhibitors	L	Beta-Barrel protease inhibitors
+2.40.320.10	Hypothetical Protein Pfu-838710-001	R	Hypothetical protein pfu-838710-001
+2.40.410.10	putative membrane protein from Corynebacterium diphtheriae superfamily	LR	Putative membrane protein from corynebacterium diphtheriae superfamily
+2.40.420.10	conserved putative lor/sdh protein from methanococcus maripaludis s2 domain	L	Conserved putative lor/sdh protein from methanococcus maripaludis s2 domain
+2.40.470.10	catalase hpii domain	L	Catalase hpii domain
+2.40.480.10	Allene oxide cyclase-like 	R	Allene oxide cyclase-like
+2.60.11.10	Cytochrome c oxidase, subunit Vb	R	Cytochrome c oxidase, subunit vb
+2.60.34.10	Substrate Binding Domain Of DNAk; Chain A, domain 1	SR	Substrate binding domain of DNAk, chain A, domain 1
+2.60.40.420	Cupredoxins -  blue copper proteins	R	Cupredoxins - blue copper proteins
+2.60.40.780	von Hippel-Lindau disease tumour suppressor,  beta domain	LR	Von Hippel-Lindau disease tumour suppressor, beta domain
+2.60.40.1140	Collagen-binding surface protein Cna, B-type domain	R	Collagen-binding surface protein cna, B-type domain
+2.60.40.1260	Lamin Tail domain	R	Lamin tail domain
+2.60.40.1380	E set domains; domain 4	S	E set domains, domain 4
+2.60.40.1410	Bacterial adhesins - F17c-type	R	Bacterial adhesins - f17c-type
+2.60.40.1460	Integrin domains. Chain A, domain 2	CR	Integrin domains, chain A, domain 2
+2.60.40.1500	Glycosyl hydrolase domain; family 39	S	Glycosyl hydrolase domain, family 39
+2.60.40.1510	ntegrin, alpha v. Chain A, domain 3	CLR	Ntegrin, alpha v, chain A, domain 3
+2.60.40.1530	ntegrin, alpha v. Chain A, domain 4	CLR	Ntegrin, alpha v, chain A, domain 4
+2.60.40.1580	Particulate methane monooxygenase, b subunit. Chain: A, domain 3	CR	Particulate methane monooxygenase, b subunit, chain: A, domain 3
+2.60.40.1630	bacillus anthracis domain	L	Bacillus anthracis domain
+2.60.40.1640	Conserved domain protein.	T	Conserved domain protein
+2.60.40.1650	Porin MspA (Ig-like beta-sandwich domain)	R	Porin MspA (ig-like beta-sandwich domain)
+2.60.40.1660	Na, k-atpase alpha subunit. 	TR	Na, k-atpase alpha subunit
+2.60.40.1670	beta-sandwich domain of Sec23/24	LR	Beta-sandwich domain of sec23/24
+2.60.40.1730	tricorn interacting facor f3 domain	L	Tricorn interacting facor f3 domain
+2.60.40.1740	hypothetical protein (bacova_03559)	L	Hypothetical protein (bacova_03559)
+2.60.40.1760	glycosyl hydrolase (family 31)	L	Glycosyl hydrolase (family 31)
+2.60.40.1770	ephrin a2 ectodomain	L	Ephrin a2 ectodomain
+2.60.60.30	sav2460 like domains	L	Sav2460 like domains
+2.60.98.10	Tick-borne Encephalitis virus Glycoprotein, domain 1	R	Tick-borne encephalitis virus glycoprotein, domain 1
+2.60.120.10	Jelly Rolls	R	Jelly rolls
+2.60.120.330	B-lactam Antibiotic, Isopenicillin N Synthase; Chain	SR	B-lactam antibiotic, isopenicillin N synthase, chain
+2.60.120.420	Membrane penetration protein mu1, Chain B, domain 4	R	Membrane penetration protein mu1, chain B, domain 4
+2.60.120.510	Mitogen Ypm	R	Mitogen ypm
+2.60.120.520	pectin degrading enzyme 5-keto 4- deoxyuronate isomerase, domain 1	L	Pectin degrading enzyme 5-keto 4- deoxyuronate isomerase, domain 1
+2.60.120.550	Penton protein; domain 1	S	Penton protein, domain 1
+2.60.120.560	Exo-inulinase; domain 1	S	Exo-inulinase, domain 1
+2.60.120.570	Particulate methane monooxygenase, b subunit. Chain: A, domain 1	CR	Particulate methane monooxygenase, b subunit, chain: A, domain 1
+2.60.120.610	arabinofuranosyltransferase like domain	L	Arabinofuranosyltransferase like domain
+2.60.120.620	q2cbj1_9rhob like domain	L	Q2cbj1_9rhob like domain
+2.60.120.630	mth639 domain like	L	Mth639 domain like
+2.60.120.640	gp9 	LR	Gp9
+2.60.120.660	icosahedral virus	L	Icosahedral virus
+2.60.120.670	Minor capsid protein.	T	Minor capsid protein
+2.60.175.20	Major capsid L1 (late) superfamily, Papillomavirus	R	Major capsid L1 (late) superfamily, papillomavirus
+2.60.200.30	Probable inorganic polyphosphate/atp-NAD kinase; domain 2	S	Probable inorganic polyphosphate/atp-NAD kinase, domain 2
+2.60.210.10	Apoptosis, Tumor Necrosis Factor Receptor Associated Protein 2; Chain A	SR	Apoptosis, tumor necrosis factor receptor associated protein 2, chain A
+2.60.220.20	putative beta-Galactosidase from caulobacter crescentus 	LR	Putative beta-galactosidase from caulobacter crescentus
+2.60.260.40	q5lls5 like domains	L	Q5lls5 like domains
+2.60.330.10	receptor-binding protein prd1-p2, domain 2	L	Receptor-binding protein prd1-p2, domain 2
+2.60.340.10	baseplate structural protein gp8, domain 1	L	Baseplate structural protein gp8, domain 1
+2.60.460.10	protein yfey like domain	L	Protein yfey like domain
+2.60.480.10	eubacterium ventriosum atcc domain	L	Eubacterium ventriosum atcc domain
+2.60.490.10	atp-gated p2x4 ion channel domain	L	Atp-gated p2x4 ion channel domain
+2.60.500.10	Surface Active Protein domain	R	Surface active protein domain
+2.60.510.10	EV matrix protein 	R	EV matrix protein
+2.70.9.10	Adenovirus Type 2 Hexon, domain 4	R	Adenovirus type 2 hexon, domain 4
+2.70.9.20	Major capsid protein Vp54	R	Major capsid protein vp54
+2.70.10.10	Thrombin Inhibitor (Hirudin), subunit I	R	Thrombin inhibitor (hirudin), subunit I
+2.70.50.30	Coagulation Factor XIII, subunit A, domain 1	R	Coagulation factor XIII, subunit A, domain 1
+2.70.50.50	chitin-binding protein cbp21	L	Chitin-binding protein cbp21
+2.70.50.60	abc- transporter (atp binding component) like domain	L	Abc- transporter (atp binding component) like domain
+2.70.70.10	Glucose Permease (Domain IIA)	R	Glucose permease (domain IIA)
+2.70.98.30	Golgi alpha-mannosidase II; domain 4	S	Golgi alpha-mannosidase II, domain 4
+2.70.98.50	putative glycoside hydrolase family protein from bacillus halodurans	L	Putative glycoside hydrolase family protein from bacillus halodurans
+2.70.98.60	alpha-galactosidase from lactobacil brevis	L	Alpha-galactosidase from lactobacil brevis
+2.70.250.10	receptor-binding protein prd1-p2, domain 3	L	Receptor-binding protein prd1-p2, domain 3
+2.102.10.10	Rieske [2Fe-2S] iron-sulphur domain	R	Rieske [2fe-2s] iron-sulphur domain
+2.102.30.10	tm1086 (SG structure) domain	L	Tm1086 (SG structure) domain
+2.115.10.20	Glycosyl hydrolase domain; family 43	S	Glycosyl hydrolase domain, family 43
+2.130.10.10	YVTN repeat-like/Quinoprotein amine dehydrogenase 	R	YVTN repeat-like/quinoprotein amine dehydrogenase
+2.130.10.120	Prolyl oligopeptidase, N-terminal domain 	R	Prolyl oligopeptidase, N-terminal domain
+2.160.20.10	Single-stranded right-handed beta-helix, Pectin lyase-like	R	Single-stranded right-handed beta-helix, pectin lyase-like
+2.160.20.80	E3 ubiquitin-protein ligase SopA 	R	E3 ubiquitin-protein ligase SopA
+2.160.30.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2	L	Heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 2
+2.170.8.10	Phosphoenolpyruvate Carboxykinase, domain 2	R	Phosphoenolpyruvate carboxykinase, domain 2
+2.170.9.10	Adenovirus Type 2 Hexon, domain 1	R	Adenovirus type 2 hexon, domain 1
+2.170.11.10	DNA Topoisomerase I, domain 2	R	DNA topoisomerase I, domain 2
+2.170.16.10	Hedgehog/Intein (Hint) domain	R	Hedgehog/Intein (hint) domain
+2.170.40.20	Human immunodeficiency virus 1, Gp160, envelope glycoprotein	R	Human immunodeficiency virus 1, gp160, envelope glycoprotein
+2.170.150.10	Metal Binding Protein, Guanine Nucleotide Exchange Factor; Chain A	SR	Metal binding protein, guanine nucleotide exchange factor, chain A
+2.170.150.20	Peptide methionine sulfoxide reductase.	T	Peptide methionine sulfoxide reductase
+2.170.160.10	Endo-1,4-beta-glucanase f.  Domain 2	CR	Endo-1,4-beta-glucanase f, domain 2
+2.170.190.11	Molybdopterin biosynthesis moea protein, domain 3.	T	Molybdopterin biosynthesis moea protein, domain 3
+2.170.260.10	paz domain	L	Paz domain
+2.170.280.10	f41 fragment of flagellin, middle domain	L	F41 fragment of flagellin, middle domain
+2.170.290.10	baseplate structural protein gp8, domain 2	L	Baseplate structural protein gp8, domain 2
+3.10.10.10	HIV Type 1 Reverse Transcriptase, subunit A, domain 1	R	HIV type 1 reverse transcriptase, subunit A, domain 1
+3.10.20.90	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1	SR	Phosphatidylinositol 3-kinase catalytic subunit, chain A, domain 1
+3.10.20.300	mk0293 like domain	L	Mk0293 like domain
+3.10.20.310	membrane protein fhac	L	Membrane protein fhac
+3.10.100.10	Mannose-Binding Protein A, subunit A	R	Mannose-Binding protein A, subunit A
+3.10.105.10	Dipeptide-binding Protein; Domain 3	SR	Dipeptide-binding protein, domain 3
+3.10.110.10	Ubiquitin Conjugating Enzyme	R	Ubiquitin conjugating enzyme
+3.10.129.10	Hotdog Thioesterase 	R	Hotdog thioesterase
+3.10.150.10	DNA Polymerase III, subunit A, domain 2	R	DNA polymerase III, subunit A, domain 2
+3.10.180.10	2,3-Dihydroxybiphenyl 1,2-Dioxygenase, domain 1	R	2,3-Dihydroxybiphenyl 1,2-dioxygenase, domain 1
+3.10.180.20	N-Acetylglucosaminyltransferase I, Domain 2	R	N-Acetylglucosaminyltransferase I, domain 2
+3.10.196.10	Vitamin B12-dependent methionine synthase, activation domain	R	Vitamin b12-dependent methionine synthase, activation domain
+3.10.270.10	Urate Oxidase;	TSR	Urate oxidase
+3.10.290.20	Ubiquitin-like 2 activating enzyme e1b. Chain:  B, domain 3	CR	Ubiquitin-like 2 activating enzyme e1b, chain: B, domain 3
+3.10.310.10	Diaminopimelate Epimerase; Chain A, domain 1	SR	Diaminopimelate epimerase, chain A, domain 1
+3.10.320.10	Class II Histocompatibility Antigen, M Beta Chain; Chain B, domain 1	SR	Class II histocompatibility antigen, M beta chain, chain B, domain 1
+3.10.340.11	Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 1	SR	Methenyltetrahydromethanopterin cyclohydrolase, chain A, domain 1
+3.10.360.10	Antimicrobial Peptide, Beta-defensin 2; Chain A	SR	Antimicrobial peptide, beta-defensin 2, chain A
+3.10.380.10	Colicin E3-like ribonuclease domain	R	Colicin e3-like ribonuclease domain
+3.10.450.100	NTF2-like; domain 1	S	NTF2-like, domain 1
+3.10.450.120	Pre-PUA domain; domain 1	S	Pre-PUA domain, domain 1
+3.10.450.130	folded 79 residue fragment of lin0334 like domains	L	Folded 79 residue fragment of lin0334 like domains
+3.10.450.140	dsDNA mimic, putative	L	DsDNA mimic, putative
+3.10.450.150	enterococcus faecalis protein	L	Enterococcus faecalis protein
+3.10.450.160	inner membrane protein cigr	L	Inner membrane protein cigr
+3.10.450.170	type vi secretion system effector-immunity co pseudomonas protegens	L	Type vi secretion system effector-immunity co pseudomonas protegens
+3.10.540.10	duf1285 like domain	L	Duf1285 like domain
+3.10.550.10	Hypothetical protein Atu2299	R	Hypothetical protein atu2299
+3.10.570.10	sex pheromone staph- cam373 precursor domain	L	Sex pheromone staph- cam373 precursor domain
+3.10.590.10	ph1033 like domains	L	Ph1033 like domains
+3.10.600.10	pyruvate carboxylase f1077a mutant domain	L	Pyruvate carboxylase f1077a mutant domain
+3.10.610.10	GSPII I/J protein-like	R	GSPII i/j protein-like
+3.10.630.10	dip2346 domain like	L	Dip2346 domain like
+3.10.650.10	MalF N-terminal region-like 	R	MalF N-terminal region-like
+3.10.660.10	DPH Zinc finger	R	DPH zinc finger
+3.10.670.10	Secreted effector protein ssei.	T	Secreted effector protein ssei
+3.15.10.10	Bactericidal permeability-increasing protein; domain 1	S	Bactericidal permeability-increasing protein, domain 1
+3.15.20.10	Bactericidal permeability-increasing protein; domain 2	S	Bactericidal permeability-increasing protein, domain 2
+3.15.30.10	putative capsid protein of prophage domain like	L	Putative capsid protein of prophage domain like
+3.20.10.10	D-amino Acid Aminotransferase, subunit A, domain 2	R	D-amino acid aminotransferase, subunit A, domain 2
+3.20.90.10	Tubby Protein; Chain A	SR	Tubby protein, chain A
+3.20.100.10	mRNA triphosphatase Cet1-like	R	mRNA triphosphatase cet1-like
+3.20.140.10	nicotinate phosphoribosyltransferase	L	Nicotinate phosphoribosyltransferase
+3.20.160.10	vpa0580 domain like	L	Vpa0580 domain like
+3.30.9.10	D-Amino Acid Oxidase, subunit A, domain 2	R	D-Amino acid oxidase, subunit A, domain 2
+3.30.10.10	Trypsin Inhibitor V, subunit A	R	Trypsin inhibitor V, subunit A
+3.30.30.80	probable RNA-binding protein from clostridium symbiosum atcc 14940	L	Probable RNA-binding protein from clostridium symbiosum atcc 14940
+3.30.40.20	Chymotrypsin-like serine protease; domain 3	S	Chymotrypsin-like serine protease, domain 3
+3.30.43.10	Uridine Diphospho-n-acetylenolpyruvylglucosamine Reductase, domain 2	R	Uridine diphospho-n-acetylenolpyruvylglucosamine reductase, domain 2
+3.30.44.10	Smk Toxin, beta chain	R	Smk toxin, beta chain
+3.30.50.10	Erythroid Transcription Factor GATA-1, subunit A	R	Erythroid transcription factor GATA-1, subunit A
+3.30.50.20	prophage-derive protein ybcO	LR	Prophage-derive protein ybco
+3.30.60.50	Hypothetical oxidoreductase yiak; domain 3	S	Hypothetical oxidoreductase yiak, domain 3
+3.30.62.10	Nef Regulatory Factor	R	Nef regulatory factor
+3.30.63.10	Guanylate Kinase phosphate binding domain	R	Guanylate kinase phosphate binding domain
+3.30.65.10	Bacterial Topoisomerase I, domain 1	R	Bacterial topoisomerase I, domain 1
+3.30.67.10	Viral Envelope Glycoprotein, domain 2	R	Viral envelope glycoprotein, domain 2
+3.30.70.390	Epstein Barr virus nuclear antigen-1, DNA-binding domain	R	Epstein barr virus nuclear antigen-1, DNA-binding domain
+3.30.70.870	Elongation Factor G (Translational Gtpase), domain 3	R	Elongation factor G (translational gtpase), domain 3
+3.30.70.1020	Trehalose-6-phosphate phosphatase related protein; domain 2	S	Trehalose-6-phosphate phosphatase related protein, domain 2
+3.30.70.1030	Apc35880; domain 1	S	Apc35880, domain 1
+3.30.70.1090	Dimeric alpha+beta barrel.	T	Dimeric alpha+beta barrel
+3.30.70.1100	Apc35880; domain 2	S	Apc35880, domain 2
+3.30.70.1140	Phospho-2-dehydro-3-deoxyheptonate aldolase; domain 1	S	Phospho-2-dehydro-3-deoxyheptonate aldolase, domain 1
+3.30.70.1150	ACT-like. Chain A, domain 2	CR	ACT-like, chain A, domain 2
+3.30.70.1170	Sun protein; domain 3	S	Sun protein, domain 3
+3.30.70.1180	Vacuolar atp synthase subunit c; domain 1	S	Vacuolar atp synthase subunit c, domain 1
+3.30.70.1200	Crispr-associated protein; domain 1	S	Crispr-associated protein, domain 1
+3.30.70.1210	Crispr-associated protein; domain 2	S	Crispr-associated protein, domain 2
+3.30.70.1260	bacterial protein sp0830 like	L	Bacterial protein sp0830 like
+3.30.70.1360	mj0159-like	L	Mj0159-like
+3.30.70.1390	ROC domain from the Parkinson's disease-associated leucine-rich repeat kinase 2	R	ROC domain from the parkinson's disease-associated leucine-rich repeat kinase 2
+3.30.70.1410	yhjk (haloacid dehalogenase-like hydrolase protein) domain	L	Yhjk (haloacid dehalogenase-like hydrolase protein) domain
+3.30.70.1470	Caspase-like 	R	Caspase-like
+3.30.70.1490	Cysteine protease Prp	R	Cysteine protease prp
+3.30.70.1560	Alpha-L RNA-binding motif 	R	Alpha-L RNA-binding motif
+3.30.110.70	Hypothetical protein apc22750. Chain B	CR	Hypothetical protein apc22750, chain B
+3.30.160.60	Classic Zinc Finger	R	Classic zinc finger
+3.30.160.80	Amb V Allergen	R	Amb V allergen
+3.30.160.110	Siroheme synthase; domain 2	S	Siroheme synthase, domain 2
+3.30.160.130	ykff protein like domains	L	Ykff protein like domains
+3.30.160.190	atu1810 like domain	L	Atu1810 like domain
+3.30.200.20	Phosphorylase Kinase; domain 1	SR	Phosphorylase kinase, domain 1
+3.30.230.20	lpxc deacetylase, domain 1	L	Lpxc deacetylase, domain 1
+3.30.230.40	Imidazole glycerol phosphate dehydratase; domain 1	S	Imidazole glycerol phosphate dehydratase, domain 1
+3.30.230.70	GHMP Kinase, N-terminal domain	R	GHMP kinase, N-terminal domain
+3.30.240.10	CRO Repressor	R	CRO repressor
+3.30.240.20	bsu07140 like domains	L	Bsu07140 like domains
+3.30.300.80	FLP Recombinase,  lambda integrase-like, N-terminal domain (domain 1)	R	FLP recombinase, lambda integrase-like, N-terminal domain (domain 1)
+3.30.305.10	Colicin Ia; domain 2	SR	Colicin ia, domain 2
+3.30.310.10	TATA-Binding Protein	R	TATA-Binding protein
+3.30.310.140	sec7 domains	L	Sec7 domains
+3.30.342.10	DNA Polymerase, chain B, domain 1	R	DNA polymerase, chain B, domain 1
+3.30.360.10	Dihydrodipicolinate Reductase; domain 2	SR	Dihydrodipicolinate reductase, domain 2
+3.30.360.30	homospermidine synthase like	L	Homospermidine synthase like
+3.30.380.10	MS2 Viral Coat Protein	R	MS2 viral coat protein
+3.30.387.10	Viral Envelope Glycoprotein, domain 3	R	Viral envelope glycoprotein, domain 3
+3.30.390.60	Heat-inducible transcription repressor hrca homolog; domain 3	S	Heat-inducible transcription repressor hrca homolog, domain 3
+3.30.410.10	Cholesterol Oxidase; domain 2	SR	Cholesterol oxidase, domain 2
+3.30.413.10	Sulfite Reductase Hemoprotein, domain 1	R	Sulfite reductase hemoprotein, domain 1
+3.30.420.10	Ribonuclease H-like superfamily/Ribonuclease H	R	Ribonuclease H-like superfamily/ribonuclease H
+3.30.420.150	Exopolyphosphatase. Domain 2	CR	Exopolyphosphatase, domain 2
+3.30.420.190	conserved archaeal protein q6m145	L	Conserved archaeal protein q6m145
+3.30.428.30	HIT family -  CDH-like	R	HIT family - CDH-like
+3.30.429.10	Macrophage Migration Inhibitory Factor	R	Macrophage migration inhibitory factor
+3.30.430.10	Killer Toxin P4, subunit A	R	Killer toxin P4, subunit A
+3.30.450.130	irre protein	L	Irre protein
+3.30.460.10	Beta Polymerase, domain 2	R	Beta polymerase, domain 2
+3.30.479.20	Elongation factor Ts, dimerisation domain	R	Elongation factor ts, dimerisation domain
+3.30.519.10	Guanine Nucleotide Dissociation Inhibitor, domain 2	R	Guanine nucleotide dissociation inhibitor, domain 2
+3.30.560.10	Glucose Oxidase, domain 3	R	Glucose oxidase, domain 3
+3.30.565.40	Fervidobacterium nodosum Rt17-B1 like	R	Fervidobacterium nodosum rt17-b1 like
+3.30.700.10	Glycoprotein, Type 4 Pilin	R	Glycoprotein, type 4 pilin
+3.30.700.20	Hypothetical protein ph0010; domain 1	S	Hypothetical protein ph0010, domain 1
+3.30.710.10	Potassium Channel Kv1.1; Chain A	SR	Potassium channel kv1.1, chain A
+3.30.740.10	Protein Inhibitor Of Neuronal Nitric Oxide Synthase;	TSR	Protein inhibitor of neuronal nitric oxide synthase
+3.30.750.70	4-hydroxybutyrate coenzyme  like domains	R	4-hydroxybutyrate coenzyme like domains
+3.30.760.10	RNA Cap, Translation Initiation Factor Eif4e	R	RNA cap, translation initiation factor eif4e
+3.30.800.10	Phosphatidylinositol Phosphate Kinase II Beta	R	Phosphatidylinositol phosphate kinase II beta
+3.30.810.10	2-Layer Sandwich	R	2-Layer sandwich
+3.30.860.10	30s Ribosomal Protein S19; Chain A	SR	30s ribosomal protein S19, chain A
+3.30.870.10	Endonuclease Chain A	R	Endonuclease chain A
+3.30.870.20	Phospholipase D/nuclease; domain 2	SR	Phospholipase d/nuclease, domain 2
+3.30.890.10	Methyl-cpg-binding Protein 2; Chain A	SR	Methyl-cpg-binding protein 2, chain A
+3.30.920.30	Hypothetical protein.	T	Hypothetical protein
+3.30.930.10	Bira Bifunctional Protein; Domain 2	SR	Bira bifunctional protein, domain 2
+3.30.950.10	Methyltransferase, Cobalt-precorrin-4 Transmethylase; Domain 2	SR	Methyltransferase, cobalt-precorrin-4 transmethylase, domain 2
+3.30.960.10	Translation, Eukaryotic Peptide Chain Release Factor Subunit 1; Chain A, domain 1	SR	Translation, eukaryotic peptide chain release factor subunit 1, chain A, domain 1
+3.30.980.10	Threonyl-trna Synthetase; Chain A, domain 2	SR	Threonyl-trna synthetase, chain A, domain 2
+3.30.980.20	Putative mannosyl-3-phosphoglycerate phosphatase; domain 2	S	Putative mannosyl-3-phosphoglycerate phosphatase, domain 2
+3.30.1010.10	Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 4	SR	Phosphatidylinositol 3-kinase catalytic subunit, chain A, domain 4
+3.30.1020.10	Antioxidant, Horf6; Chain A, domain2	SR	Antioxidant, horf6, chain A, domain2
+3.30.1030.10	Methenyltetrahydromethanopterin Cyclohydrolase; Chain A, domain 2	SR	Methenyltetrahydromethanopterin cyclohydrolase, chain A, domain 2
+3.30.1120.50	Pepsin inhibitor-3 	R	Pepsin inhibitor-3
+3.30.1180.20	Dihydroxyacetone kinase; domain 2	S	Dihydroxyacetone kinase, domain 2
+3.30.1190.10	DNA-binding protein Tfx superfamily, archaea	R	DNA-binding protein tfx superfamily, archaea
+3.30.1300.30	GSPII I/J protein-like	R	GSPII i/j protein-like
+3.30.1330.80	Hypothetical protein, similar to alpha- acetolactate decarboxylase; domain 2	S	Hypothetical protein, similar to alpha- acetolactate decarboxylase, domain 2
+3.30.1330.90	D-3-phosphoglycerate dehydrogenase; domain 3	S	D-3-phosphoglycerate dehydrogenase, domain 3
+3.30.1330.120	2-methylcitrate dehydratase PrpD 	R	2-methylcitrate dehydratase PrpD
+3.30.1350.20	Bacteriophage PHI-29 conector. Domain 3	CR	Bacteriophage PHI-29 conector, domain 3
+3.30.1360.110	Domain 2, Phosphonoacetate Hydrolase	R	Domain 2, phosphonoacetate hydrolase
+3.30.1360.120	Probable tRNA modification gtpase trme; domain 1	S	Probable tRNA modification gtpase trme, domain 1
+3.30.1360.130	Dipeptide transport protein 	R	Dipeptide transport protein
+3.30.1370.10	K Homology domain, type 1	R	K homology domain, type 1
+3.30.1370.60	Hypothetical oxidoreductase yiak; domain 2	S	Hypothetical oxidoreductase yiak, domain 2
+3.30.1390.30	Penicillin-binding protein 2a; domain 3	S	Penicillin-binding protein 2a, domain 3
+3.30.1390.40	Ribosomal protein L30p/L7e	R	Ribosomal protein l30p/l7e
+3.30.1490.120	RNA polymerase Rpb7-like, N-terminal domain	R	RNA polymerase rpb7-like, N-terminal domain
+3.30.1490.130	D-aminoacylase. Domain 3	CR	D-aminoacylase, domain 3
+3.30.1490.150	Hypothetical protein ph0010; domain 2	S	Hypothetical protein ph0010, domain 2
+3.30.1490.160	ctc02137 like domains 	LR	Ctc02137 like domains
+3.30.1510.10	Domain 2, N(10)-formyltetrahydrofolate synthetase	R	Domain 2, n(10)-formyltetrahydrofolate synthetase
+3.30.1530.10	manganese catalase, domain 2, chain A	L	Manganese catalase, domain 2, chain A
+3.30.1540.10	formyl-coa transferase, domain 3	L	Formyl-coa transferase, domain 3
+3.30.1550.10	Ribosomal protein L11/L12, N-terminal domain	R	Ribosomal protein l11/l12, N-terminal domain
+3.30.1600.10	SIR2/SIRT2 'Small Domain'	R	SIR2/SIRT2 'small domain'
+3.30.1620.10	b-12 dependent (class ii) ribonucleotide reductase, Chain A, Domain 2	LR	B-12 dependent (class ii) ribonucleotide reductase, chain A, domain 2
+3.30.1640.10	mini-chromosome maintenance (MCM) complex, chain A, domain 1	L	Mini-chromosome maintenance (MCM) complex, chain A, domain 1
+3.30.1650.10	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 3	R	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), chain M, domain 3
+3.30.1680.10	ligand-binding face of the semaphorins, domain 2	L	Ligand-binding face of the semaphorins, domain 2
+3.30.1700.10	lpxc deacetylase, domain 2	L	Lpxc deacetylase, domain 2
+3.30.1710.10	top7, de novo designed protein	L	Top7, de novo designed protein
+3.30.1780.10	ornithine cyclodeaminase, domain 1	L	Ornithine cyclodeaminase, domain 1
+3.30.1790.10	hypothetical protein mp506/mpn330, domain 2	L	Hypothetical protein mp506/mpn330, domain 2
+3.30.1860.10	uncharacterized conserved protein from methanopyrus kandleri domain like	L	Uncharacterized conserved protein from methanopyrus kandleri domain like
+3.30.1870.10	EreA-like; domain 2	S	EreA-like, domain 2
+3.30.1880.10	protein ne1242 domain like	L	Protein ne1242 domain like
+3.30.1900.10	glyoxalase-related enzyme like domain	L	Glyoxalase-related enzyme like domain
+3.30.1910.10	so0334 like domain	L	So0334 like domain
+3.30.1930.10	capsid protein of prophage domain	L	Capsid protein of prophage domain
+3.30.1950.10	wza like domain	L	Wza like domain
+3.30.2050.10	photosynthetic oxygen evolving center domain	L	Photosynthetic oxygen evolving center domain
+3.30.2070.10	Formate dehydrogenase/DMSO reductase,	T	Formate dehydrogenase/DMSO reductase
+3.30.2090.10	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains 	SR	Multidrug efflux transporter AcrB TolC docking domain, DN and DC subdomains
+3.30.2110.10	CbiD-like 	R	CbiD-like
+3.30.2170.10	archaeoglobus fulgidus dsm 4304 superfamily	L	Archaeoglobus fulgidus dsm 4304 superfamily
+3.30.2200.10	histidine kinase doma clostridium symbiosum atcc 14940	L	Histidine kinase doma clostridium symbiosum atcc 14940
+3.30.2220.10	rbstp2171 	LR	Rbstp2171
+3.30.2320.10	hypothetical protein PF0899 domain	L	Hypothetical protein PF0899 domain
+3.30.2330.10	arginine biosynthesis bifunctional protein suprefamily	L	Arginine biosynthesis bifunctional protein suprefamily
+3.30.2330.20	family 98 glycoside hydrolase	L	Family 98 glycoside hydrolase
+3.30.2370.10	putative pyruvate dehydrogenase	L	Putative pyruvate dehydrogenase
+3.30.2420.10	TonB 	R	TonB
+3.30.2430.10	phosphothreonine lyase	L	Phosphothreonine lyase
+3.30.2450.10	Secreted effector protein pipB2	R	Secreted effector protein pipb2
+3.40.10.10	DNA Methylphosphotriester Repair Domain	R	DNA methylphosphotriester repair domain
+3.40.30.30	Hypothetical protein sa0798.	T	Hypothetical protein sa0798
+3.40.50.150	Vaccinia Virus protein VP39	R	Vaccinia virus protein VP39
+3.40.50.200	Peptidase S8/S53 domain	R	Peptidase s8/s53 domain
+3.40.50.410	von Willebrand factor, type A domain	L	Von Willebrand factor, type A domain
+3.40.50.700	NADH:ubiquinone oxidoreductase-like, 20kDa subunit	R	NADH:ubiquinone oxidoreductase-like, 20kda subunit
+3.40.50.720	NAD(P)-binding Rossmann-like Domain	R	NAD(P)-binding rossmann-like domain
+3.40.50.2000	Glycogen Phosphorylase B;	TSR	Glycogen phosphorylase B
+3.40.50.10230	Cobalamin biosynthesis CobH/CbiC, precorrin-8X methylmutase	R	Cobalamin biosynthesis CobH/CbiC, precorrin-8x methylmutase
+3.40.50.10330	Probable inorganic polyphosphate/atp-NAD kinase; domain 1	S	Probable inorganic polyphosphate/atp-NAD kinase, domain 1
+3.40.50.10350	Glycerate kinase; domain 1	S	Glycerate kinase, domain 1
+3.40.50.10390	Gingipain r; domain 1	S	Gingipain r, domain 1
+3.40.50.10440	Dihydroxyacetone kinase; domain 1	S	Dihydroxyacetone kinase, domain 1
+3.40.50.10470	Translation initiation factor eif-2b; domain 2	S	Translation initiation factor eif-2b, domain 2
+3.40.50.10490	Glucose-6-phosphate isomerase like protein; domain 1	S	Glucose-6-phosphate isomerase like protein, domain 1
+3.40.50.10540	Crotonobetainyl-coa:carnitine coa-transferase; domain 1	S	Crotonobetainyl-coa:carnitine coa-transferase, domain 1
+3.40.50.10550	Hypothetical protein af1403; domain 2	S	Hypothetical protein af1403, domain 2
+3.40.50.10590	Zn-dependent exopeptidases 	R	Zn-dependent exopeptidases
+3.40.50.10640	SSO1389-like 	R	SSO1389-like
+3.40.50.10670	af2093 domain	L	Af2093 domain
+3.40.50.10690	putative lor/sdh protein like domains	L	Putative lor/sdh protein like domains
+3.40.50.10720	CbiD-like domains 	R	CbiD-like domains
+3.40.50.10770	Hypothetical protein VC1899 like domain (Restriction endonuclease-like)	R	Hypothetical protein VC1899 like domain (restriction endonuclease-like)
+3.40.50.10850	Ntrc-like two-domain protein.	T	Ntrc-like two-domain protein
+3.40.50.10860	Leucine Dehydrogenase, chain A, domain 1	R	Leucine dehydrogenase, chain A, domain 1
+3.40.109.10	NADH Oxidase	R	NADH oxidase
+3.40.109.30	putative nitroreductase (tm1586), domain 2	L	Putative nitroreductase (tm1586), domain 2
+3.40.140.10	Cytidine Deaminase, domain 2	R	Cytidine deaminase, domain 2
+3.40.190.100	Glycine betaine-binding periplasmic protein; domain 2	S	Glycine betaine-binding periplasmic protein, domain 2
+3.40.190.120	Osmoprotection protein (prox); domain 2	S	Osmoprotection protein (prox), domain 2
+3.40.210.10	PVUII Endonuclease, subunit A	R	PVUII endonuclease, subunit A
+3.40.220.10	Leucine Aminopeptidase, subunit E, domain 1	R	Leucine aminopeptidase, subunit E, domain 1
+3.40.228.10	Dimethylsulfoxide Reductase, domain 2	R	Dimethylsulfoxide reductase, domain 2
+3.40.275.10	L-fucose Isomerase; Chain A, domain 2	SR	L-fucose isomerase, chain A, domain 2
+3.40.309.10	Aldehyde Dehydrogenase; Chain A, domain 2	SR	Aldehyde dehydrogenase, chain A, domain 2
+3.40.366.10	Malonyl-Coenzyme A Acyl Carrier Protein, domain 2	R	Malonyl-Coenzyme A acyl carrier protein, domain 2
+3.40.390.10	Collagenase (Catalytic Domain)	R	Collagenase (catalytic domain)
+3.40.395.10	Adenoviral Proteinase; Chain A	SR	Adenoviral proteinase, chain A
+3.40.420.10	Ricin (A subunit), domain 1	R	Ricin (a subunit), domain 1
+3.40.430.10	Dihydrofolate Reductase, subunit A	R	Dihydrofolate reductase, subunit A
+3.40.440.10	Adenylosuccinate Synthetase, subunit A, domain 1	R	Adenylosuccinate synthetase, subunit A, domain 1
+3.40.449.10	Phosphoenolpyruvate Carboxykinase, domain 1	R	Phosphoenolpyruvate carboxykinase, domain 1
+3.40.570.10	Extracellular Endonuclease, subunit A	R	Extracellular endonuclease, subunit A
+3.40.580.10	Eco RI Endonuclease, subunit A	R	Eco RI endonuclease, subunit A
+3.40.605.10	Aldehyde Dehydrogenase; Chain A, domain 1	SR	Aldehyde dehydrogenase, chain A, domain 1
+3.40.640.10	Type I PLP-dependent aspartate aminotransferase-like (Major domain)	R	Type I PLP-dependent aspartate aminotransferase-like (major domain)
+3.40.718.10	Isopropylmalate Dehydrogenase	R	Isopropylmalate dehydrogenase
+3.40.720.10	Alkaline Phosphatase, subunit A	R	Alkaline phosphatase, subunit A
+3.40.930.10	Mannitol-specific EII; Chain A	SR	Mannitol-specific EII, chain A
+3.40.950.10	Fe-only Hydrogenase (Larger Subunit); Chain L, domain 3	SR	Fe-only hydrogenase (larger subunit), chain L, domain 3
+3.40.960.10	VSR Endonuclease	R	VSR endonuclease
+3.40.970.20	Carbon monoxide dehydrogenase alpha subunit. Chain D, domain 4	CR	Carbon monoxide dehydrogenase alpha subunit, chain D, domain 4
+3.40.970.30	yp_829618.1 like domains	L	Yp_829618.1 like domains
+3.40.970.40	fibrinogen binding protein from staphylococcus aureus domain like	L	Fibrinogen binding protein from staphylococcus aureus domain like
+3.40.1010.10	Cobalt-precorrin-4 Transmethylase; Domain 1	SR	Cobalt-precorrin-4 transmethylase, domain 1
+3.40.1020.10	Biosynthetic Threonine Deaminase; Domain 3	SR	Biosynthetic threonine deaminase, domain 3
+3.40.1060.10	Aconitase, Domain 2	R	Aconitase, domain 2
+3.40.1080.10	Glutaconate Coenzyme A-transferase	R	Glutaconate coenzyme A-transferase
+3.40.1340.10	RNA polymerase, Rpb5, N-terminal domain	R	RNA polymerase, rpb5, N-terminal domain
+3.40.1470.10	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), Chain M, domain 5	R	Bifunctional carbon monoxide dehydrogenase/acetyl-coa synthase(codh/acs), chain M, domain 5
+3.40.1560.10	type ii restriction endonuclease, domain 2	L	Type ii restriction endonuclease, domain 2
+3.40.1670.10	UbiD C-terminal domain-like 	R	UbiD C-terminal domain-like
+3.40.1680.10	yp_829618.1 domain like	L	Yp_829618.1 domain like
+3.40.1690.10	secretion proteins EscU	L	Secretion proteins EscU
+3.40.1710.10	abc type-2 transporter like domain	L	Abc type-2 transporter like domain
+3.40.1730.10	pa0076 domain	L	Pa0076 domain
+3.40.1750.10	peptide peptidase (sppa) like domain	L	Peptide peptidase (sppa) like domain
+3.40.1830.10	Thermophilic metalloprotease (M29)	R	Thermophilic metalloprotease (m29)
+3.50.4.10	Hepatocyte Growth Factor	R	Hepatocyte growth factor
+3.50.14.10	Replication terminator Tus, domain 1 superfamily/Replication terminator Tus	R	Replication terminator tus, domain 1 superfamily/replication terminator tus
+3.50.20.10	Pyruvoyl-Dependent Histidine Decarboxylase, subunit B	R	Pyruvoyl-Dependent histidine decarboxylase, subunit B
+3.50.40.10	Phenylalanyl-trna Synthetase, Chain B, domain 3	R	Phenylalanyl-trna synthetase, chain B, domain 3
+3.50.100.10	protein il1583 domain	L	Protein il1583 domain
+3.55.40.10	minor pseudopilin epsh domain	L	Minor pseudopilin epsh domain
+3.60.15.10	Ribonuclease Z/Hydroxyacylglutathione hydrolase-like	R	Ribonuclease z/hydroxyacylglutathione hydrolase-like
+3.60.20.10	Glutamine Phosphoribosylpyrophosphate, subunit 1, domain 1	R	Glutamine phosphoribosylpyrophosphate, subunit 1, domain 1
+3.60.60.10	Penicillin V Acylase; Chain A	SR	Penicillin V acylase, chain A
+3.60.100.10	Cytotoxic necrotizing factor, Rho-activating domain	R	Cytotoxic necrotizing factor, rho-activating domain
+3.75.10.10	L-arginine/glycine Amidinotransferase; Chain A	SR	L-arginine/glycine amidinotransferase, chain A
+3.80.10.10	Ribonuclease Inhibitor	R	Ribonuclease inhibitor
+3.80.30.10	pyruvate-formate lyase- activating enzyme	L	Pyruvate-formate lyase- activating enzyme
+3.80.30.20	tm_1862 like domain	L	Tm_1862 like domain
+3.90.15.10	Topoisomerase I; Chain A, domain 3	SR	Topoisomerase I, chain A, domain 3
+3.90.39.10	Hexon Major Viral Coat Protein, domain 2	R	Hexon major viral coat protein, domain 2
+3.90.50.10	Photosynthetic Reaction Center, subunit H, domain 2	R	Photosynthetic reaction center, subunit H, domain 2
+3.90.55.10	Dimethylsulfoxide Reductase, domain 3	R	Dimethylsulfoxide reductase, domain 3
+3.90.75.10	Homing Intron 3 (I-ppo) Encoded Endonuclease; Chain A	SR	Homing intron 3 (i-ppo) encoded endonuclease, chain A
+3.90.76.10	Dipeptide-binding Protein; Domain 1	SR	Dipeptide-binding protein, domain 1
+3.90.79.10	Nucleoside Triphosphate Pyrophosphohydrolase	R	Nucleoside triphosphate pyrophosphohydrolase
+3.90.120.10	DNA Methylase, subunit A, domain 2	R	DNA methylase, subunit A, domain 2
+3.90.148.10	Adenovirus DNA-binding, C-terminal domain superfamily/Adenovirus DNA-binding, zinc binding domain	R	Adenovirus DNA-binding, C-terminal domain superfamily/adenovirus DNA-binding, zinc binding domain
+3.90.150.10	Variant Surface Glycoprotein, subunit A domain 1	R	Variant surface glycoprotein, subunit A domain 1
+3.90.170.10	Adenylosuccinate Synthetase, subunit A, domain 3	R	Adenylosuccinate synthetase, subunit A, domain 3
+3.90.175.10	Diphtheria Toxin, domain 1	R	Diphtheria toxin, domain 1
+3.90.176.10	Toxin ADP-ribosyltransferase; Chain A, domain 1	SR	Toxin ADP-ribosyltransferase, chain A, domain 1
+3.90.182.10	Toxin - Anthrax Protective Antigen;domain 1	SR	Toxin - anthrax protective antigen,domain 1
+3.90.198.10	Replication Fork Single-Stranded Dna Binding Protein	R	Replication fork single-stranded dna binding protein
+3.90.210.10	Heat-Labile Enterotoxin, subunit A	R	Heat-Labile enterotoxin, subunit A
+3.90.215.10	Gamma Fibrinogen, chain A, domain 1	R	Gamma fibrinogen, chain A, domain 1
+3.90.220.10	Adenine-n6-DNA-methyltransferase Taqi, Chain A, domain 2	R	Adenine-n6-DNA-methyltransferase taqi, chain A, domain 2
+3.90.226.10	2-enoyl-CoA Hydratase; Chain A, domain 1	SR	2-enoyl-CoA hydratase, chain A, domain 1
+3.90.241.10	Foki Restriction Endonuclease, Chain A, domain 1	R	Foki restriction endonuclease, chain A, domain 1
+3.90.249.10	Hexon Major Viral Coat Protein, domain 3	R	Hexon major viral coat protein, domain 3
+3.90.330.10	Nitrile hydratase alpha /Thiocyanate hydrolase gamma	R	Nitrile hydratase alpha /thiocyanate hydrolase gamma
+3.90.340.10	Nitric Oxide Synthase; Chain A, domain 1	SR	Nitric oxide synthase, chain A, domain 1
+3.90.350.10	Transposase Inhibitor Protein From Tn5; Chain A, domain 1	SR	Transposase inhibitor protein from tn5, chain A, domain 1
+3.90.370.10	Tissue inhibitor of metalloproteinase-1. Chain B, domain 1	CR	Tissue inhibitor of metalloproteinase-1, chain B, domain 1
+3.90.380.10	Naphthalene 1,2-dioxygenase Alpha Subunit; Chain A, domain 1	SR	Naphthalene 1,2-dioxygenase alpha subunit, chain A, domain 1
+3.90.390.10	Methyl-coenzyme M Reductase; Chain A, domain 1	SR	Methyl-coenzyme M reductase, chain A, domain 1
+3.90.400.10	Oligo-1,6-glucosidase; Domain 2	SR	Oligo-1,6-glucosidase, domain 2
+3.90.440.10	Nitric Oxide Synthase;Heme Domain;Chain A domain 2	SR	Nitric oxide synthase,heme domain,chain A domain 2
+3.90.450.1	Minor Coat Protein; Domain 2	SR	Minor coat protein, domain 2
+3.90.470.10	Ribosomal protein L22/L17	R	Ribosomal protein l22/l17
+3.90.480.10	Sulfite Reductase Hemoprotein;Domain 2	SR	Sulfite reductase hemoprotein,domain 2
+3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A	SR	Spore coat polysaccharide biosynthesis protein SpsA, chain A
+3.90.580.10	Zinc finger, CHC2-type domain	R	Zinc finger, CHC2-type domain
+3.90.640.10	Actin; Chain A, domain 4	SR	Actin, chain A, domain 4
+3.90.660.20	Protoporphyrinogen oxidase, mitochondrial; domain 2	S	Protoporphyrinogen oxidase, mitochondrial, domain 2
+3.90.730.10	Ribonuclease T2-like	R	Ribonuclease t2-like
+3.90.770.10	3-hydroxy-3-methylglutaryl-coenzyme A Reductase; Chain A, domain 2	SR	3-hydroxy-3-methylglutaryl-coenzyme A reductase, chain A, domain 2
+3.90.800.10	Glutamyl-tRNA Synthetase; Domain 3	SR	Glutamyl-tRNA synthetase, domain 3
+3.90.820.10	Structural Genomics, Unknown Function 30-nov-00 1gh9 Mol_id	R	Structural genomics, unknown function 30-nov-00 1gh9 mol_id
+3.90.830.10	Syntaxin Binding Protein 1; Chain A, domain 2	SR	Syntaxin binding protein 1, chain A, domain 2
+3.90.840.10	Thiol-activated cytolysin superfamily/Thiol-activated cytolysin, alpha-beta domain	R	Thiol-activated cytolysin superfamily/thiol-activated cytolysin, alpha-beta domain
+3.90.1110.10	RNA polymerase Rpb2, domain 2	R	RNA polymerase rpb2, domain 2
+3.90.1150.10	Aspartate Aminotransferase, domain 1	R	Aspartate aminotransferase, domain 1
+3.90.1170.10	Ribosomal protein L10e/L16	R	Ribosomal protein l10e/l16
+3.90.1230.10	Nitric Oxide Synthase; Chain A, domain 3	SR	Nitric oxide synthase, chain A, domain 3
+3.90.1310.10	Penicillin-binding protein 2a (Domain 2)	R	Penicillin-binding protein 2a (domain 2)
+3.90.1390.10	b-12 dependent (class ii) ribonucleotide reductase, chain A, domain 3	L	B-12 dependent (class ii) ribonucleotide reductase, chain A, domain 3
+3.90.1410.10	set domain protein methyltransferase, domain 1	L	Set domain protein methyltransferase, domain 1
+3.90.1430.10	Yeast translation eEF2 (G' domain)	R	Yeast translation eEF2 (g' domain)
+3.90.1470.10	thrh gene product, domain 2	L	Thrh gene product, domain 2
+3.90.1490.10	putative n-type atp pyrophosphatase, domain 2	L	Putative n-type atp pyrophosphatase, domain 2
+3.90.1570.10	tt1808, chain A	L	Tt1808, chain A
+3.90.1580.10	paralog of FGE (formylglycine-generating enzyme)	L	Paralog of FGE (formylglycine-generating enzyme)
+3.90.1590.10	glutathione-dependent formaldehyde- activating enzyme (gfa)	L	Glutathione-dependent formaldehyde- activating enzyme (gfa)
+3.90.1620.10	adenovirus 2 penton base, domain 2	L	Adenovirus 2 penton base, domain 2
+3.90.1640.10	inorganic pyrophosphatase (n-terminal core)	L	Inorganic pyrophosphatase (n-terminal core)
+3.90.1690.10	phage-related protein like domain	L	Phage-related protein like domain
+3.90.1700.10	v583 domain like	L	V583 domain like
+3.90.1720.10	endopeptidase domain like (from Nostoc punctiforme)	LR	Endopeptidase domain like (from nostoc punctiforme)
+4.10.6.10	Fusion Protein Of Alpha-na,k-atpase With Glutathione S-transferase; Domain 3	SR	Fusion protein of alpha-na,k-atpase with glutathione S-transferase, domain 3
+4.10.8.10	Luciferase; Domain 5	SR	Luciferase, domain 5
+4.10.10.10	Metallothionein Isoform II	R	Metallothionein isoform II
+4.10.51.10	Cytochrome C Oxidase, chain K	R	Cytochrome C oxidase, chain K
+4.10.80.20	DNA polymerase; domain 5	S	DNA polymerase, domain 5
+4.10.80.30	DNA polymerase; domain 6	S	DNA polymerase, domain 6
+4.10.80.40	succinate dehydrogenase protein domain	L	Succinate dehydrogenase protein domain
+4.10.87.10	mRNA Capping Enzyme; domain 3	SR	mRNA capping enzyme, domain 3
+4.10.90.10	Capsid protein VP4 superfamily, Picornavirus	R	Capsid protein VP4 superfamily, picornavirus
+4.10.92.10	Aminolevulinic Acid Synthase 2	R	Aminolevulinic acid synthase 2
+4.10.110.10	Spasmolytic Protein, domain 1	R	Spasmolytic protein, domain 1
+4.10.170.10	p53-like tetramerisation domain	L	P53-like tetramerisation domain
+4.10.210.10	Transactivator Protein (TAT, TAT EIAVY)	R	Transactivator protein (TAT, TAT EIAVY)
+4.10.280.20	membrane protein stannin	L	Membrane protein stannin
+4.10.290.10	Bacteriorhodopsin Fragment	R	Bacteriorhodopsin fragment
+4.10.365.10	p27	L	P27
+4.10.372.10	Lipoxygenase-1; Domain 3	SR	Lipoxygenase-1, domain 3
+4.10.375.10	Lipoxygenase-1; Domain 2	SR	Lipoxygenase-1, domain 2
+4.10.400.10	Low-density Lipoprotein Receptor	R	Low-density lipoprotein receptor
+4.10.420.10	Smk Toxin, alpha chain	R	Smk toxin, alpha chain
+4.10.450.10	Glucose Oxidase, domain 2	R	Glucose oxidase, domain 2
+4.10.460.10	Inositol Polyphosphate 1-phosphatase, domain 1	R	Inositol polyphosphate 1-phosphatase, domain 1
+4.10.470.10	Ricin (A Subunit), domain 2	R	Ricin (a subunit), domain 2
+4.10.510.10	Pyruvoyl-Dependent Histidine Decarboxylas, subunit A	R	Pyruvoyl-Dependent histidine decarboxylas, subunit A
+4.10.530.10	Gamma-fibrinogen Carboxyl Terminal Fragment, domain 2	R	Gamma-fibrinogen carboxyl terminal fragment, domain 2
+4.10.690.10	Cricket Paralysis Virus, Vp4; Chain D	SR	Cricket paralysis virus, vp4, chain D
+4.10.710.10	Hepatitis C Virus Capsid Protein; Chain A	SR	Hepatitis C virus capsid protein, chain A
+4.10.720.10	Smad anchor for receptor activation, Smad-binding domain	R	Smad anchor for receptor activation, smad-binding domain
+4.10.740.10	Coagulation Factor IX	R	Coagulation factor IX
+4.10.770.10	Signal Protein Aml-1b; Chain A, domain 3	SR	Signal protein aml-1b, chain A, domain 3
+4.10.790.10	Pyruvate-ferredoxin Oxidoreductase; domain 7	SR	Pyruvate-ferredoxin oxidoreductase, domain 7
+4.10.810.10	Virus Scaffolding Protein; Chain A	SR	Virus scaffolding protein, chain A
+4.10.830.10	30s Ribosomal Protein S14; Chain N	SR	30s ribosomal protein S14, chain N
+4.10.860.20	Rabenosyn, Rab binding domain	R	Rabenosyn, rab binding domain
+4.10.870.10	Endo-1,4-beta-glucanase f.  Domain 3	CR	Endo-1,4-beta-glucanase f, domain 3
+4.10.880.10	Poliovirus 3D polymerase  Domain 1 (Nucleotidyltransferase)	R	Poliovirus 3D polymerase domain 1 (nucleotidyltransferase)
+4.10.900.10	TCF3-CBD (Catenin binding domain)	R	TCF3-CBD (catenin binding domain)
+4.10.1030.10	Ring Box Chain A; domain 5	SR	Ring box chain A, domain 5
+4.10.1070.10	receptor-binding domain of the bacteriophage t4 short tail fibre, domain 2	L	Receptor-binding domain of the bacteriophage t4 short tail fibre, domain 2
+4.10.1110.10	AN1-like Zinc finger	R	AN1-like zinc finger
+4.10.1130.10	btk motif of tyrosine-protein kinase itk	L	Btk motif of tyrosine-protein kinase itk
+4.10.1140.10	membrane-bound form of the juxtamembrane domain of the epidermal growth factor receptor like domain	L	Membrane-bound form of the juxtamembrane domain of the epidermal growth factor receptor like domain
+4.10.1180.10	tm1086 domain	L	Tm1086 domain
+4.10.1200.10	nitrate reductase tail	L	Nitrate reductase tail
+4.10.1250.10	Aminomethyltransferase  fragment	R	Aminomethyltransferase fragment
+4.10.1260.10	Scaffolding protein gpD of bacteriophage procapsid	R	Scaffolding protein gpd of bacteriophage procapsid
+4.10.1270.10	homoprotocatechuate 2,3-dioxygenase domains	L	Homoprotocatechuate 2,3-dioxygenase domains
+4.10.1310.10	Dinoflagellate luciferase repeat 	R	Dinoflagellate luciferase repeat
+4.10.1330.10	non globular Virulence effector SptP domain	LR	Non globular virulence effector SptP domain

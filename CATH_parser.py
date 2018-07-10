@@ -137,4 +137,5 @@ def implement_replacements(df):
         ret_df['NAME'] = r.combine_first(ret_df['NAME'])
         ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
     ret_df['COMMENT'] = ret_df["COMMENT"].str.replace("nan", '')
+    ret_df = ret_df.rename(columns={'NAME':'NEW_NAME'})[['OLD_NAME', 'COMMENT', 'NEW_NAME']]
     return ret_df.replace('', np.nan, regex=True)
