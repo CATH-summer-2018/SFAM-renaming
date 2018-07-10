@@ -204,7 +204,7 @@
 1.20.120.560	alix/aip1 in complex with the ypdl late domain 	LR	Alix/aip1 in complex with the ypdl late domain
 1.20.120.580	bsu32300-like	L	Bsu32300-like
 1.20.120.610	lithium bound rotor ring of v- atpase	L	Lithium bound rotor ring of v- atpase
-1.20.120.620	Backbone structure of the membrane domain of e. Coli histidine kinase receptor kdpd,	TCR	Backbone structure of the membrane domain of e, coli histidine kinase receptor kdpd
+1.20.120.620	Backbone structure of the membrane domain of e. Coli histidine kinase receptor kdpd,	CTR	Backbone structure of the membrane domain of e, coli histidine kinase receptor kdpd
 1.20.120.660	IL-4 antagonist (De novo design) like domain	R	IL-4 antagonist (de novo design) like domain
 1.20.120.670	N-acetyl-b-d-glucoasminidase 	R	N-acetyl-b-d-glucoasminidase
 1.20.140.10	Butyryl-CoA Dehydrogenase, subunit A, domain 3	R	Butyryl-CoA dehydrogenase, subunit A, domain 3
@@ -285,7 +285,7 @@
 2.30.30.190	CAP Gly-rich-like domain	R	CAP gly-rich-like domain
 2.30.30.290	YopX-like domains 	R	YopX-like domains
 2.30.30.300	class i lysyl-tRNA synthetase like	L	Class i lysyl-tRNA synthetase like
-2.30.30.350	mobile metagenome of vibrio cholerae. Integron cassette protein vch_cass4.	TLR	Mobile metagenome of vibrio cholerae. integron cassette protein vch_cass4
+2.30.30.350	mobile metagenome of vibrio cholerae. Integron cassette protein vch_cass4.	CTLR	Mobile metagenome of vibrio cholerae, integron cassette protein vch_cass4
 2.30.30.380	Zn-finger domain of Sec23/24	R	Zn-finger domain of sec23/24
 2.30.30.410	Cell wall targeting domain of glycylglycine endopeptidase 	R	Cell wall targeting domain of glycylglycine endopeptidase
 2.30.30.420	glucansucrase 	LR	Glucansucrase

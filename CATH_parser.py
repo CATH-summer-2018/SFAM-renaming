@@ -89,8 +89,6 @@ def semicolon(df): #replace semicolons with commas
     comment = pd.Series(index=ret.index, name='COMMENT', data="S")
     return ret, comment
 
-def lowercase(df):
-    l = df[df['NAME'].str.contains(r'Protein|')]
 def lowercase_start(df): #replace lowercase start with capital
     st_lower = df[df['NAME'].str[0].str.islower()]['NAME']
     st_lower = st_lower.mask(st_lower.str.contains(r'^[m|t|r|ss|ds][R|D]NA|^cAMP', regex=True)).dropna()
@@ -106,16 +104,14 @@ def trailing_stop(df): #remove trailing dots
 def other_stop(df): #replace other dots with commas
     s = df[df['NAME'].str.contains("\.")]['NAME']
     s = s.mask(s.str.contains(r'\d\.\d|\.$')).dropna()
-    ret = s.str.replace(".", ',')
+    ret = s.str.replace('.', ',')
     comment = pd.Series(index=ret.index, name='COMMENT', data="C")
     return ret, comment
-
 
 def ii_to_II(df):
     ret = df[df.NAME.str.contains('ii[\W|b]')].NAME.str.replace('ii', 'II')
     comment = pd.Series(index=ret.index, name='COMMENT', data="I")
     return ret, comment
-
 
 def run_rename(df):
     cocRe = re.compile
@@ -150,11 +146,10 @@ def org_names(df):
     comment = pd.Series(index=ret.index,name='COMMENT', data="O")
     return ret, comment
 
-
 def implement_replacements(df):
     ret_df = df[['NAME','COMMENT']]
     ret_df['OLD_NAME'] = ret_df['NAME']
-    for f in [run_rename, semicolon, lowercase_start, other_stop, trailing_stop, org_names, ii_to_II]:
+    for f in [run_rename, semicolon, lowercase_start, trailing_stop, other_stop, org_names, ii_to_II]:
         r, c = f(ret_df)
         ret_df['NAME'] = r.combine_first(ret_df['NAME'])
         ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
