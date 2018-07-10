@@ -1,9 +1,3 @@
-Shell script beginning
-PERL5LIB : /usr/local/svn/trunk/lib:/usr/local/svn/trunk/lib/perl5
-CATHPARAMPATH : /export/cathupdatelocal/
-SVNBRANCH : trunk
-PATH : /usr/local/svn/trunk/bin:/opt/local/apps/linux/bin:/export/cathupdatelocal/.plenv/shims:/export/cathupdatelocal/.plenv/bin:/usr/pgsql-9.6/bin:/export/cathupdatelocal/.plenv/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/bin
-Running command "/usr/local/svn/source/update/trunk/utilities/GenerateSuperfamilyList.pl v4_2_0"
 # CATH_ID	S35_REPS	DOMAINS	NAME
 1.10.8.10	74	315	DNA helicase RuvA subunit, C-terminal domain
 1.10.8.20	5	23	N-terminal domain of phosphatidylinositol transfer protein sec14p
