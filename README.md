@@ -9,6 +9,9 @@ Most of the job is done by the custom python module [CATH-parser](CATH_parser.py
 
 #### [Renamed superfamilies](./results/renamed_superfamilies.tsv)
 Has the easiest cases, which refer to the first part of the guidelines. Fixes errors such as trailing stops, semicolons, lowercase start (except mRNA and such) etc. Whenever a fix happens a one-letter comment is added.
+
+##### Comment codes
+
 * **R** - removed excessive capital letters
 * **S** - replace semicolon
 * **L** - lowercase start
