@@ -115,7 +115,18 @@ def ii_to_II(df):
 
 def run_rename(df):
     cocRe = re.compile
-    acronRegex = re.compile(r'\w*[A-Z]\w*[A-Z]\w*|C-[T|t]erminal|N-[T|t]erminal|^[A-Z]-\w+|Hippel\-Lindau|Willebrand|Kunitz|Enterococc|^[A-Z]\W?$|^\d*[A-Z]\d*\W?$')
+    skip_list = [r'\w*[A-Z]\w*[A-Z]\w*',
+                r'C-[T|t]erminal',
+                r'N-[T|t]erminal',
+                r'^[A-Z]-\w+',
+                r'Hippel\-Lindau',
+                r'Willebrand',
+                r'Kunitz',
+                r'cocc',
+                r'^[A-Z]\W?$',
+                r'^\d*[A-Z]\d*\W?$',
+                r'\d+']
+    acronRegex = re.compile('|'.join(skip_list))
     ret = pd.Series()
     for sfam in df.itertuples():
         l = sfam.NAME.split()
@@ -146,10 +157,18 @@ def org_names(df):
     comment = pd.Series(index=ret.index,name='COMMENT', data="O")
     return ret, comment
 
+def terminal(df):
+    reg = re.compile('(\W)([a-z])(\W)')
+    def repl(mat):
+        return mat.group(1) + mat.group(2).upper() + mat.group(3)
+    ret = df[df.NAME.str.contains(reg)].NAME.str.replace(reg, repl)
+    comment = pd.Series(index=ret.index,name='COMMENT', data="N")
+    return ret, comment
+
 def implement_replacements(df):
     ret_df = df[['NAME','COMMENT']]
     ret_df['OLD_NAME'] = ret_df['NAME']
-    for f in [run_rename, semicolon, lowercase_start, trailing_stop, other_stop, org_names, ii_to_II]:
+    for f in [run_rename, semicolon, lowercase_start, trailing_stop, other_stop, org_names, ii_to_II, terminal]:
         r, c = f(ret_df)
         ret_df['NAME'] = r.combine_first(ret_df['NAME'])
         ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))

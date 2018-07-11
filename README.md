@@ -19,6 +19,7 @@ Has the easiest cases, which refer to the first part of the guidelines. Fixes er
 * **C** - other stop(except between digits)
 * **I** - ii to II conversion, for example photosystem II
 * **O** - capitalising first letter in various bacteria *(only coccus so far)*
+* **N** - capitalising single letters, mostly n/c-terminal and cytochrome C
 
 ![replace](./plots/replacement.png)
  ***
