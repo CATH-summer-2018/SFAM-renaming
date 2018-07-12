@@ -125,7 +125,14 @@ def run_rename(df):
                 r'cocc',
                 r'^[A-Z]\W?$',
                 r'^\d*[A-Z]\d*\W?$',
-                r'\d+']
+                r'\d+',
+                r'[Kk][Dd][Aa]',
+                r'[Zz][Nn]\W',
+                r'[Mm][Uu]\W',
+                r'Fe\W',
+                r'Hint'
+
+                ]
     acronRegex = re.compile('|'.join(skip_list))
     ret = pd.Series()
     for sfam in df.itertuples():

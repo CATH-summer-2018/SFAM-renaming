@@ -34,7 +34,6 @@
 1.10.150.210	Phosphoserine phosphatase; domain 2	S	Phosphoserine phosphatase, domain 2
 1.10.150.240	Putative phosphatase; domain 2	S	Putative phosphatase, domain 2
 1.10.150.290	S-adenosyl-L-methionine-dependent methyltransferases 	R	S-adenosyl-L-methionine-dependent methyltransferases
-1.10.150.320	Photosystem II 12 kDa extrinsic protein	R	Photosystem II 12 kda extrinsic protein
 1.10.150.330	zn-dependent alcohol dehydrogenase	L	Zn-dependent alcohol dehydrogenase
 1.10.167.10	Regulator of G-protein Signalling 4, domain 2	R	Regulator of G-protein signalling 4, domain 2
 1.10.170.10	Bluetongue Virus 10, subunit 1, domain 3	R	Bluetongue virus 10, subunit 1, domain 3
@@ -267,7 +266,6 @@
 2.10.280.10	heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1	L	Heat- and protease-stable fragment of the bacteriophage t4 short fibre, domain 1
 2.20.20.30	reverse gyrase domain 	LR	Reverse gyrase domain
 2.20.20.40	Integron cassette protein 	R	Integron cassette protein
-2.20.28.20	Methionyl-tRNA synthetase, Zn-domain	R	Methionyl-tRNA synthetase, zn-domain
 2.20.28.30	RNA polymerase ii, chain L	I	RNA polymerase II, chain L
 2.20.28.50	degv family protein	L	Degv family protein
 2.20.50.20	Lipovitellin. Chain A, domain 3	CR	Lipovitellin, chain A, domain 3
@@ -285,7 +283,6 @@
 2.30.29.40	PH domain-like; domain 1	S	PH domain-like, domain 1
 2.30.29.50	Bacterial Pleckstrin homology domain	R	Bacterial pleckstrin homology domain
 2.30.30.40	SH3 Domains	R	SH3 domains
-2.30.30.130	Transposase, Mu, C-terminal	R	Transposase, mu, C-terminal
 2.30.30.190	CAP Gly-rich-like domain	R	CAP gly-rich-like domain
 2.30.30.290	YopX-like domains 	R	YopX-like domains
 2.30.30.300	class i lysyl-tRNA synthetase like	NL	Class I lysyl-tRNA synthetase like
@@ -403,7 +400,6 @@
 2.170.8.10	Phosphoenolpyruvate Carboxykinase, domain 2	R	Phosphoenolpyruvate carboxykinase, domain 2
 2.170.9.10	Adenovirus Type 2 Hexon, domain 1	R	Adenovirus type 2 hexon, domain 1
 2.170.11.10	DNA Topoisomerase I, domain 2	R	DNA topoisomerase I, domain 2
-2.170.16.10	Hedgehog/Intein (Hint) domain	R	Hedgehog/Intein (hint) domain
 2.170.150.10	Metal Binding Protein, Guanine Nucleotide Exchange Factor; Chain A	SR	Metal binding protein, guanine nucleotide exchange factor, chain A
 2.170.150.20	Peptide methionine sulfoxide reductase.	T	Peptide methionine sulfoxide reductase
 2.170.160.10	Endo-1,4-beta-glucanase f.  Domain 2	NCR	Endo-1,4-beta-glucanase F, domain 2
