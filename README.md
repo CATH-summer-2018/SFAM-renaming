@@ -25,8 +25,8 @@ Has the easiest cases, which refer to the first part of the guidelines. Fixes er
  ***
 #### [Flagged superamilies]('./results/flagged,tsv') (*work in progress*)
 Superfamilies that have something wrong with the name but are too complicated to fix automatically.
-* **U** - underscore
-* **P** - plus
+
+* **P** - punctuation (currently underscore, plus and colon)
 * **F** - forbidden words
 * **S** - bad start
 * **W** - unprreferred words

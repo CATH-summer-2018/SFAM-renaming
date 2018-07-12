@@ -3,16 +3,18 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import re
-class DataFrame_parser(object):
-    def __init__(self, df):
-        self.df = df
 
+
+class DataFrame_parser(object):
+    def __init__(self, df, col):
+        self.df = df
+        self.col = col
 
 
     ### FLAGGING FOR REPLACE
 
     def duplicates(self):
-        ret = self.df[self.df.duplicated(subset="NAME", keep=False)].groupby(by='NAME')
+        ret = self.df[self.df.duplicated(subset=self.col, keep=False)].groupby(by=self.col)
         return ret
 
     def implement_duplicates(self):
@@ -22,38 +24,54 @@ class DataFrame_parser(object):
         s = pd.Series(data=r)
         return s
 
-    def underscore(self):
-        ret = self.df[self.df['NAME'].str.contains("_")]['NAME']
-        comment = pd.Series(index=ret.index, data="U")
-        return ret, comment
+###############################
 
-    def plus(self):
-        ret = self.df[self.df['NAME'].str.contains("\+")]['NAME']
+    def punctuation(self):
+        ret = self.df[self.df[self.col].str.contains("_|\+|:")][self.col]
         comment = pd.Series(index=ret.index, data="P")
         return ret, comment
 
+    # def plus(self):
+    #     ret = self.df[self.df[self.col].str.contains("\+")][self.col]
+    #     comment = pd.Series(index=ret.index, data="P")
+    #     return ret, comment
+
     def bad_words(self):
-        bad_words = ["proteins", "subunits", "with", "within", "on", "an", "to", "in", "involved", "for", "and", "nor", "but", "or", "so"]
-        bad_words = [' {0} '.format(elem) for elem in bad_words]
-        ret = self.df[self.df['NAME'].str.contains("|".join(bad_words), regex=True)]
+        bad_words = ["[Pp]roteins",
+        "[Ss]ubunits",
+        "[Ww]ith",
+        "[Ww]ithin",
+        "[Oo]n",
+        "[Aa]n",
+        "[Tt]o",
+        "[Ii]n",
+        "[Ii]nvolved",
+        "[Ff]or",
+        "[Aa]nd",
+        "[Nn]or",
+        "[Bb]ut",
+        "[Oo]r",
+        "[Ss]o"]
+        bad_words = ['\W{0}\W'.format(elem) for elem in bad_words]
+        ret = self.df[self.df[self.col].str.contains("|".join(bad_words))]
         comment = pd.Series(index=ret.index, data="F")
         return ret, comment
 
     def bad_start(self):
-        ret = self.df[self.df['NAME'].str.contains("^[P|p]redicted|[P|p]robable|[P|]utative")]
+        ret = self.df[self.df[self.col].str.contains("^[P|p]redicted|[P|p]robable|[P|]utative")]
         comment = pd.Series(index=ret.index, data="S")
         return ret, comment
 
     def pref_words(self):
         words = 'precursor', 'homolog', 'paralog', 'ortholog', 'gene'
         words = [' {0} '.format(elem) for elem in words]
-        ret = self.df[self.df['NAME'].str.contains("|".join(words), regex=True)]
+        ret = self.df[self.df[self.col].str.contains("|".join(words), regex=True)]
         comment = pd.Series(index=ret.index, data='W')
         return ret, comment
 
     def compile_flags(self):
-        ret_df = self.df[['NAME','COMMENT']]
-        for r, c in [self.underscore(), self.plus(), self.bad_words(), self.bad_start(), self.pref_words()]:
+        ret_df = self.df[[self.col,'COMMENT']]
+        for r, c in [self.punctuation(), self.bad_words(), self.bad_start(), self.pref_words()]:
             ret_df['COMMENT'] = c.combine(ret_df['COMMENT'], lambda c, r:str(c)+str(r))
         ret_df['COMMENT'] = ret_df["COMMENT"].str.replace("nan", '')
         return ret_df.replace('', np.nan, regex=True)
@@ -131,7 +149,6 @@ def run_rename(df):
                 r'[Mm][Uu]\W',
                 r'Fe\W',
                 r'Hint'
-
                 ]
     acronRegex = re.compile('|'.join(skip_list))
     ret = pd.Series()

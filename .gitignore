@@ -1,4 +1,5 @@
-.ipynb_checkpoints
+.*
+!.goitignore
 __pycache__
 *.tar.gz
 individual_fasta

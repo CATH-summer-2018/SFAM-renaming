@@ -7,5 +7,8 @@ CATH_ID	OLD_NAME	NEW_NAME
 2.40.200.10	Telomere-binding Protein Beta Subunit; Chain	Telomere-binding protein beta subunit chain B
 2.30.110.10	Electron Transport, Fmn-binding Protein; Chain A	Electron Transport, FMN-binding protein, chain A
 2.30.30.300	class i lysyl-tRNA synthetase like	Class I lysyl-tRNA synthetase like
-2.30.250.10	Aminopeptidase i, Domain 2	Aminopeptidase I, Domain 2
+2.30.250.10	Aminopeptidase i, Domain 2	Aminopeptidase I, domain 2
 1.20.5.560	Single Heli x bin	Single helix bin
+1.10.1160.10	Glutamyl-trna Synthetase; Domain 2 	Glutamyl-tRNA synthetase, domain 2 
+3.30.980.10	Threonyl-trna Synthetase; Chain A, domain 2	Threonyl-tRNA synthetase, chain A, domain 2
+3.90.198.10	Replication Fork Single-Stranded Dna Binding Protein	Replication fork single-stranded DNA binding protein
