@@ -3,3 +3,6 @@
 __pycache__
 *.tar.gz
 individual_fasta
+*.odp
+*.ppt
+*.pptx

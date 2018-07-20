@@ -23,7 +23,8 @@ Has the easiest cases, which refer to the first part of the guidelines. Fixes er
 
 ![replace](./plots/replacement.png)
  ***
-#### [Flagged superamilies]('./results/flagged,tsv') (*work in progress*)
+#### [Flagged superamilies]('./results/flagged,tsv')
+
 Superfamilies that have something wrong with the name but are too complicated to fix automatically.
 
 * **P** - punctuation (currently underscore, plus and colon)

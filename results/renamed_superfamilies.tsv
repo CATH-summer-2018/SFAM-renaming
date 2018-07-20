@@ -760,7 +760,6 @@
 4.10.790.10	Pyruvate-ferredoxin Oxidoreductase; domain 7	SR	Pyruvate-ferredoxin oxidoreductase, domain 7
 4.10.810.10	Virus Scaffolding Protein; Chain A	SR	Virus scaffolding protein, chain A
 4.10.830.10	30s Ribosomal Protein S14; Chain N	SR	30s ribosomal protein S14, chain N
-4.10.860.20	Rabenosyn, Rab binding domain	R	Rabenosyn, rab binding domain
 4.10.870.10	Endo-1,4-beta-glucanase f.  Domain 3	NCR	Endo-1,4-beta-glucanase F, domain 3
 4.10.880.10	Poliovirus 3D polymerase  Domain 1 (Nucleotidyltransferase)	R	Poliovirus 3D polymerase domain 1 (nucleotidyltransferase)
 4.10.900.10	TCF3-CBD (Catenin binding domain)	R	TCF3-CBD (catenin binding domain)
@@ -772,7 +771,6 @@
 4.10.1180.10	tm1086 domain	L	Tm1086 domain
 4.10.1200.10	nitrate reductase tail	L	Nitrate reductase tail
 4.10.1250.10	Aminomethyltransferase  fragment	R	Aminomethyltransferase fragment
-4.10.1260.10	Scaffolding protein gpD of bacteriophage procapsid	R	Scaffolding protein gpd of bacteriophage procapsid
 4.10.1270.10	homoprotocatechuate 2,3-dioxygenase domains	L	Homoprotocatechuate 2,3-dioxygenase domains
 4.10.1310.10	Dinoflagellate luciferase repeat 	R	Dinoflagellate luciferase repeat
 4.10.1330.10	non globular Virulence effector SptP domain	LR	Non globular virulence effector SptP domain

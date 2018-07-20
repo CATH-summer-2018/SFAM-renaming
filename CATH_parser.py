@@ -148,7 +148,9 @@ def run_rename(df):
                 r'[Zz][Nn]\W',
                 r'[Mm][Uu]\W',
                 r'Fe\W',
-                r'Hint'
+                r'Hint',
+                r'gpD',
+                r'Rab'
                 ]
     acronRegex = re.compile('|'.join(skip_list))
     ret = pd.Series()
